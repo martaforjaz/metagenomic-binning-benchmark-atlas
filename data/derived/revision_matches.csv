@@ -1,0 +1,157 @@
+sheet,row,label,possible_dataset_ids,decision
+Table1,7,MGP1000,,historical_label_unresolved
+Table1,8,CAMI 1 High,,historical_label_unresolved
+Table1,9,CAMI 2 HiSeq (Toy),,historical_label_unresolved
+Table1,10,CAMI 2 Rhizosphere,,historical_label_unresolved
+Table1,11,CAMI 2 Marine,,historical_label_unresolved
+Table1,12,CAMI 2 Strain Madness,,historical_label_unresolved
+Table1,13,MetaHIT,ds-016,recovery_candidate_only
+Table1,14,Strainberry-Mock,ds-046,recovery_candidate_only
+Table1,15,NWC2,ds-045,recovery_candidate_only
+Table1,16,HSM,ds-047,recovery_candidate_only
+Table1,17,simHC+,ds-060,recovery_candidate_only
+Table1,18,CAMI UG,,historical_label_unresolved
+Table1,19,CAMI Skin,,historical_label_unresolved
+Table1,20,CAMI Oral,,historical_label_unresolved
+Table1,21,CAMI GI,,historical_label_unresolved
+Table1,22,CAMI Airways,,historical_label_unresolved
+Table1,23,Sharon,ds-001,recovery_candidate_only
+Table1,24,COPD,ds-035,recovery_candidate_only
+Table1,25,Deep HMP TD,ds-063,recovery_candidate_only
+Table1,26,MSA-1003,ds-048,recovery_candidate_only
+Table1,27,Zymo_D6331_STD,ds-049,recovery_candidate_only
+Table1,28,Zymo_D6331_LOW,ds-050,recovery_candidate_only
+Table1,29,Zymo_D6331_ULI,ds-051,recovery_candidate_only
+Table1,30,ZymoEVEN,ds-052,recovery_candidate_only
+Table1,31,Strong100,ds-036,recovery_candidate_only
+Table1,32,Hjor,ds-037,recovery_candidate_only
+Table1,33,Viby,ds-038,recovery_candidate_only
+Table1,34,DamH,ds-039,recovery_candidate_only
+Table1,35,Mari,ds-040,recovery_candidate_only
+Table1,36,AaIE,ds-041,recovery_candidate_only
+Table1,37,Hade,ds-042,recovery_candidate_only
+Table1,38,Soil,ds-043,recovery_candidate_only
+Table1,39,454,ds-053,recovery_candidate_only
+Table1,40,S1,ds-054,recovery_candidate_only
+Table1,41,S2,ds-055,recovery_candidate_only
+Table1,42,S3,ds-056,recovery_candidate_only
+Table1,43,S4,ds-057,recovery_candidate_only
+Table1,44,Sim-8,,historical_label_unresolved
+Table1,45,Sim-20,,historical_label_unresolved
+Table1,46,Sim-50,,historical_label_unresolved
+Table1,47,Sim-100,,historical_label_unresolved
+Table1,48,10Sp-Set1,,historical_label_unresolved
+Table1,49,10Sp-Set2,,historical_label_unresolved
+Table1,50,10Sp-Set3,,historical_label_unresolved
+Table1,51,20Sp-Set1,,historical_label_unresolved
+Table1,52,20Sp-Set2,,historical_label_unresolved
+Table1,53,20Sp-Set3,,historical_label_unresolved
+Table1,54,40Sp-Set1,,historical_label_unresolved
+Table1,55,simLC,ds-061,recovery_candidate_only
+Table1,56,simMC,ds-062,recovery_candidate_only
+Table1,57,simHC,ds-060,recovery_candidate_only
+Table1,58,Lanier.Illumina,,historical_label_unresolved
+Table1,59,D1,,historical_label_unresolved
+Table1,60,D2,,historical_label_unresolved
+Table1,61,D3,,historical_label_unresolved
+Table1,62,D4,,historical_label_unresolved
+Table2,6,Sharon,ds-001,recovery_candidate_only
+Table2,7,CAMI1 Low,ds-002,recovery_candidate_only
+Table2,8,CAMI1 Medium,ds-003,recovery_candidate_only
+Table2,9,CAMI1 High,ds-004,recovery_candidate_only
+Table2,10,IMG100,ds-044,recovery_candidate_only
+Table2,11,CAMI2 HiSeq (Toy),ds-005,recovery_candidate_only
+Table2,12,CAMI2 Airways,ds-006,recovery_candidate_only
+Table2,13,CAMI2 Gastrointestinal,ds-007,recovery_candidate_only
+Table2,14,CAMI2 Oral,ds-008,recovery_candidate_only
+Table2,15,CAMI2 Skin,ds-009,recovery_candidate_only
+Table2,16,CAMI2 Urogenital,ds-010,recovery_candidate_only
+Table2,17,Almeida,ds-015,recovery_candidate_only
+Table2,18,HMP2,,historical_label_unresolved
+Table2,19,MetaHIT,ds-016,recovery_candidate_only
+Table2,20,CAMI Mouse gut,ds-014,recovery_candidate_only
+Table2,21,STEC,ds-017,recovery_candidate_only
+Table2,22,Human gut,ds-018,recovery_candidate_only
+Table2,23,Dog gut,ds-019,recovery_candidate_only
+Table2,24,Ocean,ds-020,recovery_candidate_only
+Table2,25,Non-Westernized african human gut,ds-021,recovery_candidate_only
+Table2,26,German human gut,ds-022,recovery_candidate_only
+Table2,30,Legenda,,historical_label_unresolved
+Table2,31,Samples,,historical_label_unresolved
+Table2,32,Reads,,historical_label_unresolved
+Table2,33,Tool,,historical_label_unresolved
+Table2,34,Origin,,historical_label_unresolved
+Table2,35,Size,,historical_label_unresolved
+Table2,36,NCBI,,historical_label_unresolved
+Table2,37,ENA,,historical_label_unresolved
+Table2,38,Link,,historical_label_unresolved
+Table2,39,Sample type,,historical_label_unresolved
+Table2,40,References (1),,historical_label_unresolved
+Table2,41,References (2),,historical_label_unresolved
+Table2,42,N50,,historical_label_unresolved
+Table2,43,Assembly size,,historical_label_unresolved
+Table2,47,SemiBin:,,historical_label_unresolved
+Table2,48,MetaBinner:,,historical_label_unresolved
+Table2,49,STRONG:,,historical_label_unresolved
+Table2,50,Vamb,,historical_label_unresolved
+Table2,51,Aamb,,historical_label_unresolved
+Table2,52,MetaBat2,,historical_label_unresolved
+Table2,53,GraphBin,,historical_label_unresolved
+Table3,6,CAMI1 Low,ds-002,recovery_candidate_only
+Table3,7,CAMI1 Medium,ds-003,recovery_candidate_only
+Table3,8,CAMI1 High,ds-004,recovery_candidate_only
+Table3,9,CAMI2 HiSeq (Toy),ds-005,recovery_candidate_only
+Table3,10,CAMI2 Airways,ds-006,recovery_candidate_only
+Table3,11,CAMI2 Gastrointestinal,ds-007,recovery_candidate_only
+Table3,12,CAMI2 Oral,ds-008,recovery_candidate_only
+Table3,13,CAMI2 Skin,ds-009,recovery_candidate_only
+Table3,14,CAMI2 Urogenital,ds-010,recovery_candidate_only
+Table3,15,CAMI2 Marine,ds-011,recovery_candidate_only
+Table3,16,CAMI2 Strain Madness,ds-012,recovery_candidate_only
+Table3,17,CAMI 2 Rhinozosphere,ds-013,recovery_candidate_only
+Table3,18,CAMI Mouse gut,ds-014,recovery_candidate_only
+Table3,19,MetaHIT,ds-016,recovery_candidate_only
+Table3,20,STEC,ds-017,recovery_candidate_only
+Table3,21,Human gut,ds-018,recovery_candidate_only
+Table3,22,Dog gut,ds-019,recovery_candidate_only
+Table3,23,Ocean,ds-020,recovery_candidate_only
+Table3,24,Non-Westernized african human gut,ds-021,recovery_candidate_only
+Table3,25,German human gut,ds-022,recovery_candidate_only
+Table3,26,Sharon,ds-001,recovery_candidate_only
+Table3,27,COPD,ds-035,recovery_candidate_only
+Table3,28,Deep HMP TD,ds-063,recovery_candidate_only
+Table3,29,Strong100,ds-036,recovery_candidate_only
+Table3,30,Hjor,ds-037,recovery_candidate_only
+Table3,31,Viby,ds-038,recovery_candidate_only
+Table3,32,DamH,ds-039,recovery_candidate_only
+Table3,33,Mari,ds-040,recovery_candidate_only
+Table3,34,AaIE,ds-041,recovery_candidate_only
+Table3,35,Hade,ds-042,recovery_candidate_only
+Table3,36,Soil,ds-043,recovery_candidate_only
+Table3,37,MSA-1003,ds-048,recovery_candidate_only
+Table3,38,Zymo_D6331_STD,ds-049,recovery_candidate_only
+Table3,39,Zymo_D6331_LOW,ds-050,recovery_candidate_only
+Table3,40,Zymo_D6331_ULI,ds-051,recovery_candidate_only
+Table3,41,ZymoEVEN,ds-052,recovery_candidate_only
+Table3,42,454,ds-053,recovery_candidate_only
+Table3,43,S1,ds-054,recovery_candidate_only
+Table3,44,S2,ds-055,recovery_candidate_only
+Table3,45,S3,ds-056,recovery_candidate_only
+Table3,46,S4,ds-057,recovery_candidate_only
+Table3,47,NWC2,ds-045,recovery_candidate_only
+Table3,48,Strainberry-Mock,ds-046,recovery_candidate_only
+Table3,49,HSM,ds-047,recovery_candidate_only
+Table3,55,Legenda,,historical_label_unresolved
+Table3,56,Samples,,historical_label_unresolved
+Table3,57,Reads,,historical_label_unresolved
+Table3,58,Tool,,historical_label_unresolved
+Table3,59,Origin,,historical_label_unresolved
+Table3,60,Size,,historical_label_unresolved
+Table3,61,NCBI,,historical_label_unresolved
+Table3,62,ENA,,historical_label_unresolved
+Table3,63,Link,,historical_label_unresolved
+Table3,64,Sample type,,historical_label_unresolved
+Table3,65,References (1),,historical_label_unresolved
+Table3,66,References (2),,historical_label_unresolved
+Table3,67,N50,,historical_label_unresolved
+Table3,68,Assembly size,,historical_label_unresolved

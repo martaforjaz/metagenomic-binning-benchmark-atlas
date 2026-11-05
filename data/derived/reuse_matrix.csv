@@ -1,0 +1,26 @@
+family_id,GraphBin,MetaCoAG,Avamb,SemiBin preprint,MetaBAT 2,CCVAE,MetaBinner preprint,GraphMB,STRONG,Vamb,SolidBin,BMC3C
+fam-ab1-ovicells,0,0,0,0,0,0,0,0,0,0,0,0
+fam-almeida,0,0,1,0,0,0,0,0,0,0,0,0
+fam-amazon,0,0,0,0,0,0,0,0,0,0,0,1
+fam-cami-i,3,0,0,0,3,0,0,0,0,1,0,0
+fam-cami-ii,0,6,6,0,0,0,2,0,0,0,0,0
+fam-cami-mouse-gut,0,0,0,0,0,0,1,0,0,0,0,0
+fam-copd,0,0,0,0,0,0,0,0,0,0,0,1
+fam-danish-wwtp,0,0,0,0,0,6,0,6,0,0,0,0
+fam-deep-hmp-td,0,1,0,0,0,0,0,0,0,0,0,0
+fam-dog-gut,0,0,0,1,0,0,0,0,0,0,0,0
+fam-german-human-gut,0,0,0,1,0,0,0,0,0,0,0,0
+fam-hpm2,0,0,1,0,0,0,0,0,0,0,0,1
+fam-human-gut,0,0,0,1,0,0,0,0,0,0,0,0
+fam-img100,0,0,0,0,1,0,0,0,0,0,0,0
+fam-lake-lanier,0,0,0,0,0,0,0,0,0,0,0,0
+fam-metahit,0,0,1,0,0,0,0,0,0,1,1,0
+fam-metasim,0,0,0,0,0,0,0,0,0,0,1,0
+fam-non-westernized-african-human-gut,0,0,0,1,0,0,0,0,0,0,0,0
+fam-ocean,0,0,0,1,0,0,0,0,0,0,0,0
+fam-sharon,1,1,0,0,0,0,0,0,0,0,1,1
+fam-soil,0,0,0,0,0,0,0,1,0,0,0,0
+fam-speciesmock,0,0,0,0,0,0,0,0,0,0,1,1
+fam-stec,0,0,0,0,0,0,1,0,0,0,0,0
+fam-strainmock,0,0,0,0,0,0,0,0,0,0,1,1
+fam-strong100,0,0,0,0,0,1,0,0,0,0,0,0

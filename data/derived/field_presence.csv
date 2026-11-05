@@ -1,0 +1,17 @@
+field,nonempty_historical,denominator,percent_nonempty,meaning
+samples,50,63,79.37,Presence in historical workbook; NOT publication reporting quality
+platform,51,63,80.95,Presence in historical workbook; NOT publication reporting quality
+simulator,14,63,22.22,Presence in historical workbook; NOT publication reporting quality
+assembler,35,63,55.56,Presence in historical workbook; NOT publication reporting quality
+origin,63,63,100.0,Presence in historical workbook; NOT publication reporting quality
+size,33,63,52.38,Presence in historical workbook; NOT publication reporting quality
+read_length,25,63,39.68,Presence in historical workbook; NOT publication reporting quality
+environment,61,63,96.83,Presence in historical workbook; NOT publication reporting quality
+ncbi,39,63,61.9,Presence in historical workbook; NOT publication reporting quality
+ena,3,63,4.76,Presence in historical workbook; NOT publication reporting quality
+link_ref,30,63,47.62,Presence in historical workbook; NOT publication reporting quality
+original_ref,54,63,85.71,Presence in historical workbook; NOT publication reporting quality
+year,54,63,85.71,Presence in historical workbook; NOT publication reporting quality
+reuse_refs,43,63,68.25,Presence in historical workbook; NOT publication reporting quality
+n50,16,63,25.4,Presence in historical workbook; NOT publication reporting quality
+assembly_size,15,63,23.81,Presence in historical workbook; NOT publication reporting quality

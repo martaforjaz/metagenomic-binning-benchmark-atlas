@@ -1,0 +1,15 @@
+{
+  "registered_at": "2026-11-05",
+  "scope": "Re-evaluation of public official AMBER example outputs; no binners run",
+  "dataset": "CAMI I low-complexity gold-standard assembly, sample CAMI_low; exact input identified by checksums",
+  "upstream": "https://github.com/CAMI-challenge/AMBER",
+  "commit": "f8b3a601043d13fc4227d5691c13561eb4490e50",
+  "evaluator_version": "2.0.8",
+  "methods": ["CONCOCT (CAMI; exact binary version not established)", "MaxBin 2.0.2 (CAMI; upstream label)"],
+  "files": ["test/gsa_mapping.binning", "test/goofy_hypatia_2", "test/naughty_carson_2", "test/unique_common.tsv"],
+  "parameters": {"filter_percent": 1, "remove_keyword": "circular element", "minimum_length": 0, "minimum_completeness_percent": [50,70,90], "maximum_contamination_percent": [10,5]},
+  "metrics": ["Average purity (bp)", "Average completeness (bp)", "Percentage of binned bp", "Accuracy (bp)", "Adjusted Rand index (bp)"],
+  "limits": {"threads": 2, "timeout_seconds": 180, "maximum_input_bytes": 3000000},
+  "licensing": "Fetch only; AMBER repository GPL-3.0. Do not redistribute third-party input files in this atlas.",
+  "interpretation": "Official example/protocol demonstration on simulated CAMI data. Not a new biological benchmark, not current method performance, and not evidence of equivalent original binner settings."
+}

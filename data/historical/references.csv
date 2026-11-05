@@ -1,0 +1,108 @@
+reference_id,source_cell,text,url
+legacy-ref-01,F6,"Vijini Mallawaarachchi, Anuradha Wickramarachchi, Yu Lin. GraphBin: refined binning of metagenomic contigs using assembly graphs. Bioinformatics, 36(11), 3307-3313, 2020.",
+legacy-ref-01,F7,https://academic.oup.com/bioinformatics/article/36/11/3307/5804980,https://academic.oup.com/bioinformatics/article/36/11/3307/5804980
+legacy-ref-02,F10,"Vijini Mallawaarachchi and Yu Lin.Accurate Binning of Metagenomic Contigs Using Composition, Coverage, and Assembly Graphs.Journal of Computational Biology.Dec 2022.1357-1376.",
+legacy-ref-02,F11,https://www.liebertpub.com/doi/full/10.1089/cmb.2022.0262,https://www.liebertpub.com/doi/full/10.1089/cmb.2022.0262
+legacy-ref-03,F14,https://data.cami-challenge.org/participate,https://data.cami-challenge.org/participate
+legacy-ref-04,F17,"Meyer, F., Fritz, A., Deng, ZL. et al. Critical Assessment of Metagenome Interpretation: the second round of challenges. Nat Methods 19, 429–440 (2022). https://doi.org/10.1038/s41592-022-01431-4",
+legacy-ref-04,F18,https://doi.org/10.1038/s41592-022-01431-4,https://doi.org/10.1038/s41592-022-01431-4
+legacy-ref-05,F21,"Líndez, P.P., Johansen, J., Kutuzova, S. et al. Adversarial and variational autoencoders improve metagenomic binning. Commun Biol 6, 1073 (2023).",
+legacy-ref-05,F22,https://www.nature.com/articles/s42003-023-05452-3,https://www.nature.com/articles/s42003-023-05452-3
+legacy-ref-06,F25,https://portal.nersc.gov/dna/RD/Metagenome_RD/MetaBAT/Files/,https://portal.nersc.gov/dna/RD/Metagenome_RD/MetaBAT/Files/
+legacy-ref-07,F28,"Loman NJ, Constantinidou C, Christner M, Rohde H, Chan JZ, Quick J, Weir JC, Quince C, Smith GP, Betley JR, Aepfelbacher M, Pallen MJ. A culture-independent sequence-based metagenomics approach to the investigation of an outbreak of Shiga-toxigenic Escherichia coli O104:H4. JAMA. 2013 Apr 10;309(14):1502-10. doi:",
+legacy-ref-07,F29,https://pubmed.ncbi.nlm.nih.gov/23571589/,https://pubmed.ncbi.nlm.nih.gov/23571589/
+legacy-ref-08,F32,"Pan, S., Zhu, C., Zhao, X.-M., & Coelho, L. P. (2021). SemiBin: Incorporating information from reference genomes with semi-supervised deep learning leads to better metagenomic assembled genomes (MAGs). bioRxiv, 2021.08.16.456517.",
+legacy-ref-08,F33,https://www.biorxiv.org/content/10.1101/2021.08.16.456517v1.full,https://www.biorxiv.org/content/10.1101/2021.08.16.456517v1.full
+legacy-ref-09,F36,"J. Wirbel, P. T. Pyl, E. Kartal, K. Zych, A. Kashani, A. Milanese, J. S. Fleck, A. Y. Voigt, A. Palleja, R. Ponnudurai, et al. 583 Meta-analysis of fecal metagenomes reveals global microbial signatures that are specific for colorectal  cancer. Nature 584 medicine, 25(4):679–689, 2019.",
+legacy-ref-09,F37,https://pubmed.ncbi.nlm.nih.gov/30936547/,https://pubmed.ncbi.nlm.nih.gov/30936547/
+legacy-ref-10,F40,"L. P. Coelho, J. R. Kultima, P. I. Costea, C. Fournier, Y. Pan, G. Czarnecki-Maulden, M. R. Hayward, S. K. Forslund, T. S. B. 475 Schmidt, P. Descombes, et al. Similarity of the dog and human gut microbiomes in gene content and response to diet. 476 Microbiome, 6(1):1–11, 2018.",
+legacy-ref-10,F41,https://doi.org/10.1186/s40168-018-0450-3,https://doi.org/10.1186/s40168-018-0450-3
+legacy-ref-11,F44,"S. Sunagawa, L. P. Coelho, S. Chaffron, J. R. Kultima, K. Labadie, G. Salazar, B. Djahanschiri, G. Zeller, D. R. Mende, 574 A. Alberti, et al. Structure and function of the global ocean microbiome. Science, 348(6237), 2015.",
+legacy-ref-11,F45,https://pubmed.ncbi.nlm.nih.gov/25999513/,https://pubmed.ncbi.nlm.nih.gov/25999513/
+legacy-ref-12,F48,"E. Pasolli, F. Asnicar, S. Manara, M. Zolfo, N. Karcher, F. Armanini, F. Beghini, P. Manghi, A. Tett, P. Ghensi, et al. Extensive 546 unexplored human microbiome diversity revealed by over 150,000 genomes from metagenomes spanning age, geography, 547 and lifestyle. Cell, 176(3):649–662, 2019.",
+legacy-ref-12,F49,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6349461/,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6349461/
+legacy-ref-13,F52,"S. Louis, R.-M. Tappu, A. Damms-Machado, D. H. Huson, and S. C. Bischoff. Characterization of the gut microbial commu496 nity of obese patients following a weight-loss intervention using whole metagenome shotgun sequencing. PLoS One, 11(2): 497 e0149564, 2016.",
+legacy-ref-13,F53,https://pubmed.ncbi.nlm.nih.gov/26919743/,https://pubmed.ncbi.nlm.nih.gov/26919743/
+legacy-ref-14,F56,"Qin, J., Li, R., Raes, J. et al. A human gut microbial gene catalogue established by metagenomic sequencing. Nature 464, 59–65 (2010).",
+legacy-ref-14,F57,https://doi.org/10.1038/nature08821,https://doi.org/10.1038/nature08821
+legacy-ref-15,F60,"Kang DD, Li F, Kirton E, Thomas A, Egan R, An H, Wang Z. MetaBAT 2: an adaptive binning algorithm for robust and efficient genome reconstruction from metagenome assemblies. PeerJ. 2019 Jul 26;7:e7359. doi: 10.7717/peerj.7359. PMID: 31388474; PMCID: PMC6662567.",
+legacy-ref-15,F61,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6662567/,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6662567/
+legacy-ref-16,F64,"Andre Lamurias, Alessandro Tibo, Katja Hose, Mads Albertsen, Thomas Dyhre Nielsen. Proceedings of the 40th International Conference on Machine Learning, PMLR 202:18471-18481, 2023.",
+legacy-ref-16,F65,Metagenomic Binning using Connectivity-constrained Variational Autoencoders (mlr.press),https://proceedings.mlr.press/v202/lamurias23a.html
+legacy-ref-17,F68,"Wang, Z., Huang, P., You, R., Sun, F., & Zhu, S. (2021). MetaBinner: a high-performance and stand-alone ensemble binning method to recover individual genomes from complex microbial communities. bioRxiv, 2021.07.25.453671.",
+legacy-ref-17,F69,https://www.biorxiv.org/content/10.1101/2021.07.25.453671v1,https://www.biorxiv.org/content/10.1101/2021.07.25.453671v1
+legacy-ref-18,F72,"Cameron , S.J.S., Lewis , K.E., Huws , S.A., et al. 2016. Metagenomic sequencing of the chronic obstructive pulmonary disease upper bronchial tract microbiome reveals functional changes associated with disease severity. PLoS One. 11, 1–16. Crossref",
+legacy-ref-18,F73,Metagenomic Sequencing of the Chronic Obstructive Pulmonary Disease Upper Bronchial Tract Microbiome Reveals Functional Changes Associated with Disease Severity - PubMed (nih.gov),https://pubmed.ncbi.nlm.nih.gov/26872143/
+legacy-ref-19,F76,"Lloyd-Price , J., Mahurkar , A., Rahnavard , G., et al. 2017. Strains, functions and dynamics in the expanded Human Microbiome Project. Nature. 550, 61–66. Crossref, Medline, Google Scholar",
+legacy-ref-19,F77,"Strains, functions and dynamics in the expanded Human Microbiome Project - PubMed (nih.gov)",https://pubmed.ncbi.nlm.nih.gov/28953883/
+legacy-ref-20,F80,"Wickramarachchi, A., Lin, Y. Binning long reads in metagenomics datasets using composition and coverage information. Algorithms Mol Biol 17, 14 (2022).",
+legacy-ref-20,F81,Binning long reads in metagenomics datasets using composition and coverage information | Algorithms for Molecular Biology (springer.com),https://link.springer.com/article/10.1186/s13015-022-00221-z
+legacy-ref-21,F84,https://zenodo.org/records/6122610/files/strong100.zip?download=1,https://zenodo.org/records/6122610/files/strong100.zip?download=1
+legacy-ref-22,F87,https://zenodo.org/records/6122610/files/hjor.zip?download=1,https://zenodo.org/records/6122610/files/hjor.zip?download=1
+legacy-ref-23,F90,https://zenodo.org/records/6122610/files/viby.zip?download=1,https://zenodo.org/records/6122610/files/viby.zip?download=1
+legacy-ref-24,F93,https://zenodo.org/records/6122610/files/damh.zip?download=1,https://zenodo.org/records/6122610/files/damh.zip?download=1
+legacy-ref-25,F96,https://zenodo.org/records/6122610/files/mari.zip?download=1,https://zenodo.org/records/6122610/files/mari.zip?download=1
+legacy-ref-26,F99,https://zenodo.org/records/6122610/files/aale.zip?download=1,https://zenodo.org/records/6122610/files/aale.zip?download=1
+legacy-ref-27,F102,https://zenodo.org/records/6122610/files/hade.zip?download=1,https://zenodo.org/records/6122610/files/hade.zip?download=1
+legacy-ref-28,F105,https://zenodo.org/records/6122610/files/soil.zip?download=1,https://zenodo.org/records/6122610/files/soil.zip?download=1
+legacy-ref-29,F108,"Andre Lamurias, Mantas Sereika, Mads Albertsen, Katja Hose, Thomas Dyhre Nielsen, Metagenomic binning with assembly graph embeddings, Bioinformatics, Volume 38, Issue 19, October 2022, Pages 4481–4487",
+legacy-ref-29,F109,https://doi.org/10.1093/bioinformatics/btac557,https://doi.org/10.1093/bioinformatics/btac557
+legacy-ref-30,F112,"Oh, S., Caro-Quintero, A., Tsementzi, D., DeLeon-Rodriguez, N., Luo, C., Poretsky, R., & Konstantinidis, K. T. (2011). Metagenomic insights into the evolution, function, and complexity of the planktonic microbial community of Lake Lanier, a temperate freshwater ecosystem. Applied and Environmental Microbiology, 77(17), doi:",
+legacy-ref-30,F113,"Metagenomic Insights into the Evolution, Function, and Complexity of the Planktonic Microbial Community of Lake Lanier, a Temperate Freshwater Ecosystem | Applied and Environmental Microbiology (asm.org)",https://journals.asm.org/doi/10.1128/aem.00107-11
+legacy-ref-31,F116,https://zenodo.org/records/4293889,https://zenodo.org/records/4293889
+legacy-ref-32,F119,"Vicedomini, R., Quince, C., Darling, A. E., & Chikhi, R. (2021). Automated strain separation in low-complexity metagenomes using long reads. bioRxiv, 2021.02.24.429166.",
+legacy-ref-32,F120,https://doi.org/10.1101/2021.02.24.429166,https://doi.org/10.1101/2021.02.24.429166
+legacy-ref-33,F123,"Sharon   I.  et al.  (2013) Time series community genomics analysis reveals rapid shifts in bacterial species, strains, and phage during infant gut colonization. Genome Res., 23, 111–120.",
+legacy-ref-33,F124,https://genome.cshlp.org/content/23/1/111.short,https://genome.cshlp.org/content/23/1/111.short
+legacy-ref-34,F127,"Imelfort M, Parks D, Woodcroft BJ, Dennis P, Hugenholtz P, Tyson GW. GroopM: an automated tool for the recovery of population genomes from related metagenomes. PeerJ. 2014 Sep 30;2:e603. doi: 10.7717/peerj.603. PMID: 25289188; PMCID: PMC4183954.",
+legacy-ref-34,F128,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4183954/,https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4183954/
+legacy-ref-35,F131,"Yang Young Lu, Ting Chen, Jed A Fuhrman, Fengzhu Sun, COCACOLA: binning metagenomic contigs using sequence COmposition, read CoverAge, CO-alignment and paired-end read LinkAge, Bioinformatics, Volume 33, Issue 6, March 2017, Pages 791–798,",
+legacy-ref-35,F132,https://academic.oup.com/bioinformatics/article/33/6/791/2525584?login=false,https://academic.oup.com/bioinformatics/article/33/6/791/2525584?login=false
+legacy-ref-36,F135,"Meyer F, Lesker TR, Koslicki D, Fritz A, Gurevich A, Darling AE, Sczyrba A, Bremges A, McHardy AC. Tutorial: assessing metagenomics software with the CAMI benchmarking toolkit. Nat Protoc. 2021 Apr;16(4):1785-1801. doi: 10.1038/s41596-020-00480-3. Epub 2021 Mar 1. PMID: 33649565.",
+legacy-ref-36,F136,Tutorial: assessing metagenomics software with the CAMI benchmarking toolkit - PubMed (nih.gov),https://pubmed.ncbi.nlm.nih.gov/33649565/
+legacy-ref-37,F139,"Quince, C., Nurk, S., Raguideau, S. et al. STRONG: metagenomics strain resolution on assembly graphs. Genome Biol 22, 214 (2021).",
+legacy-ref-37,F140,https://doi.org/10.1186/s13059-021-02419-7,https://doi.org/10.1186/s13059-021-02419-7
+legacy-ref-38,F143,"Sieber, C.M.K., Probst, A.J., Sharrar, A. et al. Recovery of genomes from metagenomes via a dereplication, aggregation and scoring strategy. Nat Microbiol 3, 836–843 (2018).",
+legacy-ref-38,F144,https://doi.org/10.1038/s41564-018-0171-1,https://doi.org/10.1038/s41564-018-0171-1
+legacy-ref-39,F147,"Victor M. Markowitz, I-Min A. Chen, Krishna Palaniappan, Ken Chu, Ernest Szeto, Manoj Pillay, Anna Ratner, Jinghua Huang, Tanja Woyke, Marcel Huntemann, Iain Anderson, Konstantinos Billis, Neha Varghese, Konstantinos Mavromatis, Amrita Pati, Natalia N. Ivanova, Nikos C. Kyrpides, IMG 4 version of the integrated microbial genomes comparative analysis system, Nucleic Acids Research, Volume 42, Issue D1, 1 January 2014, Pages D560–D567",
+legacy-ref-39,F148,https://doi.org/10.1093/nar/gkt963,https://doi.org/10.1093/nar/gkt963
+legacy-ref-40,F151,JGI IMG Integrated Microbial Genomes & Microbiomes (doe.gov),https://img.jgi.doe.gov/index.html
+legacy-ref-40,F152,https://img.jgi.doe.gov/cgi-bin/m/main.cgi,https://img.jgi.doe.gov/cgi-bin/m/main.cgi
+legacy-ref-41,F154,"Nissen, J.N., Johansen, J., Allesøe, R.L. et al. Improved metagenome binning and assembly using deep variational autoencoders. Nat Biotechnol 39, 555–560 (2021).",
+legacy-ref-41,F155,https://doi.org/10.1038/s41587-020-00777-4,https://doi.org/10.1038/s41587-020-00777-4
+legacy-ref-42,F158,"Kang DD, Froula J, Egan R, Wang Z. MetaBAT, an efficient tool for accurately reconstructing single genomes from complex microbial communities. PeerJ. 2015 Aug 27;3:e1165. doi: 10.7717/peerj.1165. PMID: 26336640; PMCID: PMC4556158.",
+legacy-ref-42,F159,"MetaBAT, an efficient tool for accurately reconstructing single genomes from complex microbial communities - PMC (nih.gov)",https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4556158/
+legacy-ref-43,F162,"Ziye Wang, Zhengyang Wang, Yang Young Lu, Fengzhu Sun, Shanfeng Zhu, SolidBin: improving metagenome binning with semi-supervised normalized cut, Bioinformatics, Volume 35, Issue 21, November 2019, Pages 4229–4238",
+legacy-ref-43,F163,https://doi.org/10.1093/bioinformatics/btz253,https://doi.org/10.1093/bioinformatics/btz253
+legacy-ref-44,F166,"Alneberg, J., Bjarnason, B., de Bruijn, I. et al. Binning metagenomic contigs by coverage and composition. Nat Methods 11, 1144–1146 (2014).",
+legacy-ref-44,F167,https://doi.org/10.1038/nmeth.3103,https://doi.org/10.1038/nmeth.3103
+legacy-ref-45,F170,"Wu, YW., Tang, YH., Tringe, S.G. et al. MaxBin: an automated binning method to recover individual genomes from metagenomes using an expectation-maximization algorithm. Microbiome 2, 26 (2014).",
+legacy-ref-45,F171,https://doi.org/10.1186/2049-2618-2-26,https://doi.org/10.1186/2049-2618-2-26
+legacy-ref-46,F174,"Graham ED, Heidelberg JF, Tully BJ. BinSanity: unsupervised clustering of environmental microbial assemblies using coverage and affinity propagation. PeerJ. 2017 Mar 8;5:e3035. doi: 10.7717/peerj.3035. PMID: 28289564; PMCID: PMC5345454.",
+legacy-ref-46,F175,https://pubmed.ncbi.nlm.nih.gov/28289564/,https://pubmed.ncbi.nlm.nih.gov/28289564/
+legacy-ref-47,F178,"Ian J Miller, Evan R Rees, Jennifer Ross, Izaak Miller, Jared Baxa, Juan Lopera, Robert L Kerby, Federico E Rey, Jason C Kwan, Autometa: automated extraction of microbial genomes from individual shotgun metagenomes, Nucleic Acids Research, Volume 47, Issue 10, 04 June 2019, Page e57,",
+legacy-ref-47,F179,https://doi.org/10.1093/nar/gkz148,https://doi.org/10.1093/nar/gkz148
+legacy-ref-48,F182,"Miller, I., Weyna, T., Fong, S. et al. Single sample resolution of rare microbial dark matter in a marine invertebrate metagenome. Sci Rep 6, 34362 (2016).",
+legacy-ref-48,F183,https://www.nature.com/articles/srep34362,https://www.nature.com/articles/srep34362
+legacy-ref-49,F186,"Guoxian Yu, Yuan Jiang, Jun Wang, Hao Zhang, Haiwei Luo, BMC3C: binning metagenomic contigs using codon usage, sequence composition and read coverage, Bioinformatics, Volume 34, Issue 24, December 2018, Pages 4172–4179",
+legacy-ref-49,F187,https://doi.org/10.1093/bioinformatics/bty519,https://doi.org/10.1093/bioinformatics/bty519
+legacy-ref-50,F190,"Human Microbiome Project Consortium. Structure, function and diversity of the healthy human microbiome. Nature. 2012 Jun 13;486(7402):207-14. doi: 10.1038/nature11234. PMID: 22699609; PMCID: PMC3564958.",
+legacy-ref-50,F191,https://pubmed.ncbi.nlm.nih.gov/22699609/,https://pubmed.ncbi.nlm.nih.gov/22699609/
+legacy-ref-51,F194,"Charuvaka, A., Rangwala, H. Evaluation of short read metagenomic assembly. BMC Genomics 12 (Suppl 2), S8 (2011).",
+legacy-ref-51,F195,https://doi.org/10.1186/1471-2164-12-S2-S8,https://doi.org/10.1186/1471-2164-12-S2-S8
+legacy-ref-52,F198,"Satinsky, B.M., Zielinski, B.L., Doherty, M. et al. The Amazon continuum dataset: quantitative metagenomic and metatranscriptomic inventories of the Amazon River plume, June 2010. Microbiome 2, 17 (2014).",
+legacy-ref-52,F199,https://doi.org/10.1186/2049-2618-2-17,https://doi.org/10.1186/2049-2618-2-17
+legacy-ref-53,F202,"Sczyrba, A., Hofmann, P., Belmann, P. et al. Critical Assessment of Metagenome Interpretation—a benchmark of metagenomics software. Nat Methods 14, 1063–1071 (2017).",
+legacy-ref-53,F203,https://doi.org/10.1038/nmeth.4458,https://doi.org/10.1038/nmeth.4458
+legacy-ref-54,F206,"Alneberg, J., Bjarnason, B., de Bruijn, I. et al. Binning metagenomic contigs by coverage and composition. Nat Methods 11, 1144–1146 (2014).",
+legacy-ref-54,F207,https://doi.org/10.1038/nmeth.3103,https://doi.org/10.1038/nmeth.3103
+legacy-ref-55,F210,"Almeida, A., Mitchell, A.L., Boland, M. et al. A new genomic blueprint of the human gut microbiota. Nature 568, 499–504 (2019).",
+legacy-ref-55,F211,https://doi.org/10.1038/s41586-019-0965-1,https://doi.org/10.1038/s41586-019-0965-1
+legacy-ref-56,F214,"Andre Lamurias, Mantas Sereika, Mads Albertsen, Katja Hose, Thomas Dyhre Nielsen, Metagenomic binning with assembly graph embeddings, Bioinformatics, Volume 38, Issue 19, October 2022, Pages 4481–4487",
+legacy-ref-56,F215,https://doi.org/10.1093/bioinformatics/btac557,https://doi.org/10.1093/bioinformatics/btac557
+legacy-ref-57,F218,"Singleton, C.M., Petriglieri, F., Kristensen, J.M. et al. Connecting structure to function with the recovery of over 1000 high-quality metagenome-assembled genomes from activated sludge using long-read sequencing. Nat Commun 12, 2009 (2021).",
+legacy-ref-57,F219,https://doi.org/10.1038/s41467-021-22203-2,https://doi.org/10.1038/s41467-021-22203-2
+legacy-ref-58,F222,"Brunbjerg, A.K., Bruun, H.H., Brøndum, L. et al. A systematic survey of regional multi-taxon biodiversity: evaluating strategies and coverage. BMC Ecol 19, 43 (2019).",
+legacy-ref-58,F223,https://doi.org/10.1186/s12898-019-0260-x,https://doi.org/10.1186/s12898-019-0260-x
+legacy-ref-59,F226,"Samuel M Nicholls, Joshua C Quick, Shuiquan Tang, Nicholas J Loman, Ultra-deep, long-read nanopore sequencing of mock microbial community standards, GigaScience, Volume 8, Issue 5, May 2019, giz043,",
+legacy-ref-59,F227,"Ultra-deep, long-read nanopore sequencing of mock microbial community standards | GigaScience | Oxford Academic (oup.com)",https://academic.oup.com/gigascience/article/8/5/giz043/5486468?login=false

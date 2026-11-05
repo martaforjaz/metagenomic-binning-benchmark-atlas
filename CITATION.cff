@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite this resource together with the relevant original studies and AMBER."
+title: "Metagenomic Binning Benchmark Atlas"
+authors:
+  - family-names: Forjaz
+    given-names: Marta
+type: software
+version: 2026.11.05
+date-released: 2026-11-05
+repository-code: "https://github.com/martaforjaz/metagenomic-binning-benchmark-atlas"
+url: "https://github.com/martaforjaz/metagenomic-binning-benchmark-atlas"
+license: MIT
+abstract: "Provenance-aware curation of historical metagenomic binning dataset metadata and a reproducible AMBER official-example re-evaluation; bounded repository-assisted scoping review."

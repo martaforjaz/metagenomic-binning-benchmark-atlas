@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-05",
+  "records": 63,
+  "families": 33,
+  "claims": 1008,
+  "audit_flags": 82,
+  "reported_reuse_edges": 81,
+  "article_citations": 13,
+  "primary_repository_sources": 11,
+  "ground_truth_not_extracted": 63,
+  "origin_counts": {
+    "real": 34,
+    "simulated": 23,
+    "contradictory": 5,
+    "semi": 1
+  }
+}

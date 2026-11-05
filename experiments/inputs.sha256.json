@@ -1,0 +1,22 @@
+[
+  {
+    "path": "test/gsa_mapping.binning",
+    "sha256": "73bd454d2bdac2f91c70b119200f45bc4d175d383e73a094465d1a04a8e0f02d",
+    "bytes": 519063
+  },
+  {
+    "path": "test/goofy_hypatia_2",
+    "sha256": "0366f2708cfc0632eb85619246c74fdab4d5b0d8160b456193be0f898f42eefc",
+    "bytes": 127471
+  },
+  {
+    "path": "test/naughty_carson_2",
+    "sha256": "93bf7feceab58c744f6904a8cbdd374306a2a67f4f979b03d06db6f9bcbd9e8e",
+    "bytes": 166963
+  },
+  {
+    "path": "test/unique_common.tsv",
+    "sha256": "c34e05f1f831e7c1d616ad426ebfa1d81e3a6b3264ba82572fb0e0073637d871",
+    "bytes": 34947
+  }
+]

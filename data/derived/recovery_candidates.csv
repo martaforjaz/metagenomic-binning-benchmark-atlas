@@ -1,0 +1,133 @@
+dataset_id,field,earlier_value,canonical_value,source,decision,status
+ds-016,origin,Semi,Real,workbook:Table1:F13,conflicting_revision_assertion,historical_unverified
+ds-016,size,402.2 Gbp,540,workbook:Table1:G13,conflicting_revision_assertion,historical_unverified
+ds-045,size,2 Mbp,164Mbp,workbook:Table1:G15,conflicting_revision_assertion,historical_unverified
+ds-047,size,164 Mbp,164Mbp,workbook:Table1:G16,conflicting_revision_assertion,historical_unverified
+ds-060,platform,InSilicoSeq (MiSeq),Solexa,workbook:Table1:D17,conflicting_revision_assertion,historical_unverified
+ds-060,size,314.23Mbp,,workbook:Table1:G17,recoverable_missing_assertion,historical_unverified
+ds-060,environment,Simulated dataset with 100 bacterial species,Simulate low-complexity communities,workbook:Table1:H17,conflicting_revision_assertion,historical_unverified
+ds-060,n50,154.030,,workbook:Table1:L17,recoverable_missing_assertion,historical_unverified
+ds-001,size,45.06Mbp,24.5,workbook:Table1:G23,conflicting_revision_assertion,historical_unverified
+ds-035,samples,18,8,workbook:Table1:C24,conflicting_revision_assertion,historical_unverified
+ds-035,size,343.53Mbp,,workbook:Table1:G24,recoverable_missing_assertion,historical_unverified
+ds-035,environment,Metagenomics of the COPD Lung Microbiome,Chronic Obstructive Pulmonary Disease,workbook:Table1:H24,conflicting_revision_assertion,historical_unverified
+ds-035,n50,1042,,workbook:Table1:L24,recoverable_missing_assertion,historical_unverified
+ds-048,size,19Gb,19,workbook:Table1:G26,conflicting_revision_assertion,historical_unverified
+ds-049,size,17Gb,17,workbook:Table1:G27,conflicting_revision_assertion,historical_unverified
+ds-050,size,25Gb,25,workbook:Table1:G28,conflicting_revision_assertion,historical_unverified
+ds-051,size,20Gb,20,workbook:Table1:G29,conflicting_revision_assertion,historical_unverified
+ds-052,platform,Ilumina,Illumina HiSeq 1500,workbook:Table1:D30,conflicting_revision_assertion,historical_unverified
+ds-036,platform,Oxford Nanopore Technologies (ONT),Ilumina and Nanopore,workbook:Table1:D31,conflicting_revision_assertion,historical_unverified
+ds-036,size,7.5Gbp,7.5,workbook:Table1:G31,conflicting_revision_assertion,historical_unverified
+ds-036,environment,Wastewater Treatment Plant sample (WWTP),From 100 strains corresponding to 50 species,workbook:Table1:H31,conflicting_revision_assertion,historical_unverified
+ds-036,assembly_size,0.17,0.17 Gbp,workbook:Table1:M31,conflicting_revision_assertion,historical_unverified
+ds-037,platform,ONT,Ilumina and Nanopore,workbook:Table1:D32,conflicting_revision_assertion,historical_unverified
+ds-037,origin,Simulated,Real,workbook:Table1:F32,conflicting_revision_assertion,historical_unverified
+ds-037,size,16.0Gbp,16.0,workbook:Table1:G32,conflicting_revision_assertion,historical_unverified
+ds-038,platform,ONT,Ilumina and Nanopore,workbook:Table1:D33,conflicting_revision_assertion,historical_unverified
+ds-038,origin,Simulated,Real,workbook:Table1:F33,conflicting_revision_assertion,historical_unverified
+ds-038,size,17.2Gbp,17.2,workbook:Table1:G33,conflicting_revision_assertion,historical_unverified
+ds-039,platform,ONT,Ilumina and Nanopore,workbook:Table1:D34,conflicting_revision_assertion,historical_unverified
+ds-039,origin,Simulated,Real,workbook:Table1:F34,conflicting_revision_assertion,historical_unverified
+ds-039,size,26.7Gbp,26.7,workbook:Table1:G34,conflicting_revision_assertion,historical_unverified
+ds-040,platform,ONT,Ilumina and Nanopore,workbook:Table1:D35,conflicting_revision_assertion,historical_unverified
+ds-040,origin,Simulated,Real,workbook:Table1:F35,conflicting_revision_assertion,historical_unverified
+ds-040,size,23.3Gbp,23.3,workbook:Table1:G35,conflicting_revision_assertion,historical_unverified
+ds-041,platform,ONT,Ilumina and Nanopore,workbook:Table1:D36,conflicting_revision_assertion,historical_unverified
+ds-041,origin,Simulated,Real,workbook:Table1:F36,conflicting_revision_assertion,historical_unverified
+ds-041,size,27.7Gbp,27.7,workbook:Table1:G36,conflicting_revision_assertion,historical_unverified
+ds-042,platform,ONT,Ilumina and Nanopore,workbook:Table1:D37,conflicting_revision_assertion,historical_unverified
+ds-042,origin,Simulated,Real,workbook:Table1:F37,conflicting_revision_assertion,historical_unverified
+ds-042,size,45.2Gbp,45.2,workbook:Table1:G37,conflicting_revision_assertion,historical_unverified
+ds-043,platform,ONT,Ilumina and Nanopore,workbook:Table1:D38,conflicting_revision_assertion,historical_unverified
+ds-043,origin,Simulated,Real,workbook:Table1:F38,conflicting_revision_assertion,historical_unverified
+ds-043,size,115.0Gbp,115.0,workbook:Table1:G38,conflicting_revision_assertion,historical_unverified
+ds-053,environment,From a freshwater planktonic community sample *4,From a freshwater,workbook:Table1:H39,conflicting_revision_assertion,historical_unverified
+ds-054,environment,From a freshwater planktonic community sample,From a freshwater,workbook:Table1:H40,conflicting_revision_assertion,historical_unverified
+ds-055,environment,From a freshwater planktonic community sample,From a freshwater,workbook:Table1:H41,conflicting_revision_assertion,historical_unverified
+ds-056,environment,From a freshwater planktonic community sample,From a freshwater,workbook:Table1:H42,conflicting_revision_assertion,historical_unverified
+ds-057,environment,From a freshwater planktonic community sample,From a freshwater,workbook:Table1:H43,conflicting_revision_assertion,historical_unverified
+ds-061,size,36 bp,,workbook:Table1:G55,recoverable_missing_assertion,historical_unverified
+ds-061,environment,Simulate low-complexity communities *1,Simulate moderately complex communities,workbook:Table1:H55,conflicting_revision_assertion,historical_unverified
+ds-062,size,36 bp,,workbook:Table1:G56,recoverable_missing_assertion,historical_unverified
+ds-062,environment,Simulate moderately complex communities *2,Simulate high-complexity communities,workbook:Table1:H56,conflicting_revision_assertion,historical_unverified
+ds-060,size,? Read lenght,,workbook:Table1:G57,recoverable_missing_assertion,historical_unverified
+ds-060,environment,Simulate high-complexity communities *3,Simulate low-complexity communities,workbook:Table1:H57,conflicting_revision_assertion,historical_unverified
+ds-004,size,75 Gbp,75,workbook:Table2:G9,conflicting_revision_assertion,historical_unverified
+ds-005,size,2x245 Gbp,2x245,workbook:Table2:G11,conflicting_revision_assertion,historical_unverified
+ds-016,origin,Semi,Real,workbook:Table2:F19,conflicting_revision_assertion,historical_unverified
+ds-016,size,402.2 Gbp,540,workbook:Table2:G19,conflicting_revision_assertion,historical_unverified
+ds-016,ncbi,PRJEB28245,ERP000108,workbook:Table2:I19,conflicting_revision_assertion,historical_unverified
+ds-018,size,150bp,407,workbook:Table2:G22,conflicting_revision_assertion,historical_unverified
+ds-019,size,150bp,1900,workbook:Table2:G23,conflicting_revision_assertion,historical_unverified
+ds-020,size,150bp,,workbook:Table2:G24,recoverable_missing_assertion,historical_unverified
+ds-021,size,150bp,,workbook:Table2:G25,recoverable_missing_assertion,historical_unverified
+ds-022,size,150bp,,workbook:Table2:G26,recoverable_missing_assertion,historical_unverified
+ds-004,size,75 Gbp,75,workbook:Table3:G8,conflicting_revision_assertion,historical_unverified
+ds-005,size,2x245 Gbp,2x245,workbook:Table3:G9,conflicting_revision_assertion,historical_unverified
+ds-005,environment,Toy Human Microbiome,,workbook:Table3:H9,recoverable_missing_assertion,historical_unverified
+ds-006,size,664.49Mbp,,workbook:Table3:G10,recoverable_missing_assertion,historical_unverified
+ds-006,n50,1506,,workbook:Table3:O10,recoverable_missing_assertion,historical_unverified
+ds-007,size,507.09Mbp,,workbook:Table3:G11,recoverable_missing_assertion,historical_unverified
+ds-007,n50,9313,,workbook:Table3:O11,recoverable_missing_assertion,historical_unverified
+ds-008,size,517.35Mbp,,workbook:Table3:G12,recoverable_missing_assertion,historical_unverified
+ds-008,n50,2405,,workbook:Table3:O12,recoverable_missing_assertion,historical_unverified
+ds-009,size,639.91Mbp,,workbook:Table3:G13,recoverable_missing_assertion,historical_unverified
+ds-009,n50,1965,,workbook:Table3:O13,recoverable_missing_assertion,historical_unverified
+ds-010,size,336.69Mbp,,workbook:Table3:G14,recoverable_missing_assertion,historical_unverified
+ds-010,n50,8081,,workbook:Table3:O14,recoverable_missing_assertion,historical_unverified
+ds-011,size,3x105Gbp,3x105,workbook:Table3:G15,conflicting_revision_assertion,historical_unverified
+ds-012,size,3x105Gbp,3x105,workbook:Table3:G16,conflicting_revision_assertion,historical_unverified
+ds-013,size,3x105Gbp,3x105,workbook:Table3:G17,conflicting_revision_assertion,historical_unverified
+ds-016,origin,Semi,Real,workbook:Table3:F19,conflicting_revision_assertion,historical_unverified
+ds-016,size,402.2 Gbp,540,workbook:Table3:G19,conflicting_revision_assertion,historical_unverified
+ds-016,environment,Metagenomics of the Human Intestinal Tract,Microbial genes from the human intestinal tract,workbook:Table3:H19,conflicting_revision_assertion,historical_unverified
+ds-016,ncbi,PRJEB28245,ERP000108,workbook:Table3:I19,conflicting_revision_assertion,historical_unverified
+ds-018,size,150bp,407,workbook:Table3:G21,conflicting_revision_assertion,historical_unverified
+ds-019,size,150bp,1900,workbook:Table3:G22,conflicting_revision_assertion,historical_unverified
+ds-020,size,150bp,,workbook:Table3:G23,recoverable_missing_assertion,historical_unverified
+ds-021,size,150bp,,workbook:Table3:G24,recoverable_missing_assertion,historical_unverified
+ds-022,size,150bp,,workbook:Table3:G25,recoverable_missing_assertion,historical_unverified
+ds-001,origin,?,Real,workbook:Table3:F26,conflicting_revision_assertion,historical_unverified
+ds-035,samples,18,8,workbook:Table3:C27,conflicting_revision_assertion,historical_unverified
+ds-035,size,343.53Mbp,,workbook:Table3:G27,recoverable_missing_assertion,historical_unverified
+ds-035,environment,Metagenomics of the COPD Lung Microbiome,Chronic Obstructive Pulmonary Disease,workbook:Table3:H27,conflicting_revision_assertion,historical_unverified
+ds-035,ncbi,PRJEB9034,/,workbook:Table3:I27,recoverable_missing_assertion,historical_unverified
+ds-035,n50,1042,,workbook:Table3:O27,recoverable_missing_assertion,historical_unverified
+ds-036,platform,Oxford Nanopore Technologies (ONT),Ilumina and Nanopore,workbook:Table3:D29,conflicting_revision_assertion,historical_unverified
+ds-036,size,7.5Gbp,7.5,workbook:Table3:G29,conflicting_revision_assertion,historical_unverified
+ds-036,environment,Wastewater Treatment Plant sample (WWTP),From 100 strains corresponding to 50 species,workbook:Table3:H29,conflicting_revision_assertion,historical_unverified
+ds-036,assembly_size,0.17Gbp,0.17 Gbp,workbook:Table3:P29,conflicting_revision_assertion,historical_unverified
+ds-037,platform,ONT,Ilumina and Nanopore,workbook:Table3:D30,conflicting_revision_assertion,historical_unverified
+ds-037,origin,Simulated,Real,workbook:Table3:F30,conflicting_revision_assertion,historical_unverified
+ds-037,size,16.0Gbp,16.0,workbook:Table3:G30,conflicting_revision_assertion,historical_unverified
+ds-037,assembly_size,0.86Gbp,0.86,workbook:Table3:P30,conflicting_revision_assertion,historical_unverified
+ds-038,platform,ONT,Ilumina and Nanopore,workbook:Table3:D31,conflicting_revision_assertion,historical_unverified
+ds-038,origin,Simulated,Real,workbook:Table3:F31,conflicting_revision_assertion,historical_unverified
+ds-038,size,17.2Gbp,17.2,workbook:Table3:G31,conflicting_revision_assertion,historical_unverified
+ds-038,assembly_size,1.32Gbp,1.32,workbook:Table3:P31,conflicting_revision_assertion,historical_unverified
+ds-039,platform,ONT,Ilumina and Nanopore,workbook:Table3:D32,conflicting_revision_assertion,historical_unverified
+ds-039,origin,Simulated,Real,workbook:Table3:F32,conflicting_revision_assertion,historical_unverified
+ds-039,size,26.7Gbp,26.7,workbook:Table3:G32,conflicting_revision_assertion,historical_unverified
+ds-039,assembly_size,1.93Gbp,1.93,workbook:Table3:P32,conflicting_revision_assertion,historical_unverified
+ds-040,platform,ONT,Ilumina and Nanopore,workbook:Table3:D33,conflicting_revision_assertion,historical_unverified
+ds-040,origin,Simulated,Real,workbook:Table3:F33,conflicting_revision_assertion,historical_unverified
+ds-040,size,23.3Gbp,23.3,workbook:Table3:G33,conflicting_revision_assertion,historical_unverified
+ds-040,assembly_size,1.69Gbp,1.69,workbook:Table3:P33,conflicting_revision_assertion,historical_unverified
+ds-041,platform,ONT,Ilumina and Nanopore,workbook:Table3:D34,conflicting_revision_assertion,historical_unverified
+ds-041,origin,Simulated,Real,workbook:Table3:F34,conflicting_revision_assertion,historical_unverified
+ds-041,size,27.7Gbp,27.7,workbook:Table3:G34,conflicting_revision_assertion,historical_unverified
+ds-041,assembly_size,1.92Gbp,1.92,workbook:Table3:P34,conflicting_revision_assertion,historical_unverified
+ds-042,platform,ONT,Ilumina and Nanopore,workbook:Table3:D35,conflicting_revision_assertion,historical_unverified
+ds-042,origin,Simulated,Real,workbook:Table3:F35,conflicting_revision_assertion,historical_unverified
+ds-042,size,45.2Gbp,45.2,workbook:Table3:G35,conflicting_revision_assertion,historical_unverified
+ds-042,assembly_size,3.01Gbp,3.01,workbook:Table3:P35,conflicting_revision_assertion,historical_unverified
+ds-043,platform,ONT,Ilumina and Nanopore,workbook:Table3:D36,conflicting_revision_assertion,historical_unverified
+ds-043,origin,Simulated,Real,workbook:Table3:F36,conflicting_revision_assertion,historical_unverified
+ds-043,size,115.0Gbp,115.0,workbook:Table3:G36,conflicting_revision_assertion,historical_unverified
+ds-043,assembly_size,1.98Gbp,1.98,workbook:Table3:P36,conflicting_revision_assertion,historical_unverified
+ds-048,size,19Gb,19,workbook:Table3:G37,conflicting_revision_assertion,historical_unverified
+ds-049,size,17Gb,17,workbook:Table3:G38,conflicting_revision_assertion,historical_unverified
+ds-050,size,25Gb,25,workbook:Table3:G39,conflicting_revision_assertion,historical_unverified
+ds-051,size,20Gb,20,workbook:Table3:G40,conflicting_revision_assertion,historical_unverified
+ds-052,platform,Ilumina,Illumina HiSeq 1500,workbook:Table3:D41,conflicting_revision_assertion,historical_unverified

@@ -1,0 +1,90 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Historical dataset subset catalog",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "dataset_id",
+      "family_id",
+      "release",
+      "subset",
+      "origin",
+      "technology",
+      "environment",
+      "sample_count",
+      "read_length_bp",
+      "read_layout",
+      "data_size_gbp",
+      "assembly_id",
+      "ground_truth_status",
+      "access_status",
+      "source",
+      "evidence_status",
+      "accessions"
+    ],
+    "properties": {
+      "dataset_id": {
+        "type": "string"
+      },
+      "family_id": {
+        "type": "string"
+      },
+      "release": {
+        "type": "string"
+      },
+      "subset": {
+        "type": "string"
+      },
+      "origin": {
+        "type": "string"
+      },
+      "technology": {
+        "type": "string"
+      },
+      "environment": {
+        "type": "string"
+      },
+      "sample_count": {
+        "type": [
+          "number",
+          "string"
+        ]
+      },
+      "read_length_bp": {
+        "type": [
+          "number",
+          "string"
+        ]
+      },
+      "read_layout": {
+        "type": "string"
+      },
+      "data_size_gbp": {
+        "type": [
+          "number",
+          "string"
+        ]
+      },
+      "assembly_id": {
+        "type": "string"
+      },
+      "ground_truth_status": {
+        "type": "string"
+      },
+      "access_status": {
+        "type": "string"
+      },
+      "source": {
+        "type": "string"
+      },
+      "evidence_status": {
+        "type": "string"
+      },
+      "accessions": {
+        "type": "string"
+      }
+    }
+  }
+}

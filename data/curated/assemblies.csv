@@ -1,0 +1,37 @@
+assembly_id,dataset_id,assembler,assembly_size_raw,n50_raw,status,source
+asm-001,ds-001,MetaVelvet,45.06Mbp,5609,historical_unverified,workbook:Table4:F6
+asm-002,ds-002,MetaSPAdes61,,,historical_unverified,workbook:Table4:F7
+asm-011,ds-011,MetaHipMer,,,historical_unverified,workbook:Table4:F16
+asm-012,ds-012,MetaHipMer,,,historical_unverified,workbook:Table4:F17
+asm-016,ds-016,SOAPdenovo,,,historical_unverified,workbook:Table4:F21
+asm-017,ds-017,MetaSPAdes,,,historical_unverified,workbook:Table4:F22
+asm-023,ds-023,MetaSPAdes,,,historical_unverified,workbook:Table4:F28
+asm-024,ds-024,MetaSPAdes,,,historical_unverified,workbook:Table4:F29
+asm-025,ds-025,MetaSPAdes,,,historical_unverified,workbook:Table4:F30
+asm-026,ds-026,MetaSPAdes,,,historical_unverified,workbook:Table4:F31
+asm-027,ds-027,MetaSPAdes,184.6 Mbp,133 668,historical_unverified,workbook:Table4:F32
+asm-028,ds-028,MetaSPAdes,188.5 Mbp,114 621,historical_unverified,workbook:Table4:F33
+asm-029,ds-029,MetaSPAdes,160.1 Mbp,46 545,historical_unverified,workbook:Table4:F34
+asm-030,ds-030,MetaSPAdes,1224 Mbp,8810,historical_unverified,workbook:Table4:F35
+asm-031,ds-031,MetaSPAdes,1209 Mbp,7668,historical_unverified,workbook:Table4:F36
+asm-032,ds-032,,237.6 Mbp,11 056,historical_unverified,workbook:Table4:F37
+asm-034,ds-034,MetaSPAdes,,,historical_unverified,workbook:Table4:F39
+asm-035,ds-035,MetaSPAdes,,,historical_unverified,workbook:Table4:F40
+asm-036,ds-036,Metaflye v2.9,0.17 Gbp,13.3,historical_unverified,workbook:Table4:F41
+asm-037,ds-037,Metaflye v2.9,0.86,8.7,historical_unverified,workbook:Table4:F42
+asm-038,ds-038,Metaflye v2.9,1.32,14.0,historical_unverified,workbook:Table4:F43
+asm-039,ds-039,Metaflye v2.9,1.93,14.3,historical_unverified,workbook:Table4:F44
+asm-040,ds-040,Metaflye v2.9,1.69,10.1,historical_unverified,workbook:Table4:F45
+asm-041,ds-041,Metaflye v2.9,1.92,10.2,historical_unverified,workbook:Table4:F46
+asm-042,ds-042,Metaflye v2.9,3.01,9.7,historical_unverified,workbook:Table4:F47
+asm-043,ds-043,Metaflye v2.9,1.98,7.7,historical_unverified,workbook:Table4:F48
+asm-044,ds-044,MetaSPAdes,,,historical_unverified,workbook:Table4:F49
+asm-045,ds-045,MetaFlye,,,historical_unverified,workbook:Table4:F50
+asm-053,ds-053,Metagene,,,historical_unverified,workbook:Table4:F58
+asm-054,ds-054,Metagene,,,historical_unverified,workbook:Table4:F59
+asm-055,ds-055,Metagene,,,historical_unverified,workbook:Table4:F60
+asm-056,ds-056,Metagene,,,historical_unverified,workbook:Table4:F61
+asm-057,ds-057,Metagene,,,historical_unverified,workbook:Table4:F62
+asm-060,ds-060,Metasim,,,historical_unverified,workbook:Table4:F65
+asm-061,ds-061,Metasim,,,historical_unverified,workbook:Table4:F66
+asm-062,ds-062,Metasim,,,historical_unverified,workbook:Table4:F67

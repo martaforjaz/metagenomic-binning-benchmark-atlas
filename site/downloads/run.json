@@ -1,0 +1,41 @@
+{
+  "exit_code": 0,
+  "wall_seconds": 7.7369866371154785,
+  "python": "3.12.14",
+  "evaluator": "2.0.8",
+  "commit": "f8b3a601043d13fc4227d5691c13561eb4490e50",
+  "gold_sequences": 19499,
+  "gold_genomes": 60,
+  "predicted_sequences": {
+    "goofy_hypatia_2": 8436,
+    "naughty_carson_2": 8172
+  },
+  "command": [
+    "python",
+    "experiments/vendor/AMBER/amber.py",
+    "-g",
+    "<repo>/experiments/vendor/AMBER/test/gsa_mapping.binning",
+    "<repo>/experiments/vendor/AMBER/test/goofy_hypatia_2",
+    "<repo>/experiments/vendor/AMBER/test/naughty_carson_2",
+    "-r",
+    "<repo>/experiments/vendor/AMBER/test/unique_common.tsv",
+    "-k",
+    "circular element",
+    "-p",
+    "1",
+    "-n",
+    "0",
+    "-x",
+    "50,70,90",
+    "-y",
+    "10,5",
+    "-l",
+    "CONCOCT (CAMI),MaxBin 2.0.2 (CAMI)",
+    "-o",
+    "<repo>/results/amber",
+    "--stdout",
+    "--silent"
+  ],
+  "run_utc": "2026-11-05T18:55:47Z",
+  "interpretation": "Official example/protocol demonstration on simulated CAMI data. Not a new biological benchmark, not current method performance, and not evidence of equivalent original binner settings."
+}

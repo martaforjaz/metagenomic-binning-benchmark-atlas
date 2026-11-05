@@ -1,0 +1,64 @@
+dataset_id,family_id,release,subset,origin,technology,environment,sample_count,read_length_bp,read_layout,data_size_gbp,assembly_id,ground_truth_status,access_status,source,evidence_status,accessions
+ds-001,fam-sharon,,Sharon,real,Illumina HiSeq 2000,Preborn infant gut metagenome,18,100.0,not_extracted,24.5,asm-001,not_extracted,access_unconfirmed,workbook:Table4:B6,historical_unverified,SRA052203
+ds-002,fam-cami-i,CAMI I,CAMI1 Low,simulated,Illumina and Nanopore,Sample from low complexity,1,,,,asm-002,not_extracted,access_unconfirmed,workbook:Table4:B7,historical_unverified,
+ds-003,fam-cami-i,CAMI I,CAMI1 Medium,simulated,Illumina and Nanopore,Sample 1 with 5 kbp insert size from medium complexity,2,,,,,not_extracted,access_unconfirmed,workbook:Table4:B8,historical_unverified,
+ds-004,fam-cami-i,CAMI I,CAMI1 High,simulated,Illumina and Nanopore,Sample 1 from high complexity,5,,,75.0,,not_extracted,access_unconfirmed,workbook:Table4:B9,historical_unverified,
+ds-005,fam-cami-ii,CAMI II,CAMI2 HiSeq (Toy),simulated,Illumina and PacBio,,49,,,,,not_extracted,access_unconfirmed,workbook:Table4:B10,historical_unverified,
+ds-006,fam-cami-ii,CAMI II,CAMI2 Airways,simulated,Illumina HiSeq,Airways,10,,,,,not_extracted,access_unconfirmed,workbook:Table4:B11,historical_unverified,
+ds-007,fam-cami-ii,CAMI II,CAMI2 Gastrointestinal,simulated,Illumina HiSeq,Gastrointestinal tract,10,,,,,not_extracted,access_unconfirmed,workbook:Table4:B12,historical_unverified,
+ds-008,fam-cami-ii,CAMI II,CAMI2 Oral,simulated,Illumina HiSeq,Oral cavity,10,,,,,not_extracted,access_unconfirmed,workbook:Table4:B13,historical_unverified,
+ds-009,fam-cami-ii,CAMI II,CAMI2 Skin,simulated,Illumina HiSeq,Skin,10,,,,,not_extracted,access_unconfirmed,workbook:Table4:B14,historical_unverified,
+ds-010,fam-cami-ii,CAMI II,CAMI2 Urogenital,simulated,Illumina HiSeq,Urogenital tract,9,,,,,not_extracted,access_unconfirmed,workbook:Table4:B15,historical_unverified,
+ds-011,fam-cami-ii,CAMI II,CAMI2 Marine,simulated,"Illumina, Long",Marine Dataset,20,,,,asm-011,not_extracted,access_unconfirmed,workbook:Table4:B16,historical_unverified,
+ds-012,fam-cami-ii,CAMI II,CAMI2 Strain Madness,simulated,"Illumina, Long",,100,,,,asm-012,not_extracted,access_unconfirmed,workbook:Table4:B17,historical_unverified,
+ds-013,fam-cami-ii,CAMI II,CAMI 2 Rhinozosphere,simulated,"Illumina, PacBio, Nanopore",Rhizosphere dataset,21,,,,,not_extracted,access_unconfirmed,workbook:Table4:B18,historical_unverified,
+ds-014,fam-cami-mouse-gut,,CAMI Mouse gut,simulated,,Mouse gut,64,,,,,not_extracted,access_unconfirmed,workbook:Table4:B19,historical_unverified,
+ds-015,fam-almeida,,Almeida,real,,Human gut,,,,,,not_extracted,access_unconfirmed,workbook:Table4:B20,historical_unverified,PRJEB26432
+ds-016,fam-metahit,,MetaHIT,real,Illumina GA,Microbial genes from the human intestinal tract,264,,,540.0,asm-016,not_extracted,access_unconfirmed,workbook:Table4:B21,historical_unverified,ERP000108
+ds-017,fam-stec,,STEC,real,Illumina (MiSeq and HiSeq 2500),Fecal specimens obtained from patients with diarrhea,53,,,66.0,asm-017,not_extracted,access_unconfirmed,workbook:Table4:B22,historical_unverified,PRJEB1775
+ds-018,fam-human-gut,,Human gut,real,,Human gut,82,150.0,not_extracted,407.0,,not_extracted,access_unconfirmed,workbook:Table4:B23,historical_unverified,PRJEB27928
+ds-019,fam-dog-gut,,Dog gut,real,,Dog gut,129,150.0,not_extracted,1900.0,,not_extracted,access_unconfirmed,workbook:Table4:B24,historical_unverified,PRJEB20308
+ds-020,fam-ocean,,Ocean,real,,A marine data from the Tara Oceans project,109,150.0,not_extracted,,,not_extracted,access_unconfirmed,workbook:Table4:B25,historical_unverified,PRJEB1787
+ds-021,fam-non-westernized-african-human-gut,,Non-Westernized african human gut,real,,Non-Westernized African human gut,50,150.0,not_extracted,,,not_extracted,access_unconfirmed,workbook:Table4:B26,historical_unverified,PRJNA504891
+ds-022,fam-german-human-gut,,German human gut,real,,German human gut,92,150.0,not_extracted,,,not_extracted,access_unconfirmed,workbook:Table4:B27,historical_unverified,PRJNA290729
+ds-023,fam-strong-synthetic,,Synth_S03,simulated,Illumina HiSeq,Approximation to the human gut microbiome,3,150,paired_end,117.0,asm-023,not_extracted,access_unconfirmed,workbook:Table4:B28,historical_unverified,PRJEB45779
+ds-024,fam-strong-synthetic,,Synth_S05,simulated,Illumina HiSeq,Approximation to the human gut microbiome,5,150,paired_end,117.0,asm-024,not_extracted,access_unconfirmed,workbook:Table4:B29,historical_unverified,PRJEB45779
+ds-025,fam-strong-synthetic,,Synth_S10,simulated,Illumina HiSeq,Approximation to the human gut microbiome,10,150,paired_end,117.0,asm-025,not_extracted,access_unconfirmed,workbook:Table4:B30,historical_unverified,PRJEB45779
+ds-026,fam-strong-synthetic,,Synth_S15,simulated,Illumina HiSeq,Approximation to the human gut microbiome,15,150,paired_end,117.0,asm-026,not_extracted,access_unconfirmed,workbook:Table4:B31,historical_unverified,PRJEB45779
+ds-027,fam-autometa-mix51,,Mix-51,contradictory,Illumina HiSeq 2500,51 bacteria isolated from the human gut,51,125,paired_end,8.0,asm-027,not_extracted,access_unconfirmed,workbook:Table4:B32,historical_unverified,SRR5679054
+ds-028,fam-autometa-mix51,,Mix-51-equal,contradictory,Illumina HiSeq 2500,DNA solutions of Mix-51 prepared at equimolar concentrations,,125,paired_end,,asm-028,not_extracted,access_unconfirmed,workbook:Table4:B33,historical_unverified,"SRR5679054, SRR8304764–67, SRR8304769–76, SRR8304783–86"
+ds-029,fam-autometa-mix51,,Mix-51-staggered,contradictory,Illumina HiSeq 2500,DNA solutions of Mix-51 prepared at differential  concentrations,,125,paired_end,,asm-029,not_extracted,access_unconfirmed,workbook:Table4:B34,historical_unverified,"SRR5679054, SRR8304764–67, SRR8304769–76, SRR8304783–86"
+ds-030,fam-autometa-mix51,,FL20-9-Mix-51-equal,contradictory,Illumina HiSeq 2500,a sample of the marine sponge Hippospongia lachne,,125,paired_end,,asm-030,not_extracted,access_unconfirmed,workbook:Table4:B35,historical_unverified,"SRR5679054, SRR8304764–67, SRR8304769–76, SRR8304783–86"
+ds-031,fam-autometa-mix51,,FL20-9-Mix-51-staggered,contradictory,Illumina HiSeq 2500,a sample of the marine sponge Hippospongia lachne,,125,paired_end,,asm-031,not_extracted,access_unconfirmed,workbook:Table4:B36,historical_unverified,"SRR5679054, SRR8304764–67, SRR8304769–76, SRR8304783–86"
+ds-032,fam-ab1-ovicells,,AB1_ovicells,real,,Marine bryozoan,,,,,asm-032,not_extracted,access_unconfirmed,workbook:Table4:B37,historical_unverified,PRJNA322176
+ds-033,fam-hpm2,,HPM2,real,16S rRNA,10 human samples,10,,,,,not_extracted,access_unconfirmed,workbook:Table4:B38,historical_unverified,PRJNA398089
+ds-034,fam-amazon,,Amazon,real,Illumina HiSeq 2500,three Amazon river plume samples,3,,,,asm-034,not_extracted,access_unconfirmed,workbook:Table4:B39,historical_unverified,SRP039390
+ds-035,fam-copd,,COPD,real,Illumina HiSeq 2500,Chronic Obstructive Pulmonary Disease,8,151,paired_end,,asm-035,not_extracted,access_unconfirmed,workbook:Table4:B40,historical_unverified,PRJEB9034
+ds-036,fam-strong100,,Strong100,simulated,Illumina and Nanopore,From 100 strains corresponding to 50 species,1,,,7.5,asm-036,not_extracted,access_unconfirmed,workbook:Table4:B41,historical_unverified,
+ds-037,fam-danish-wwtp,,Hjor,real,Illumina and Nanopore,Wastewater Treatment Plant sample (WWTP),4,,,16.0,asm-037,not_extracted,access_unconfirmed,workbook:Table4:B42,historical_unverified,PRJNA629478
+ds-038,fam-danish-wwtp,,Viby,real,Illumina and Nanopore,Wastewater Treatment Plant sample (WWTP),4,,,17.2,asm-038,not_extracted,access_unconfirmed,workbook:Table4:B43,historical_unverified,PRJNA629478
+ds-039,fam-danish-wwtp,,DamH,real,Illumina and Nanopore,Wastewater Treatment Plant sample (WWTP),4,,,26.7,asm-039,not_extracted,access_unconfirmed,workbook:Table4:B44,historical_unverified,PRJNA629478
+ds-040,fam-danish-wwtp,,Mari,real,Illumina and Nanopore,Wastewater Treatment Plant sample (WWTP),4,,,23.3,asm-040,not_extracted,access_unconfirmed,workbook:Table4:B45,historical_unverified,PRJNA629478
+ds-041,fam-danish-wwtp,,AaIE,real,Illumina and Nanopore,Wastewater Treatment Plant sample (WWTP),4,,,27.7,asm-041,not_extracted,access_unconfirmed,workbook:Table4:B46,historical_unverified,PRJNA629478
+ds-042,fam-danish-wwtp,,Hade,real,Illumina and Nanopore,Wastewater Treatment Plant sample (WWTP),4,,,45.2,asm-042,not_extracted,access_unconfirmed,workbook:Table4:B47,historical_unverified,PRJNA629478
+ds-043,fam-soil,,Soil,real,Illumina and Nanopore,Soil sample,1,,,115.0,asm-043,not_extracted,access_unconfirmed,workbook:Table4:B48,historical_unverified,PRJEB50688
+ds-044,fam-img100,,IMG100,real,,Microbial genomes and microbiomes,120,,,1.1,asm-044,not_extracted,access_unconfirmed,workbook:Table4:B49,historical_unverified,
+ds-045,fam-nwc2,,NWC2,real,PacBio and Nanopore,Low-complexity microbiome,1,,,0.164,asm-045,not_extracted,access_unconfirmed,workbook:Table4:B50,historical_unverified,SRX4451758
+ds-046,fam-strainberry-mock,,Strainberry-Mock,semi,PacBio,Low-complexity mock communities,1,,,0.057,,not_extracted,access_unconfirmed,workbook:Table4:B51,historical_unverified,
+ds-047,fam-hsm,,HSM,real,Nanopore,A higher species diversity,1,,,0.164,,not_extracted,access_unconfirmed,workbook:Table4:B52,historical_unverified,PRJNA508395
+ds-048,fam-msa-1003,,MSA-1003,real,PacBio CCS,Mock Microbial Community,10,,,19.0,,not_extracted,access_unconfirmed,workbook:Table4:B53,historical_unverified,PRJNA546278
+ds-049,fam-zymo-d6331,,Zymo_D6331_STD,real,PacBio-HiFi,ZymoBIOMICS Gut Microbiome Standard D6331,17,,,17.0,,not_extracted,access_unconfirmed,workbook:Table4:B54,historical_unverified,SRX9569057
+ds-050,fam-zymo-d6331,,Zymo_D6331_LOW,real,PacBio-HiFi,ZymoBIOMICS Gut Microbiome Standard D6331,17,,,25.0,,not_extracted,access_unconfirmed,workbook:Table4:B55,historical_unverified,SRX9569058
+ds-051,fam-zymo-d6331,,Zymo_D6331_ULI,real,PacBio-HiFi,ZymoBIOMICS Gut Microbiome Standard D6331,17,,,20.0,,not_extracted,access_unconfirmed,workbook:Table4:B56,historical_unverified,SRX9569059
+ds-052,fam-zymoeven,,ZymoEVEN,real,Illumina HiSeq 1500,Mock Microbial Community,10,1000.0,not_extracted,12.0,,not_extracted,access_unconfirmed,workbook:Table4:B57,historical_unverified,ERR3152364
+ds-053,fam-lake-lanier,,454,real,Illumina,From a freshwater,,395.0,not_extracted,,asm-053,not_extracted,access_unconfirmed,workbook:Table4:B58,historical_unverified,SRA023414.2
+ds-054,fam-lake-lanier,,S1,real,Illumina,From a freshwater,,100.0,not_extracted,,asm-054,not_extracted,access_unconfirmed,workbook:Table4:B59,historical_unverified,SRA029309.1
+ds-055,fam-lake-lanier,,S2,real,Illumina,From a freshwater,,100.0,not_extracted,,asm-055,not_extracted,access_unconfirmed,workbook:Table4:B60,historical_unverified,SRA029314.1
+ds-056,fam-lake-lanier,,S3,real,Illumina,From a freshwater,,100.0,not_extracted,,asm-056,not_extracted,access_unconfirmed,workbook:Table4:B61,historical_unverified,SRA029315.1
+ds-057,fam-lake-lanier,,S4,real,Illumina,From a freshwater,,100.0,not_extracted,,asm-057,not_extracted,access_unconfirmed,workbook:Table4:B62,historical_unverified,SRA029315.1
+ds-058,fam-speciesmock,,SpeciesMock,simulated,,101 different species across 96 samples,96,,,,,not_extracted,access_unconfirmed,workbook:Table4:B63,historical_unverified,
+ds-059,fam-strainmock,,StrainMock,simulated,,20 different species or strains across 64 samples,64,,,,,not_extracted,access_unconfirmed,workbook:Table4:B64,historical_unverified,
+ds-060,fam-metasim,,SimHC,simulated,Solexa,Simulate low-complexity communities,1,100.0,not_extracted,,asm-060,not_extracted,access_unconfirmed,workbook:Table4:B65,historical_unverified,
+ds-061,fam-metasim,,simLC+,simulated,Solexa,Simulate moderately complex communities,,100.0,not_extracted,,asm-061,not_extracted,access_unconfirmed,workbook:Table4:B66,historical_unverified,
+ds-062,fam-metasim,,simMC,simulated,Solexa,Simulate high-complexity communities,,100.0,not_extracted,,asm-062,not_extracted,access_unconfirmed,workbook:Table4:B67,historical_unverified,
+ds-063,fam-deep-hmp-td,,Deep HMP TD,real,,Human Microbiome,8,,,0.158099,,not_extracted,access_unconfirmed,workbook:Table4:B68,historical_unverified,SRX378791

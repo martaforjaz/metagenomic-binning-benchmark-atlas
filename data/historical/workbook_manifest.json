@@ -1,0 +1,31 @@
+{
+  "sha256": "c077b8506c8171fdc3c2b56aa5dc950bf231155d2991646ae06e1e8ff0430f9b",
+  "sheets": [
+    {
+      "sheet": "Table1",
+      "role": "historical_revision",
+      "rows": 62,
+      "columns": 38
+    },
+    {
+      "sheet": "Table2",
+      "role": "historical_revision",
+      "rows": 53,
+      "columns": 17
+    },
+    {
+      "sheet": "Table3",
+      "role": "historical_revision",
+      "rows": 68,
+      "columns": 16
+    },
+    {
+      "sheet": "Table4",
+      "role": "canonical",
+      "rows": 97,
+      "columns": 19
+    }
+  ],
+  "canonical": "Table4",
+  "policy": "Earlier revisions are not independent datasets; earlier values are recovery candidates, not verified corrections."
+}

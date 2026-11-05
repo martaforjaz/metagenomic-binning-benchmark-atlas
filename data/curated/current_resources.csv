@@ -1,0 +1,4 @@
+resource_id,name,source_id,url,note
+taxvamb,TaxVamb,src-vamb,https://doi.org/10.1038/s41587-026-03098-0,2026 DOI linked by current Vamb README; title/date/full text not extracted. Not counted as a fully reviewed paper.
+binbencher,BinBencher,src-binbencher,https://github.com/jakobnissen/BinBencher.jl/blob/816219f1876479a6b410c28b0472804570279721/README.md,Evaluation CLI; README links CAMI2 toy human short-read gold-standard assembly at Zenodo 15083711; archive not downloaded.
+strong,STRONG,src-strong,https://github.com/chrisquince/STRONG/blob/b25b173296f14d688b3d359ba37ec08155a095eb/README.md,Strain resolution on assembly graphs; core COG variants and multi-sample co-occurrence. Paper details retained only in historical bibliography.

@@ -1,0 +1,17 @@
+url,date,operation,status,scope
+https://github.com/CAMI-challenge/AMBER/blob/f8b3a601043d13fc4227d5691c13561eb4490e50/README.md,2026-11-05,git clone and local README inspection,content_retrieved,Documentation only; not archive completeness
+https://github.com/CAMI-challenge/CAMISIM/blob/7ce6013c6d5a0fac8ba8a80e52a03560d3546fa6/README.md,2026-11-05,git clone and local README inspection,content_retrieved,Documentation only; not archive completeness
+https://github.com/RasmussenLab/vamb/blob/b146fb610921aef1da8aed5d739f1ce80d21b33a/README.md,2026-11-05,git clone and local README inspection,content_retrieved,Documentation only; not archive completeness
+https://github.com/BigDataBiology/SemiBin/blob/851bbb2ee444b1df2d49f56c794ba731fda69327/README.md,2026-11-05,git clone and local README inspection,content_retrieved,Documentation only; not archive completeness
+https://github.com/Vini2/GraphBin/blob/d9b037acd61aaef2913da67d8435e66d17d4af85/README.md,2026-11-05,git clone and local README inspection,content_retrieved,Documentation only; not archive completeness
+https://github.com/AndreLamurias/GraphMB/blob/30cb2ded07531135a92ef0890cf1bf06fd28717e/README.md,2026-11-05,git clone and local README inspection,content_retrieved,Documentation only; not archive completeness
+https://github.com/metagentools/MetaCoAG/blob/d7dcafab4772d806dcb2eecfc96f6570bd251ec6/README.md,2026-11-05,git clone and local README inspection,content_retrieved,Documentation only; not archive completeness
+https://github.com/ziyewang/COMEBin/blob/1b476a41fac893294c70212a869573a732560ce5/README.md,2026-11-05,git clone and local README inspection,content_retrieved,Documentation only; not archive completeness
+https://github.com/ziyewang/MetaBinner/blob/50a1281e8200d705a744736f23efe53c6048bbe8/README.md,2026-11-05,git clone and local README inspection,content_retrieved,Documentation only; not archive completeness
+https://github.com/chrisquince/STRONG/blob/b25b173296f14d688b3d359ba37ec08155a095eb/README.md,2026-11-05,git clone and local README inspection,content_retrieved,Documentation only; not archive completeness
+https://github.com/jakobnissen/BinBencher.jl/blob/816219f1876479a6b410c28b0472804570279721/README.md,2026-11-05,git clone and local README inspection,content_retrieved,Documentation only; not archive completeness
+https://www.nature.com/articles/s41592-022-01431-4,2026-11-05,HTTPS publisher request,proxy_connect_403,No usability or completeness claim
+https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=metagenomic%20binning&format=json&pageSize=2,2026-11-05,HTTPS bibliographic search,proxy_connect_403,No usability or completeness claim
+https://api.github.com/user,2026-11-05,GitHub API identity read,forbidden,No usability or completeness claim
+https://zenodo.org/records/6122610,2026-11-05,Archive metadata; domain unavailable under active policy,not_attempted,No usability or completeness claim
+https://zenodo.org/records/15083711,2026-11-05,Archive metadata; domain unavailable under active policy,not_attempted,No usability or completeness claim
