@@ -1,0 +1,83 @@
+dataset_id,field,code,note
+ds-001,n50,n50_semantics_unconfirmed,Workbook legend calls N50 read length; assembly/read N50 and unit require primary confirmation.
+ds-001,year,publication_year,Workbook 2012 vs reference text 2013; online/issue date unresolved.
+ds-005,size,ambiguous_quantity,Product or non-scalar value in Gbp column; no conversion.
+ds-011,size,ambiguous_quantity,Product or non-scalar value in Gbp column; no conversion.
+ds-012,size,ambiguous_quantity,Product or non-scalar value in Gbp column; no conversion.
+ds-013,size,ambiguous_quantity,Product or non-scalar value in Gbp column; no conversion.
+ds-027,n50,n50_semantics_unconfirmed,Workbook legend calls N50 read length; assembly/read N50 and unit require primary confirmation.
+ds-027,origin,mock_vs_simulated,Workbook says simulated but describes physical DNA mixtures/spike-ins; origin unresolved.
+ds-028,n50,n50_semantics_unconfirmed,Workbook legend calls N50 read length; assembly/read N50 and unit require primary confirmation.
+ds-028,origin,mock_vs_simulated,Workbook says simulated but describes physical DNA mixtures/spike-ins; origin unresolved.
+ds-029,n50,n50_semantics_unconfirmed,Workbook legend calls N50 read length; assembly/read N50 and unit require primary confirmation.
+ds-029,origin,mock_vs_simulated,Workbook says simulated but describes physical DNA mixtures/spike-ins; origin unresolved.
+ds-030,n50,n50_semantics_unconfirmed,Workbook legend calls N50 read length; assembly/read N50 and unit require primary confirmation.
+ds-030,origin,mock_vs_simulated,Workbook says simulated but describes physical DNA mixtures/spike-ins; origin unresolved.
+ds-031,n50,n50_semantics_unconfirmed,Workbook legend calls N50 read length; assembly/read N50 and unit require primary confirmation.
+ds-031,origin,mock_vs_simulated,Workbook says simulated but describes physical DNA mixtures/spike-ins; origin unresolved.
+ds-032,n50,n50_semantics_unconfirmed,Workbook legend calls N50 read length; assembly/read N50 and unit require primary confirmation.
+ds-033,original_ref,reference_collision,"Refs 50 and 55 point to HMP consortium and Almeida; HPM2 spelling, assay and cohort unresolved."
+ds-036,n50,n50_semantics_unconfirmed,Workbook legend calls N50 read length; assembly/read N50 and unit require primary confirmation.
+ds-036,n50,suspected_kbp,Small decimal under bp heading; do not rescale without source.
+ds-037,n50,n50_semantics_unconfirmed,Workbook legend calls N50 read length; assembly/read N50 and unit require primary confirmation.
+ds-037,n50,suspected_kbp,Small decimal under bp heading; do not rescale without source.
+ds-037,assembly_size,missing_unit,Assembly size lacks unit; no numeric conversion.
+ds-038,n50,n50_semantics_unconfirmed,Workbook legend calls N50 read length; assembly/read N50 and unit require primary confirmation.
+ds-038,n50,suspected_kbp,Small decimal under bp heading; do not rescale without source.
+ds-038,assembly_size,missing_unit,Assembly size lacks unit; no numeric conversion.
+ds-039,n50,n50_semantics_unconfirmed,Workbook legend calls N50 read length; assembly/read N50 and unit require primary confirmation.
+ds-039,n50,suspected_kbp,Small decimal under bp heading; do not rescale without source.
+ds-039,assembly_size,missing_unit,Assembly size lacks unit; no numeric conversion.
+ds-040,n50,n50_semantics_unconfirmed,Workbook legend calls N50 read length; assembly/read N50 and unit require primary confirmation.
+ds-040,n50,suspected_kbp,Small decimal under bp heading; do not rescale without source.
+ds-040,assembly_size,missing_unit,Assembly size lacks unit; no numeric conversion.
+ds-041,n50,n50_semantics_unconfirmed,Workbook legend calls N50 read length; assembly/read N50 and unit require primary confirmation.
+ds-041,n50,suspected_kbp,Small decimal under bp heading; do not rescale without source.
+ds-041,assembly_size,missing_unit,Assembly size lacks unit; no numeric conversion.
+ds-042,n50,n50_semantics_unconfirmed,Workbook legend calls N50 read length; assembly/read N50 and unit require primary confirmation.
+ds-042,n50,suspected_kbp,Small decimal under bp heading; do not rescale without source.
+ds-042,assembly_size,missing_unit,Assembly size lacks unit; no numeric conversion.
+ds-043,n50,n50_semantics_unconfirmed,Workbook legend calls N50 read length; assembly/read N50 and unit require primary confirmation.
+ds-043,n50,suspected_kbp,Small decimal under bp heading; do not rescale without source.
+ds-043,assembly_size,missing_unit,Assembly size lacks unit; no numeric conversion.
+ds-043,original_ref,source_relevance,Regional biodiversity paper may not describe sequencing dataset; accession-to-publication unresolved.
+ds-048,samples,samples_vs_organisms,Mock composition may be confused with sample count; retain unverified count.
+ds-049,samples,samples_vs_organisms,Mock composition may be confused with sample count; retain unverified count.
+ds-050,samples,samples_vs_organisms,Mock composition may be confused with sample count; retain unverified count.
+ds-051,samples,samples_vs_organisms,Mock composition may be confused with sample count; retain unverified count.
+ds-052,samples,samples_vs_organisms,Mock composition may be confused with sample count; retain unverified count.
+ds-060,assembler,tool_role,MetaSim is a simulator; placement in assembler field is suspect.
+ds-060,environment,complexity_label,Name and prose complexity labels need confirmation.
+ds-061,assembler,tool_role,MetaSim is a simulator; placement in assembler field is suspect.
+ds-061,environment,complexity_label,Name and prose complexity labels need confirmation.
+ds-062,assembler,tool_role,MetaSim is a simulator; placement in assembler field is suspect.
+ds-062,environment,complexity_label,Name and prose complexity labels need confirmation.
+ds-063,n50,n50_semantics_unconfirmed,Workbook legend calls N50 read length; assembly/read N50 and unit require primary confirmation.
+ds-023,accessions,shared_accession,Also ds-024; shared project/run does not prove identical subset.
+ds-023,accessions,shared_accession,Also ds-025; shared project/run does not prove identical subset.
+ds-023,accessions,shared_accession,Also ds-026; shared project/run does not prove identical subset.
+ds-024,accessions,shared_accession,Also ds-025; shared project/run does not prove identical subset.
+ds-024,accessions,shared_accession,Also ds-026; shared project/run does not prove identical subset.
+ds-025,accessions,shared_accession,Also ds-026; shared project/run does not prove identical subset.
+ds-028,accessions,shared_accession,Also ds-029; shared project/run does not prove identical subset.
+ds-028,accessions,shared_accession,Also ds-030; shared project/run does not prove identical subset.
+ds-028,accessions,shared_accession,Also ds-031; shared project/run does not prove identical subset.
+ds-029,accessions,shared_accession,Also ds-030; shared project/run does not prove identical subset.
+ds-029,accessions,shared_accession,Also ds-031; shared project/run does not prove identical subset.
+ds-030,accessions,shared_accession,Also ds-031; shared project/run does not prove identical subset.
+ds-037,accessions,shared_accession,Also ds-038; shared project/run does not prove identical subset.
+ds-037,accessions,shared_accession,Also ds-039; shared project/run does not prove identical subset.
+ds-037,accessions,shared_accession,Also ds-040; shared project/run does not prove identical subset.
+ds-037,accessions,shared_accession,Also ds-041; shared project/run does not prove identical subset.
+ds-037,accessions,shared_accession,Also ds-042; shared project/run does not prove identical subset.
+ds-038,accessions,shared_accession,Also ds-039; shared project/run does not prove identical subset.
+ds-038,accessions,shared_accession,Also ds-040; shared project/run does not prove identical subset.
+ds-038,accessions,shared_accession,Also ds-041; shared project/run does not prove identical subset.
+ds-038,accessions,shared_accession,Also ds-042; shared project/run does not prove identical subset.
+ds-039,accessions,shared_accession,Also ds-040; shared project/run does not prove identical subset.
+ds-039,accessions,shared_accession,Also ds-041; shared project/run does not prove identical subset.
+ds-039,accessions,shared_accession,Also ds-042; shared project/run does not prove identical subset.
+ds-040,accessions,shared_accession,Also ds-041; shared project/run does not prove identical subset.
+ds-040,accessions,shared_accession,Also ds-042; shared project/run does not prove identical subset.
+ds-041,accessions,shared_accession,Also ds-042; shared project/run does not prove identical subset.
+ds-056,accessions,shared_accession,Also ds-057; shared project/run does not prove identical subset.

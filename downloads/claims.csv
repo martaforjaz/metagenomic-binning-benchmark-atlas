@@ -1,0 +1,1009 @@
+claim_id,dataset_id,field,value,raw_value,unit,status,source,verification_date,note
+ds-001-samples,ds-001,samples,18,18,count,historical_unverified,workbook:Table4:C6,,Historical workbook assertion; not a verified primary-source fact.
+ds-001-platform,ds-001,platform,Illumina HiSeq 2000,Illumina HiSeq 2000,text,historical_unverified,workbook:Table4:D6,,Historical workbook assertion; not a verified primary-source fact.
+ds-001-simulator,ds-001,simulator,,/,text,not_extracted,workbook:Table4:E6,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-001-assembler,ds-001,assembler,MetaVelvet,MetaVelvet,text,historical_unverified,workbook:Table4:F6,,Historical workbook assertion; not a verified primary-source fact.
+ds-001-origin,ds-001,origin,Real,Real,text,historical_unverified,workbook:Table4:G6,,Historical workbook assertion; not a verified primary-source fact.
+ds-001-size,ds-001,size,24.5,24.5,Gbp,historical_unverified,workbook:Table4:H6,,Historical workbook assertion; not a verified primary-source fact.
+ds-001-read_length,ds-001,read_length,100.0,100,bp,historical_unverified,workbook:Table4:I6,,Historical workbook assertion; not a verified primary-source fact.
+ds-001-environment,ds-001,environment,Preborn infant gut metagenome,Preborn infant gut metagenome,text,historical_unverified,workbook:Table4:J6,,Historical workbook assertion; not a verified primary-source fact.
+ds-001-ncbi,ds-001,ncbi,SRA052203,SRA052203,accession,historical_unverified,workbook:Table4:K6,,Historical workbook assertion; not a verified primary-source fact.
+ds-001-ena,ds-001,ena,,/,accession,not_extracted,workbook:Table4:L6,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-001-link_ref,ds-001,link_ref,,/,reference,not_extracted,workbook:Table4:M6,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-001-original_ref,ds-001,original_ref,[33],[33],reference,historical_unverified,workbook:Table4:N6,,Historical workbook assertion; not a verified primary-source fact.
+ds-001-year,ds-001,year,2012,2012,year,historical_unverified,workbook:Table4:O6,,Historical workbook assertion; not a verified primary-source fact.
+ds-001-reuse_refs,ds-001,reuse_refs,[2] [1] [34] [35] [43] [46] [49],[2] [1] [34] [35] [43] [46] [49],reference,historical_unverified,workbook:Table4:P6,,Historical workbook assertion; not a verified primary-source fact.
+ds-001-n50,ds-001,n50,5609,5609,bp,historical_unverified,workbook:Table4:Q6,,Historical workbook assertion; not a verified primary-source fact.
+ds-001-assembly_size,ds-001,assembly_size,45.06Mbp,45.06Mbp,bp,historical_unverified,workbook:Table4:R6,,Historical workbook assertion; not a verified primary-source fact.
+ds-002-samples,ds-002,samples,1,1,count,historical_unverified,workbook:Table4:C7,,Historical workbook assertion; not a verified primary-source fact.
+ds-002-platform,ds-002,platform,Ilumina and Nanopore,Ilumina and Nanopore,text,historical_unverified,workbook:Table4:D7,,Historical workbook assertion; not a verified primary-source fact.
+ds-002-simulator,ds-002,simulator,CAMISIM,CAMISIM,text,historical_unverified,workbook:Table4:E7,,Historical workbook assertion; not a verified primary-source fact.
+ds-002-assembler,ds-002,assembler,MetaSPAdes61,MetaSPAdes61,text,historical_unverified,workbook:Table4:F7,,Historical workbook assertion; not a verified primary-source fact.
+ds-002-origin,ds-002,origin,Simulated,Simulated,text,historical_unverified,workbook:Table4:G7,,Historical workbook assertion; not a verified primary-source fact.
+ds-002-size,ds-002,size,,,Gbp,not_extracted,workbook:Table4:H7,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-002-read_length,ds-002,read_length,,,bp,not_extracted,workbook:Table4:I7,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-002-environment,ds-002,environment,Sample from low complexity,Sample from low complexity,text,historical_unverified,workbook:Table4:J7,,Historical workbook assertion; not a verified primary-source fact.
+ds-002-ncbi,ds-002,ncbi,,/,accession,not_extracted,workbook:Table4:K7,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-002-ena,ds-002,ena,,/,accession,not_extracted,workbook:Table4:L7,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-002-link_ref,ds-002,link_ref,[3],[3],reference,historical_unverified,workbook:Table4:M7,,Historical workbook assertion; not a verified primary-source fact.
+ds-002-original_ref,ds-002,original_ref,[53],[53],reference,historical_unverified,workbook:Table4:N7,,Historical workbook assertion; not a verified primary-source fact.
+ds-002-year,ds-002,year,2017,2017,year,historical_unverified,workbook:Table4:O7,,Historical workbook assertion; not a verified primary-source fact.
+ds-002-reuse_refs,ds-002,reuse_refs,[1] [15] [38],[1] [15] [38],reference,historical_unverified,workbook:Table4:P7,,Historical workbook assertion; not a verified primary-source fact.
+ds-002-n50,ds-002,n50,,,bp,not_extracted,workbook:Table4:Q7,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-002-assembly_size,ds-002,assembly_size,,,bp,not_extracted,workbook:Table4:R7,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-003-samples,ds-003,samples,2,2,count,historical_unverified,workbook:Table4:C8,,Historical workbook assertion; not a verified primary-source fact.
+ds-003-platform,ds-003,platform,Ilumina and Nanopore,Ilumina and Nanopore,text,historical_unverified,workbook:Table4:D8,,Historical workbook assertion; not a verified primary-source fact.
+ds-003-simulator,ds-003,simulator,CAMISIM,CAMISIM,text,historical_unverified,workbook:Table4:E8,,Historical workbook assertion; not a verified primary-source fact.
+ds-003-assembler,ds-003,assembler,,,text,not_extracted,workbook:Table4:F8,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-003-origin,ds-003,origin,Simulated,Simulated,text,historical_unverified,workbook:Table4:G8,,Historical workbook assertion; not a verified primary-source fact.
+ds-003-size,ds-003,size,,,Gbp,not_extracted,workbook:Table4:H8,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-003-read_length,ds-003,read_length,,,bp,not_extracted,workbook:Table4:I8,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-003-environment,ds-003,environment,Sample 1 with 5 kbp insert size from medium complexity,Sample 1 with 5 kbp insert size from medium complexity,text,historical_unverified,workbook:Table4:J8,,Historical workbook assertion; not a verified primary-source fact.
+ds-003-ncbi,ds-003,ncbi,,/,accession,not_extracted,workbook:Table4:K8,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-003-ena,ds-003,ena,,/,accession,not_extracted,workbook:Table4:L8,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-003-link_ref,ds-003,link_ref,[3],[3],reference,historical_unverified,workbook:Table4:M8,,Historical workbook assertion; not a verified primary-source fact.
+ds-003-original_ref,ds-003,original_ref,[53],[53],reference,historical_unverified,workbook:Table4:N8,,Historical workbook assertion; not a verified primary-source fact.
+ds-003-year,ds-003,year,2017,2017,year,historical_unverified,workbook:Table4:O8,,Historical workbook assertion; not a verified primary-source fact.
+ds-003-reuse_refs,ds-003,reuse_refs,[1] [15] [38],[1] [15] [38],reference,historical_unverified,workbook:Table4:P8,,Historical workbook assertion; not a verified primary-source fact.
+ds-003-n50,ds-003,n50,,,bp,not_extracted,workbook:Table4:Q8,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-003-assembly_size,ds-003,assembly_size,,,bp,not_extracted,workbook:Table4:R8,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-004-samples,ds-004,samples,5,5,count,historical_unverified,workbook:Table4:C9,,Historical workbook assertion; not a verified primary-source fact.
+ds-004-platform,ds-004,platform,Ilumina and Nanopore,Ilumina and Nanopore,text,historical_unverified,workbook:Table4:D9,,Historical workbook assertion; not a verified primary-source fact.
+ds-004-simulator,ds-004,simulator,CAMISIM,CAMISIM,text,historical_unverified,workbook:Table4:E9,,Historical workbook assertion; not a verified primary-source fact.
+ds-004-assembler,ds-004,assembler,,,text,not_extracted,workbook:Table4:F9,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-004-origin,ds-004,origin,Simulated,Simulated,text,historical_unverified,workbook:Table4:G9,,Historical workbook assertion; not a verified primary-source fact.
+ds-004-size,ds-004,size,75.0,75,Gbp,historical_unverified,workbook:Table4:H9,,Historical workbook assertion; not a verified primary-source fact.
+ds-004-read_length,ds-004,read_length,,,bp,not_extracted,workbook:Table4:I9,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-004-environment,ds-004,environment,Sample 1 from high complexity,Sample 1 from high complexity,text,historical_unverified,workbook:Table4:J9,,Historical workbook assertion; not a verified primary-source fact.
+ds-004-ncbi,ds-004,ncbi,,/,accession,not_extracted,workbook:Table4:K9,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-004-ena,ds-004,ena,,/,accession,not_extracted,workbook:Table4:L9,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-004-link_ref,ds-004,link_ref,[3],[3],reference,historical_unverified,workbook:Table4:M9,,Historical workbook assertion; not a verified primary-source fact.
+ds-004-original_ref,ds-004,original_ref,[53],[53],reference,historical_unverified,workbook:Table4:N9,,Historical workbook assertion; not a verified primary-source fact.
+ds-004-year,ds-004,year,2017,2017,year,historical_unverified,workbook:Table4:O9,,Historical workbook assertion; not a verified primary-source fact.
+ds-004-reuse_refs,ds-004,reuse_refs,[1] [15] [41] [38],[1] [15] [41] [38],reference,historical_unverified,workbook:Table4:P9,,Historical workbook assertion; not a verified primary-source fact.
+ds-004-n50,ds-004,n50,,,bp,not_extracted,workbook:Table4:Q9,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-004-assembly_size,ds-004,assembly_size,,,bp,not_extracted,workbook:Table4:R9,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-005-samples,ds-005,samples,49,49,count,historical_unverified,workbook:Table4:C10,,Historical workbook assertion; not a verified primary-source fact.
+ds-005-platform,ds-005,platform,Ilumina and PacBio,Ilumina and PacBio,text,historical_unverified,workbook:Table4:D10,,Historical workbook assertion; not a verified primary-source fact.
+ds-005-simulator,ds-005,simulator,CAMISIM,CAMISIM,text,historical_unverified,workbook:Table4:E10,,Historical workbook assertion; not a verified primary-source fact.
+ds-005-assembler,ds-005,assembler,,,text,not_extracted,workbook:Table4:F10,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-005-origin,ds-005,origin,Simulated,Simulated,text,historical_unverified,workbook:Table4:G10,,Historical workbook assertion; not a verified primary-source fact.
+ds-005-size,ds-005,size,2x245,2x245,Gbp,contradictory,workbook:Table4:H10,,Historical workbook assertion; not a verified primary-source fact.
+ds-005-read_length,ds-005,read_length,,,bp,not_extracted,workbook:Table4:I10,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-005-environment,ds-005,environment,,,text,not_extracted,workbook:Table4:J10,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-005-ncbi,ds-005,ncbi,,/,accession,not_extracted,workbook:Table4:K10,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-005-ena,ds-005,ena,,/,accession,not_extracted,workbook:Table4:L10,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-005-link_ref,ds-005,link_ref,[3],[3],reference,historical_unverified,workbook:Table4:M10,,Historical workbook assertion; not a verified primary-source fact.
+ds-005-original_ref,ds-005,original_ref,[4],[4],reference,historical_unverified,workbook:Table4:N10,,Historical workbook assertion; not a verified primary-source fact.
+ds-005-year,ds-005,year,2022,2022,year,historical_unverified,workbook:Table4:O10,,Historical workbook assertion; not a verified primary-source fact.
+ds-005-reuse_refs,ds-005,reuse_refs,[5] [2],[5] [2],reference,historical_unverified,workbook:Table4:P10,,Historical workbook assertion; not a verified primary-source fact.
+ds-005-n50,ds-005,n50,,,bp,not_extracted,workbook:Table4:Q10,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-005-assembly_size,ds-005,assembly_size,,,bp,not_extracted,workbook:Table4:R10,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-006-samples,ds-006,samples,10,10,count,historical_unverified,workbook:Table4:C11,,Historical workbook assertion; not a verified primary-source fact.
+ds-006-platform,ds-006,platform,Illumina HiSeq,Illumina HiSeq,text,historical_unverified,workbook:Table4:D11,,Historical workbook assertion; not a verified primary-source fact.
+ds-006-simulator,ds-006,simulator,CAMISIM,CAMISIM,text,historical_unverified,workbook:Table4:E11,,Historical workbook assertion; not a verified primary-source fact.
+ds-006-assembler,ds-006,assembler,,,text,not_extracted,workbook:Table4:F11,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-006-origin,ds-006,origin,Simulated,Simulated,text,historical_unverified,workbook:Table4:G11,,Historical workbook assertion; not a verified primary-source fact.
+ds-006-size,ds-006,size,,,Gbp,not_extracted,workbook:Table4:H11,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-006-read_length,ds-006,read_length,,,bp,not_extracted,workbook:Table4:I11,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-006-environment,ds-006,environment,Airways,Airways,text,historical_unverified,workbook:Table4:J11,,Historical workbook assertion; not a verified primary-source fact.
+ds-006-ncbi,ds-006,ncbi,,/,accession,not_extracted,workbook:Table4:K11,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-006-ena,ds-006,ena,,/,accession,not_extracted,workbook:Table4:L11,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-006-link_ref,ds-006,link_ref,[3],[3],reference,historical_unverified,workbook:Table4:M11,,Historical workbook assertion; not a verified primary-source fact.
+ds-006-original_ref,ds-006,original_ref,[4],[4],reference,historical_unverified,workbook:Table4:N11,,Historical workbook assertion; not a verified primary-source fact.
+ds-006-year,ds-006,year,2022,2022,year,historical_unverified,workbook:Table4:O11,,Historical workbook assertion; not a verified primary-source fact.
+ds-006-reuse_refs,ds-006,reuse_refs,[5] [2] [17],[5] [2] [17],reference,historical_unverified,workbook:Table4:P11,,Historical workbook assertion; not a verified primary-source fact.
+ds-006-n50,ds-006,n50,,,bp,not_extracted,workbook:Table4:Q11,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-006-assembly_size,ds-006,assembly_size,,,bp,not_extracted,workbook:Table4:R11,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-007-samples,ds-007,samples,10,10,count,historical_unverified,workbook:Table4:C12,,Historical workbook assertion; not a verified primary-source fact.
+ds-007-platform,ds-007,platform,Illumina HiSeq,Illumina HiSeq,text,historical_unverified,workbook:Table4:D12,,Historical workbook assertion; not a verified primary-source fact.
+ds-007-simulator,ds-007,simulator,CAMISIM,CAMISIM,text,historical_unverified,workbook:Table4:E12,,Historical workbook assertion; not a verified primary-source fact.
+ds-007-assembler,ds-007,assembler,,,text,not_extracted,workbook:Table4:F12,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-007-origin,ds-007,origin,Simulated,Simulated,text,historical_unverified,workbook:Table4:G12,,Historical workbook assertion; not a verified primary-source fact.
+ds-007-size,ds-007,size,,,Gbp,not_extracted,workbook:Table4:H12,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-007-read_length,ds-007,read_length,,,bp,not_extracted,workbook:Table4:I12,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-007-environment,ds-007,environment,Gastrointestinal tract,Gastrointestinal tract,text,historical_unverified,workbook:Table4:J12,,Historical workbook assertion; not a verified primary-source fact.
+ds-007-ncbi,ds-007,ncbi,,/,accession,not_extracted,workbook:Table4:K12,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-007-ena,ds-007,ena,,/,accession,not_extracted,workbook:Table4:L12,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-007-link_ref,ds-007,link_ref,[3],[3],reference,historical_unverified,workbook:Table4:M12,,Historical workbook assertion; not a verified primary-source fact.
+ds-007-original_ref,ds-007,original_ref,[4],[4],reference,historical_unverified,workbook:Table4:N12,,Historical workbook assertion; not a verified primary-source fact.
+ds-007-year,ds-007,year,2022,2022,year,historical_unverified,workbook:Table4:O12,,Historical workbook assertion; not a verified primary-source fact.
+ds-007-reuse_refs,ds-007,reuse_refs,[5] [2] [17],[5] [2] [17],reference,historical_unverified,workbook:Table4:P12,,Historical workbook assertion; not a verified primary-source fact.
+ds-007-n50,ds-007,n50,,,bp,not_extracted,workbook:Table4:Q12,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-007-assembly_size,ds-007,assembly_size,,,bp,not_extracted,workbook:Table4:R12,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-008-samples,ds-008,samples,10,10,count,historical_unverified,workbook:Table4:C13,,Historical workbook assertion; not a verified primary-source fact.
+ds-008-platform,ds-008,platform,Illumina HiSeq,Illumina HiSeq,text,historical_unverified,workbook:Table4:D13,,Historical workbook assertion; not a verified primary-source fact.
+ds-008-simulator,ds-008,simulator,CAMISIM,CAMISIM,text,historical_unverified,workbook:Table4:E13,,Historical workbook assertion; not a verified primary-source fact.
+ds-008-assembler,ds-008,assembler,,,text,not_extracted,workbook:Table4:F13,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-008-origin,ds-008,origin,Simulated,Simulated,text,historical_unverified,workbook:Table4:G13,,Historical workbook assertion; not a verified primary-source fact.
+ds-008-size,ds-008,size,,,Gbp,not_extracted,workbook:Table4:H13,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-008-read_length,ds-008,read_length,,,bp,not_extracted,workbook:Table4:I13,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-008-environment,ds-008,environment,Oral cavity,Oral cavity,text,historical_unverified,workbook:Table4:J13,,Historical workbook assertion; not a verified primary-source fact.
+ds-008-ncbi,ds-008,ncbi,,/,accession,not_extracted,workbook:Table4:K13,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-008-ena,ds-008,ena,,/,accession,not_extracted,workbook:Table4:L13,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-008-link_ref,ds-008,link_ref,[3],[3],reference,historical_unverified,workbook:Table4:M13,,Historical workbook assertion; not a verified primary-source fact.
+ds-008-original_ref,ds-008,original_ref,[4],[4],reference,historical_unverified,workbook:Table4:N13,,Historical workbook assertion; not a verified primary-source fact.
+ds-008-year,ds-008,year,2022,2022,year,historical_unverified,workbook:Table4:O13,,Historical workbook assertion; not a verified primary-source fact.
+ds-008-reuse_refs,ds-008,reuse_refs,[5] [2],[5] [2],reference,historical_unverified,workbook:Table4:P13,,Historical workbook assertion; not a verified primary-source fact.
+ds-008-n50,ds-008,n50,,,bp,not_extracted,workbook:Table4:Q13,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-008-assembly_size,ds-008,assembly_size,,,bp,not_extracted,workbook:Table4:R13,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-009-samples,ds-009,samples,10,10,count,historical_unverified,workbook:Table4:C14,,Historical workbook assertion; not a verified primary-source fact.
+ds-009-platform,ds-009,platform,Illumina HiSeq,Illumina HiSeq,text,historical_unverified,workbook:Table4:D14,,Historical workbook assertion; not a verified primary-source fact.
+ds-009-simulator,ds-009,simulator,CAMISIM,CAMISIM,text,historical_unverified,workbook:Table4:E14,,Historical workbook assertion; not a verified primary-source fact.
+ds-009-assembler,ds-009,assembler,,,text,not_extracted,workbook:Table4:F14,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-009-origin,ds-009,origin,Simulated,Simulated,text,historical_unverified,workbook:Table4:G14,,Historical workbook assertion; not a verified primary-source fact.
+ds-009-size,ds-009,size,,,Gbp,not_extracted,workbook:Table4:H14,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-009-read_length,ds-009,read_length,,,bp,not_extracted,workbook:Table4:I14,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-009-environment,ds-009,environment,Skin,Skin,text,historical_unverified,workbook:Table4:J14,,Historical workbook assertion; not a verified primary-source fact.
+ds-009-ncbi,ds-009,ncbi,,/,accession,not_extracted,workbook:Table4:K14,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-009-ena,ds-009,ena,,/,accession,not_extracted,workbook:Table4:L14,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-009-link_ref,ds-009,link_ref,[3],[3],reference,historical_unverified,workbook:Table4:M14,,Historical workbook assertion; not a verified primary-source fact.
+ds-009-original_ref,ds-009,original_ref,[4],[4],reference,historical_unverified,workbook:Table4:N14,,Historical workbook assertion; not a verified primary-source fact.
+ds-009-year,ds-009,year,2022,2022,year,historical_unverified,workbook:Table4:O14,,Historical workbook assertion; not a verified primary-source fact.
+ds-009-reuse_refs,ds-009,reuse_refs,[5] [2],[5] [2],reference,historical_unverified,workbook:Table4:P14,,Historical workbook assertion; not a verified primary-source fact.
+ds-009-n50,ds-009,n50,,,bp,not_extracted,workbook:Table4:Q14,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-009-assembly_size,ds-009,assembly_size,,,bp,not_extracted,workbook:Table4:R14,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-010-samples,ds-010,samples,9,9,count,historical_unverified,workbook:Table4:C15,,Historical workbook assertion; not a verified primary-source fact.
+ds-010-platform,ds-010,platform,Illumina HiSeq,Illumina HiSeq,text,historical_unverified,workbook:Table4:D15,,Historical workbook assertion; not a verified primary-source fact.
+ds-010-simulator,ds-010,simulator,CAMISIM,CAMISIM,text,historical_unverified,workbook:Table4:E15,,Historical workbook assertion; not a verified primary-source fact.
+ds-010-assembler,ds-010,assembler,,,text,not_extracted,workbook:Table4:F15,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-010-origin,ds-010,origin,Simulated,Simulated,text,historical_unverified,workbook:Table4:G15,,Historical workbook assertion; not a verified primary-source fact.
+ds-010-size,ds-010,size,,,Gbp,not_extracted,workbook:Table4:H15,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-010-read_length,ds-010,read_length,,,bp,not_extracted,workbook:Table4:I15,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-010-environment,ds-010,environment,Urogenital tract,Urogenital tract,text,historical_unverified,workbook:Table4:J15,,Historical workbook assertion; not a verified primary-source fact.
+ds-010-ncbi,ds-010,ncbi,,/,accession,not_extracted,workbook:Table4:K15,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-010-ena,ds-010,ena,,/,accession,not_extracted,workbook:Table4:L15,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-010-link_ref,ds-010,link_ref,[3],[3],reference,historical_unverified,workbook:Table4:M15,,Historical workbook assertion; not a verified primary-source fact.
+ds-010-original_ref,ds-010,original_ref,[4],[4],reference,historical_unverified,workbook:Table4:N15,,Historical workbook assertion; not a verified primary-source fact.
+ds-010-year,ds-010,year,2022,2022,year,historical_unverified,workbook:Table4:O15,,Historical workbook assertion; not a verified primary-source fact.
+ds-010-reuse_refs,ds-010,reuse_refs,[5] [2],[5] [2],reference,historical_unverified,workbook:Table4:P15,,Historical workbook assertion; not a verified primary-source fact.
+ds-010-n50,ds-010,n50,,,bp,not_extracted,workbook:Table4:Q15,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-010-assembly_size,ds-010,assembly_size,,,bp,not_extracted,workbook:Table4:R15,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-011-samples,ds-011,samples,20,20,count,historical_unverified,workbook:Table4:C16,,Historical workbook assertion; not a verified primary-source fact.
+ds-011-platform,ds-011,platform,"Ilumina, Long","Ilumina, Long",text,historical_unverified,workbook:Table4:D16,,Historical workbook assertion; not a verified primary-source fact.
+ds-011-simulator,ds-011,simulator,CAMISIM,CAMISIM,text,historical_unverified,workbook:Table4:E16,,Historical workbook assertion; not a verified primary-source fact.
+ds-011-assembler,ds-011,assembler,MetaHipMer,MetaHipMer,text,historical_unverified,workbook:Table4:F16,,Historical workbook assertion; not a verified primary-source fact.
+ds-011-origin,ds-011,origin,Simulated,Simulated,text,historical_unverified,workbook:Table4:G16,,Historical workbook assertion; not a verified primary-source fact.
+ds-011-size,ds-011,size,3x105,3x105,Gbp,contradictory,workbook:Table4:H16,,Historical workbook assertion; not a verified primary-source fact.
+ds-011-read_length,ds-011,read_length,,,bp,not_extracted,workbook:Table4:I16,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-011-environment,ds-011,environment,Marine Dataset,Marine Dataset,text,historical_unverified,workbook:Table4:J16,,Historical workbook assertion; not a verified primary-source fact.
+ds-011-ncbi,ds-011,ncbi,,/,accession,not_extracted,workbook:Table4:K16,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-011-ena,ds-011,ena,,,accession,not_extracted,workbook:Table4:L16,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-011-link_ref,ds-011,link_ref,[3],[3],reference,historical_unverified,workbook:Table4:M16,,Historical workbook assertion; not a verified primary-source fact.
+ds-011-original_ref,ds-011,original_ref,,,reference,not_extracted,workbook:Table4:N16,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-011-year,ds-011,year,,,year,not_extracted,workbook:Table4:O16,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-011-reuse_refs,ds-011,reuse_refs,,,reference,not_extracted,workbook:Table4:P16,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-011-n50,ds-011,n50,,,bp,not_extracted,workbook:Table4:Q16,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-011-assembly_size,ds-011,assembly_size,,,bp,not_extracted,workbook:Table4:R16,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-012-samples,ds-012,samples,100,100,count,historical_unverified,workbook:Table4:C17,,Historical workbook assertion; not a verified primary-source fact.
+ds-012-platform,ds-012,platform,"Ilumina, Long","Ilumina, Long",text,historical_unverified,workbook:Table4:D17,,Historical workbook assertion; not a verified primary-source fact.
+ds-012-simulator,ds-012,simulator,CAMISIM,CAMISIM,text,historical_unverified,workbook:Table4:E17,,Historical workbook assertion; not a verified primary-source fact.
+ds-012-assembler,ds-012,assembler,MetaHipMer,MetaHipMer,text,historical_unverified,workbook:Table4:F17,,Historical workbook assertion; not a verified primary-source fact.
+ds-012-origin,ds-012,origin,Simulated,Simulated,text,historical_unverified,workbook:Table4:G17,,Historical workbook assertion; not a verified primary-source fact.
+ds-012-size,ds-012,size,3x105,3x105,Gbp,contradictory,workbook:Table4:H17,,Historical workbook assertion; not a verified primary-source fact.
+ds-012-read_length,ds-012,read_length,,,bp,not_extracted,workbook:Table4:I17,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-012-environment,ds-012,environment,,,text,not_extracted,workbook:Table4:J17,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-012-ncbi,ds-012,ncbi,,/,accession,not_extracted,workbook:Table4:K17,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-012-ena,ds-012,ena,,,accession,not_extracted,workbook:Table4:L17,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-012-link_ref,ds-012,link_ref,[3],[3],reference,historical_unverified,workbook:Table4:M17,,Historical workbook assertion; not a verified primary-source fact.
+ds-012-original_ref,ds-012,original_ref,,,reference,not_extracted,workbook:Table4:N17,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-012-year,ds-012,year,,,year,not_extracted,workbook:Table4:O17,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-012-reuse_refs,ds-012,reuse_refs,,,reference,not_extracted,workbook:Table4:P17,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-012-n50,ds-012,n50,,,bp,not_extracted,workbook:Table4:Q17,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-012-assembly_size,ds-012,assembly_size,,,bp,not_extracted,workbook:Table4:R17,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-013-samples,ds-013,samples,21,21,count,historical_unverified,workbook:Table4:C18,,Historical workbook assertion; not a verified primary-source fact.
+ds-013-platform,ds-013,platform,"Ilumina, PacBio, Nanopore","Ilumina, PacBio, Nanopore",text,historical_unverified,workbook:Table4:D18,,Historical workbook assertion; not a verified primary-source fact.
+ds-013-simulator,ds-013,simulator,CAMISIM,CAMISIM,text,historical_unverified,workbook:Table4:E18,,Historical workbook assertion; not a verified primary-source fact.
+ds-013-assembler,ds-013,assembler,,,text,not_extracted,workbook:Table4:F18,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-013-origin,ds-013,origin,Simulated,Simulated,text,historical_unverified,workbook:Table4:G18,,Historical workbook assertion; not a verified primary-source fact.
+ds-013-size,ds-013,size,3x105,3x105,Gbp,contradictory,workbook:Table4:H18,,Historical workbook assertion; not a verified primary-source fact.
+ds-013-read_length,ds-013,read_length,,,bp,not_extracted,workbook:Table4:I18,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-013-environment,ds-013,environment,Rhizosphere dataset,Rhizosphere dataset,text,historical_unverified,workbook:Table4:J18,,Historical workbook assertion; not a verified primary-source fact.
+ds-013-ncbi,ds-013,ncbi,,/,accession,not_extracted,workbook:Table4:K18,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-013-ena,ds-013,ena,,,accession,not_extracted,workbook:Table4:L18,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-013-link_ref,ds-013,link_ref,[3],[3],reference,historical_unverified,workbook:Table4:M18,,Historical workbook assertion; not a verified primary-source fact.
+ds-013-original_ref,ds-013,original_ref,,,reference,not_extracted,workbook:Table4:N18,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-013-year,ds-013,year,,,year,not_extracted,workbook:Table4:O18,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-013-reuse_refs,ds-013,reuse_refs,,,reference,not_extracted,workbook:Table4:P18,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-013-n50,ds-013,n50,,,bp,not_extracted,workbook:Table4:Q18,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-013-assembly_size,ds-013,assembly_size,,,bp,not_extracted,workbook:Table4:R18,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-014-samples,ds-014,samples,64,64,count,historical_unverified,workbook:Table4:C19,,Historical workbook assertion; not a verified primary-source fact.
+ds-014-platform,ds-014,platform,,,text,not_extracted,workbook:Table4:D19,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-014-simulator,ds-014,simulator,CAMISIM,CAMISIM,text,historical_unverified,workbook:Table4:E19,,Historical workbook assertion; not a verified primary-source fact.
+ds-014-assembler,ds-014,assembler,,,text,not_extracted,workbook:Table4:F19,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-014-origin,ds-014,origin,Simulated,Simulated,text,historical_unverified,workbook:Table4:G19,,Historical workbook assertion; not a verified primary-source fact.
+ds-014-size,ds-014,size,,,Gbp,not_extracted,workbook:Table4:H19,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-014-read_length,ds-014,read_length,,,bp,not_extracted,workbook:Table4:I19,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-014-environment,ds-014,environment,Mouse gut,Mouse gut,text,historical_unverified,workbook:Table4:J19,,Historical workbook assertion; not a verified primary-source fact.
+ds-014-ncbi,ds-014,ncbi,,/,accession,not_extracted,workbook:Table4:K19,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-014-ena,ds-014,ena,,/,accession,not_extracted,workbook:Table4:L19,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-014-link_ref,ds-014,link_ref,[3],[3],reference,historical_unverified,workbook:Table4:M19,,Historical workbook assertion; not a verified primary-source fact.
+ds-014-original_ref,ds-014,original_ref,[36],[36],reference,historical_unverified,workbook:Table4:N19,,Historical workbook assertion; not a verified primary-source fact.
+ds-014-year,ds-014,year,2021,2021,year,historical_unverified,workbook:Table4:O19,,Historical workbook assertion; not a verified primary-source fact.
+ds-014-reuse_refs,ds-014,reuse_refs,[17],[17],reference,historical_unverified,workbook:Table4:P19,,Historical workbook assertion; not a verified primary-source fact.
+ds-014-n50,ds-014,n50,,,bp,not_extracted,workbook:Table4:Q19,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-014-assembly_size,ds-014,assembly_size,,,bp,not_extracted,workbook:Table4:R19,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-015-samples,ds-015,samples,,,count,not_extracted,workbook:Table4:C20,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-015-platform,ds-015,platform,,,text,not_extracted,workbook:Table4:D20,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-015-simulator,ds-015,simulator,,/,text,not_extracted,workbook:Table4:E20,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-015-assembler,ds-015,assembler,,,text,not_extracted,workbook:Table4:F20,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-015-origin,ds-015,origin,Real,Real,text,historical_unverified,workbook:Table4:G20,,Historical workbook assertion; not a verified primary-source fact.
+ds-015-size,ds-015,size,,,Gbp,not_extracted,workbook:Table4:H20,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-015-read_length,ds-015,read_length,,,bp,not_extracted,workbook:Table4:I20,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-015-environment,ds-015,environment,Human gut,Human gut,text,historical_unverified,workbook:Table4:J20,,Historical workbook assertion; not a verified primary-source fact.
+ds-015-ncbi,ds-015,ncbi,,/,accession,not_extracted,workbook:Table4:K20,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-015-ena,ds-015,ena,PRJEB26432,PRJEB26432,accession,historical_unverified,workbook:Table4:L20,,Historical workbook assertion; not a verified primary-source fact.
+ds-015-link_ref,ds-015,link_ref,,/,reference,not_extracted,workbook:Table4:M20,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-015-original_ref,ds-015,original_ref,[55],[55],reference,historical_unverified,workbook:Table4:N20,,Historical workbook assertion; not a verified primary-source fact.
+ds-015-year,ds-015,year,2019,2019,year,historical_unverified,workbook:Table4:O20,,Historical workbook assertion; not a verified primary-source fact.
+ds-015-reuse_refs,ds-015,reuse_refs,[5],[5],reference,historical_unverified,workbook:Table4:P20,,Historical workbook assertion; not a verified primary-source fact.
+ds-015-n50,ds-015,n50,,,bp,not_extracted,workbook:Table4:Q20,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-015-assembly_size,ds-015,assembly_size,,,bp,not_extracted,workbook:Table4:R20,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-016-samples,ds-016,samples,264,264,count,historical_unverified,workbook:Table4:C21,,Historical workbook assertion; not a verified primary-source fact.
+ds-016-platform,ds-016,platform,Illumina GA,Illumina GA,text,historical_unverified,workbook:Table4:D21,,Historical workbook assertion; not a verified primary-source fact.
+ds-016-simulator,ds-016,simulator,,/,text,not_extracted,workbook:Table4:E21,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-016-assembler,ds-016,assembler,SOAPdenovo,SOAPdenovo,text,historical_unverified,workbook:Table4:F21,,Historical workbook assertion; not a verified primary-source fact.
+ds-016-origin,ds-016,origin,Real,Real,text,historical_unverified,workbook:Table4:G21,,Historical workbook assertion; not a verified primary-source fact.
+ds-016-size,ds-016,size,540.0,540,Gbp,historical_unverified,workbook:Table4:H21,,Historical workbook assertion; not a verified primary-source fact.
+ds-016-read_length,ds-016,read_length,,,bp,not_extracted,workbook:Table4:I21,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-016-environment,ds-016,environment,Microbial genes from the human intestinal tract,Microbial genes from the human intestinal tract,text,historical_unverified,workbook:Table4:J21,,Historical workbook assertion; not a verified primary-source fact.
+ds-016-ncbi,ds-016,ncbi,ERP000108,ERP000108,accession,historical_unverified,workbook:Table4:K21,,Historical workbook assertion; not a verified primary-source fact.
+ds-016-ena,ds-016,ena,,/,accession,not_extracted,workbook:Table4:L21,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-016-link_ref,ds-016,link_ref,[6],[6],reference,historical_unverified,workbook:Table4:M21,,Historical workbook assertion; not a verified primary-source fact.
+ds-016-original_ref,ds-016,original_ref,[14],[14],reference,historical_unverified,workbook:Table4:N21,,Historical workbook assertion; not a verified primary-source fact.
+ds-016-year,ds-016,year,2010,2010,year,historical_unverified,workbook:Table4:O21,,Historical workbook assertion; not a verified primary-source fact.
+ds-016-reuse_refs,ds-016,reuse_refs,[5] [35] [41] [42] [43],[5] [35] [41] [42] [43],reference,historical_unverified,workbook:Table4:P21,,Historical workbook assertion; not a verified primary-source fact.
+ds-016-n50,ds-016,n50,,,bp,not_extracted,workbook:Table4:Q21,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-016-assembly_size,ds-016,assembly_size,,,bp,not_extracted,workbook:Table4:R21,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-017-samples,ds-017,samples,53,53,count,historical_unverified,workbook:Table4:C22,,Historical workbook assertion; not a verified primary-source fact.
+ds-017-platform,ds-017,platform,Ilumina (MiSeq and HiSeq 2500),Ilumina (MiSeq and HiSeq 2500),text,historical_unverified,workbook:Table4:D22,,Historical workbook assertion; not a verified primary-source fact.
+ds-017-simulator,ds-017,simulator,,/,text,not_extracted,workbook:Table4:E22,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-017-assembler,ds-017,assembler,MetaSPAdes,MetaSPAdes,text,historical_unverified,workbook:Table4:F22,,Historical workbook assertion; not a verified primary-source fact.
+ds-017-origin,ds-017,origin,Real,Real,text,historical_unverified,workbook:Table4:G22,,Historical workbook assertion; not a verified primary-source fact.
+ds-017-size,ds-017,size,66.0,66,Gbp,historical_unverified,workbook:Table4:H22,,Historical workbook assertion; not a verified primary-source fact.
+ds-017-read_length,ds-017,read_length,,,bp,not_extracted,workbook:Table4:I22,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-017-environment,ds-017,environment,Fecal specimens obtained from patients with diarrhea,Fecal specimens obtained from patients with diarrhea,text,historical_unverified,workbook:Table4:J22,,Historical workbook assertion; not a verified primary-source fact.
+ds-017-ncbi,ds-017,ncbi,PRJEB1775,PRJEB1775,accession,historical_unverified,workbook:Table4:K22,,Historical workbook assertion; not a verified primary-source fact.
+ds-017-ena,ds-017,ena,,/,accession,not_extracted,workbook:Table4:L22,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-017-link_ref,ds-017,link_ref,,/,reference,not_extracted,workbook:Table4:M22,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-017-original_ref,ds-017,original_ref,[7],[7],reference,historical_unverified,workbook:Table4:N22,,Historical workbook assertion; not a verified primary-source fact.
+ds-017-year,ds-017,year,2013,2013,year,historical_unverified,workbook:Table4:O22,,Historical workbook assertion; not a verified primary-source fact.
+ds-017-reuse_refs,ds-017,reuse_refs,[17],[17],reference,historical_unverified,workbook:Table4:P22,,Historical workbook assertion; not a verified primary-source fact.
+ds-017-n50,ds-017,n50,,,bp,not_extracted,workbook:Table4:Q22,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-017-assembly_size,ds-017,assembly_size,,,bp,not_extracted,workbook:Table4:R22,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-018-samples,ds-018,samples,82,82,count,historical_unverified,workbook:Table4:C23,,Historical workbook assertion; not a verified primary-source fact.
+ds-018-platform,ds-018,platform,,,text,not_extracted,workbook:Table4:D23,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-018-simulator,ds-018,simulator,,/,text,not_extracted,workbook:Table4:E23,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-018-assembler,ds-018,assembler,,,text,not_extracted,workbook:Table4:F23,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-018-origin,ds-018,origin,Real,Real,text,historical_unverified,workbook:Table4:G23,,Historical workbook assertion; not a verified primary-source fact.
+ds-018-size,ds-018,size,407.0,407,Gbp,historical_unverified,workbook:Table4:H23,,Historical workbook assertion; not a verified primary-source fact.
+ds-018-read_length,ds-018,read_length,150.0,150,bp,historical_unverified,workbook:Table4:I23,,Historical workbook assertion; not a verified primary-source fact.
+ds-018-environment,ds-018,environment,Human gut,Human gut,text,historical_unverified,workbook:Table4:J23,,Historical workbook assertion; not a verified primary-source fact.
+ds-018-ncbi,ds-018,ncbi,PRJEB27928,PRJEB27928,accession,historical_unverified,workbook:Table4:K23,,Historical workbook assertion; not a verified primary-source fact.
+ds-018-ena,ds-018,ena,,/,accession,not_extracted,workbook:Table4:L23,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-018-link_ref,ds-018,link_ref,,/,reference,not_extracted,workbook:Table4:M23,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-018-original_ref,ds-018,original_ref,[9],[9],reference,historical_unverified,workbook:Table4:N23,,Historical workbook assertion; not a verified primary-source fact.
+ds-018-year,ds-018,year,2019,2019,year,historical_unverified,workbook:Table4:O23,,Historical workbook assertion; not a verified primary-source fact.
+ds-018-reuse_refs,ds-018,reuse_refs,[8],[8],reference,historical_unverified,workbook:Table4:P23,,Historical workbook assertion; not a verified primary-source fact.
+ds-018-n50,ds-018,n50,,,bp,not_extracted,workbook:Table4:Q23,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-018-assembly_size,ds-018,assembly_size,,,bp,not_extracted,workbook:Table4:R23,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-019-samples,ds-019,samples,129,129,count,historical_unverified,workbook:Table4:C24,,Historical workbook assertion; not a verified primary-source fact.
+ds-019-platform,ds-019,platform,,,text,not_extracted,workbook:Table4:D24,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-019-simulator,ds-019,simulator,,/,text,not_extracted,workbook:Table4:E24,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-019-assembler,ds-019,assembler,,,text,not_extracted,workbook:Table4:F24,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-019-origin,ds-019,origin,Real,Real,text,historical_unverified,workbook:Table4:G24,,Historical workbook assertion; not a verified primary-source fact.
+ds-019-size,ds-019,size,1900.0,1900,Gbp,historical_unverified,workbook:Table4:H24,,Historical workbook assertion; not a verified primary-source fact.
+ds-019-read_length,ds-019,read_length,150.0,150,bp,historical_unverified,workbook:Table4:I24,,Historical workbook assertion; not a verified primary-source fact.
+ds-019-environment,ds-019,environment,Dog gut,Dog gut,text,historical_unverified,workbook:Table4:J24,,Historical workbook assertion; not a verified primary-source fact.
+ds-019-ncbi,ds-019,ncbi,PRJEB20308,PRJEB20308,accession,historical_unverified,workbook:Table4:K24,,Historical workbook assertion; not a verified primary-source fact.
+ds-019-ena,ds-019,ena,,/,accession,not_extracted,workbook:Table4:L24,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-019-link_ref,ds-019,link_ref,,/,reference,not_extracted,workbook:Table4:M24,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-019-original_ref,ds-019,original_ref,[10],[10],reference,historical_unverified,workbook:Table4:N24,,Historical workbook assertion; not a verified primary-source fact.
+ds-019-year,ds-019,year,2018,2018,year,historical_unverified,workbook:Table4:O24,,Historical workbook assertion; not a verified primary-source fact.
+ds-019-reuse_refs,ds-019,reuse_refs,[8],[8],reference,historical_unverified,workbook:Table4:P24,,Historical workbook assertion; not a verified primary-source fact.
+ds-019-n50,ds-019,n50,,,bp,not_extracted,workbook:Table4:Q24,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-019-assembly_size,ds-019,assembly_size,,,bp,not_extracted,workbook:Table4:R24,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-020-samples,ds-020,samples,109,109,count,historical_unverified,workbook:Table4:C25,,Historical workbook assertion; not a verified primary-source fact.
+ds-020-platform,ds-020,platform,,,text,not_extracted,workbook:Table4:D25,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-020-simulator,ds-020,simulator,,/,text,not_extracted,workbook:Table4:E25,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-020-assembler,ds-020,assembler,,,text,not_extracted,workbook:Table4:F25,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-020-origin,ds-020,origin,Real,Real,text,historical_unverified,workbook:Table4:G25,,Historical workbook assertion; not a verified primary-source fact.
+ds-020-size,ds-020,size,,,Gbp,not_extracted,workbook:Table4:H25,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-020-read_length,ds-020,read_length,150.0,150,bp,historical_unverified,workbook:Table4:I25,,Historical workbook assertion; not a verified primary-source fact.
+ds-020-environment,ds-020,environment,A marine data from the Tara Oceans project,A marine data from the Tara Oceans project,text,historical_unverified,workbook:Table4:J25,,Historical workbook assertion; not a verified primary-source fact.
+ds-020-ncbi,ds-020,ncbi,PRJEB1787,PRJEB1787,accession,historical_unverified,workbook:Table4:K25,,Historical workbook assertion; not a verified primary-source fact.
+ds-020-ena,ds-020,ena,,/,accession,not_extracted,workbook:Table4:L25,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-020-link_ref,ds-020,link_ref,,/,reference,not_extracted,workbook:Table4:M25,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-020-original_ref,ds-020,original_ref,[11],[11],reference,historical_unverified,workbook:Table4:N25,,Historical workbook assertion; not a verified primary-source fact.
+ds-020-year,ds-020,year,2015,2015,year,historical_unverified,workbook:Table4:O25,,Historical workbook assertion; not a verified primary-source fact.
+ds-020-reuse_refs,ds-020,reuse_refs,[8],[8],reference,historical_unverified,workbook:Table4:P25,,Historical workbook assertion; not a verified primary-source fact.
+ds-020-n50,ds-020,n50,,,bp,not_extracted,workbook:Table4:Q25,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-020-assembly_size,ds-020,assembly_size,,,bp,not_extracted,workbook:Table4:R25,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-021-samples,ds-021,samples,50,50,count,historical_unverified,workbook:Table4:C26,,Historical workbook assertion; not a verified primary-source fact.
+ds-021-platform,ds-021,platform,,,text,not_extracted,workbook:Table4:D26,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-021-simulator,ds-021,simulator,,/,text,not_extracted,workbook:Table4:E26,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-021-assembler,ds-021,assembler,,,text,not_extracted,workbook:Table4:F26,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-021-origin,ds-021,origin,Real,Real,text,historical_unverified,workbook:Table4:G26,,Historical workbook assertion; not a verified primary-source fact.
+ds-021-size,ds-021,size,,,Gbp,not_extracted,workbook:Table4:H26,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-021-read_length,ds-021,read_length,150.0,150,bp,historical_unverified,workbook:Table4:I26,,Historical workbook assertion; not a verified primary-source fact.
+ds-021-environment,ds-021,environment,Non-Westernized African human gut,Non-Westernized African human gut,text,historical_unverified,workbook:Table4:J26,,Historical workbook assertion; not a verified primary-source fact.
+ds-021-ncbi,ds-021,ncbi,PRJNA504891,PRJNA504891,accession,historical_unverified,workbook:Table4:K26,,Historical workbook assertion; not a verified primary-source fact.
+ds-021-ena,ds-021,ena,,/,accession,not_extracted,workbook:Table4:L26,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-021-link_ref,ds-021,link_ref,,/,reference,not_extracted,workbook:Table4:M26,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-021-original_ref,ds-021,original_ref,[12],[12],reference,historical_unverified,workbook:Table4:N26,,Historical workbook assertion; not a verified primary-source fact.
+ds-021-year,ds-021,year,2019,2019,year,historical_unverified,workbook:Table4:O26,,Historical workbook assertion; not a verified primary-source fact.
+ds-021-reuse_refs,ds-021,reuse_refs,[8],[8],reference,historical_unverified,workbook:Table4:P26,,Historical workbook assertion; not a verified primary-source fact.
+ds-021-n50,ds-021,n50,,,bp,not_extracted,workbook:Table4:Q26,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-021-assembly_size,ds-021,assembly_size,,,bp,not_extracted,workbook:Table4:R26,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-022-samples,ds-022,samples,92,92,count,historical_unverified,workbook:Table4:C27,,Historical workbook assertion; not a verified primary-source fact.
+ds-022-platform,ds-022,platform,,,text,not_extracted,workbook:Table4:D27,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-022-simulator,ds-022,simulator,,/,text,not_extracted,workbook:Table4:E27,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-022-assembler,ds-022,assembler,,,text,not_extracted,workbook:Table4:F27,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-022-origin,ds-022,origin,Real,Real,text,historical_unverified,workbook:Table4:G27,,Historical workbook assertion; not a verified primary-source fact.
+ds-022-size,ds-022,size,,,Gbp,not_extracted,workbook:Table4:H27,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-022-read_length,ds-022,read_length,150.0,150,bp,historical_unverified,workbook:Table4:I27,,Historical workbook assertion; not a verified primary-source fact.
+ds-022-environment,ds-022,environment,German human gut,German human gut,text,historical_unverified,workbook:Table4:J27,,Historical workbook assertion; not a verified primary-source fact.
+ds-022-ncbi,ds-022,ncbi,PRJNA290729,PRJNA290729,accession,historical_unverified,workbook:Table4:K27,,Historical workbook assertion; not a verified primary-source fact.
+ds-022-ena,ds-022,ena,,/,accession,not_extracted,workbook:Table4:L27,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-022-link_ref,ds-022,link_ref,,/,reference,not_extracted,workbook:Table4:M27,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-022-original_ref,ds-022,original_ref,[13],[13],reference,historical_unverified,workbook:Table4:N27,,Historical workbook assertion; not a verified primary-source fact.
+ds-022-year,ds-022,year,2016,2016,year,historical_unverified,workbook:Table4:O27,,Historical workbook assertion; not a verified primary-source fact.
+ds-022-reuse_refs,ds-022,reuse_refs,[8],[8],reference,historical_unverified,workbook:Table4:P27,,Historical workbook assertion; not a verified primary-source fact.
+ds-022-n50,ds-022,n50,,,bp,not_extracted,workbook:Table4:Q27,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-022-assembly_size,ds-022,assembly_size,,,bp,not_extracted,workbook:Table4:R27,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-023-samples,ds-023,samples,3,3,count,historical_unverified,workbook:Table4:C28,,Historical workbook assertion; not a verified primary-source fact.
+ds-023-platform,ds-023,platform,Illumina HiSeq,Illumina HiSeq,text,historical_unverified,workbook:Table4:D28,,Historical workbook assertion; not a verified primary-source fact.
+ds-023-simulator,ds-023,simulator,,,text,not_extracted,workbook:Table4:E28,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-023-assembler,ds-023,assembler,MetaSPAdes,MetaSPAdes,text,historical_unverified,workbook:Table4:F28,,Historical workbook assertion; not a verified primary-source fact.
+ds-023-origin,ds-023,origin,Simulated,Simulated,text,historical_unverified,workbook:Table4:G28,,Historical workbook assertion; not a verified primary-source fact.
+ds-023-size,ds-023,size,117.0,117,Gbp,historical_unverified,workbook:Table4:H28,,Historical workbook assertion; not a verified primary-source fact.
+ds-023-read_length,ds-023,read_length,150,2x150,bp,historical_unverified,workbook:Table4:I28,,Historical workbook assertion; not a verified primary-source fact.
+ds-023-environment,ds-023,environment,Approximation to the human gut microbiome,Approximation to the human gut microbiome,text,historical_unverified,workbook:Table4:J28,,Historical workbook assertion; not a verified primary-source fact.
+ds-023-ncbi,ds-023,ncbi,PRJEB45779,PRJEB45779,accession,historical_unverified,workbook:Table4:K28,,Historical workbook assertion; not a verified primary-source fact.
+ds-023-ena,ds-023,ena,,/,accession,not_extracted,workbook:Table4:L28,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-023-link_ref,ds-023,link_ref,,/,reference,not_extracted,workbook:Table4:M28,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-023-original_ref,ds-023,original_ref,[37],[37],reference,historical_unverified,workbook:Table4:N28,,Historical workbook assertion; not a verified primary-source fact.
+ds-023-year,ds-023,year,2021,2021,year,historical_unverified,workbook:Table4:O28,,Historical workbook assertion; not a verified primary-source fact.
+ds-023-reuse_refs,ds-023,reuse_refs,,,reference,not_extracted,workbook:Table4:P28,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-023-n50,ds-023,n50,,,bp,not_extracted,workbook:Table4:Q28,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-023-assembly_size,ds-023,assembly_size,,,bp,not_extracted,workbook:Table4:R28,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-024-samples,ds-024,samples,5,5,count,historical_unverified,workbook:Table4:C29,,Historical workbook assertion; not a verified primary-source fact.
+ds-024-platform,ds-024,platform,Illumina HiSeq,Illumina HiSeq,text,historical_unverified,workbook:Table4:D29,,Historical workbook assertion; not a verified primary-source fact.
+ds-024-simulator,ds-024,simulator,,,text,not_extracted,workbook:Table4:E29,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-024-assembler,ds-024,assembler,MetaSPAdes,MetaSPAdes,text,historical_unverified,workbook:Table4:F29,,Historical workbook assertion; not a verified primary-source fact.
+ds-024-origin,ds-024,origin,Simulated,Simulated,text,historical_unverified,workbook:Table4:G29,,Historical workbook assertion; not a verified primary-source fact.
+ds-024-size,ds-024,size,117.0,117,Gbp,historical_unverified,workbook:Table4:H29,,Historical workbook assertion; not a verified primary-source fact.
+ds-024-read_length,ds-024,read_length,150,2x150,bp,historical_unverified,workbook:Table4:I29,,Historical workbook assertion; not a verified primary-source fact.
+ds-024-environment,ds-024,environment,Approximation to the human gut microbiome,Approximation to the human gut microbiome,text,historical_unverified,workbook:Table4:J29,,Historical workbook assertion; not a verified primary-source fact.
+ds-024-ncbi,ds-024,ncbi,PRJEB45779,PRJEB45779,accession,historical_unverified,workbook:Table4:K29,,Historical workbook assertion; not a verified primary-source fact.
+ds-024-ena,ds-024,ena,,/,accession,not_extracted,workbook:Table4:L29,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-024-link_ref,ds-024,link_ref,,/,reference,not_extracted,workbook:Table4:M29,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-024-original_ref,ds-024,original_ref,[37],[37],reference,historical_unverified,workbook:Table4:N29,,Historical workbook assertion; not a verified primary-source fact.
+ds-024-year,ds-024,year,2021,2021,year,historical_unverified,workbook:Table4:O29,,Historical workbook assertion; not a verified primary-source fact.
+ds-024-reuse_refs,ds-024,reuse_refs,,,reference,not_extracted,workbook:Table4:P29,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-024-n50,ds-024,n50,,,bp,not_extracted,workbook:Table4:Q29,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-024-assembly_size,ds-024,assembly_size,,,bp,not_extracted,workbook:Table4:R29,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-025-samples,ds-025,samples,10,10,count,historical_unverified,workbook:Table4:C30,,Historical workbook assertion; not a verified primary-source fact.
+ds-025-platform,ds-025,platform,Illumina HiSeq,Illumina HiSeq,text,historical_unverified,workbook:Table4:D30,,Historical workbook assertion; not a verified primary-source fact.
+ds-025-simulator,ds-025,simulator,,,text,not_extracted,workbook:Table4:E30,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-025-assembler,ds-025,assembler,MetaSPAdes,MetaSPAdes,text,historical_unverified,workbook:Table4:F30,,Historical workbook assertion; not a verified primary-source fact.
+ds-025-origin,ds-025,origin,Simulated,Simulated,text,historical_unverified,workbook:Table4:G30,,Historical workbook assertion; not a verified primary-source fact.
+ds-025-size,ds-025,size,117.0,117,Gbp,historical_unverified,workbook:Table4:H30,,Historical workbook assertion; not a verified primary-source fact.
+ds-025-read_length,ds-025,read_length,150,2x150,bp,historical_unverified,workbook:Table4:I30,,Historical workbook assertion; not a verified primary-source fact.
+ds-025-environment,ds-025,environment,Approximation to the human gut microbiome,Approximation to the human gut microbiome,text,historical_unverified,workbook:Table4:J30,,Historical workbook assertion; not a verified primary-source fact.
+ds-025-ncbi,ds-025,ncbi,PRJEB45779,PRJEB45779,accession,historical_unverified,workbook:Table4:K30,,Historical workbook assertion; not a verified primary-source fact.
+ds-025-ena,ds-025,ena,,/,accession,not_extracted,workbook:Table4:L30,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-025-link_ref,ds-025,link_ref,,/,reference,not_extracted,workbook:Table4:M30,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-025-original_ref,ds-025,original_ref,[37],[37],reference,historical_unverified,workbook:Table4:N30,,Historical workbook assertion; not a verified primary-source fact.
+ds-025-year,ds-025,year,2021,2021,year,historical_unverified,workbook:Table4:O30,,Historical workbook assertion; not a verified primary-source fact.
+ds-025-reuse_refs,ds-025,reuse_refs,,,reference,not_extracted,workbook:Table4:P30,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-025-n50,ds-025,n50,,,bp,not_extracted,workbook:Table4:Q30,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-025-assembly_size,ds-025,assembly_size,,,bp,not_extracted,workbook:Table4:R30,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-026-samples,ds-026,samples,15,15,count,historical_unverified,workbook:Table4:C31,,Historical workbook assertion; not a verified primary-source fact.
+ds-026-platform,ds-026,platform,Illumina HiSeq,Illumina HiSeq,text,historical_unverified,workbook:Table4:D31,,Historical workbook assertion; not a verified primary-source fact.
+ds-026-simulator,ds-026,simulator,,,text,not_extracted,workbook:Table4:E31,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-026-assembler,ds-026,assembler,MetaSPAdes,MetaSPAdes,text,historical_unverified,workbook:Table4:F31,,Historical workbook assertion; not a verified primary-source fact.
+ds-026-origin,ds-026,origin,Simulated,Simulated,text,historical_unverified,workbook:Table4:G31,,Historical workbook assertion; not a verified primary-source fact.
+ds-026-size,ds-026,size,117.0,117,Gbp,historical_unverified,workbook:Table4:H31,,Historical workbook assertion; not a verified primary-source fact.
+ds-026-read_length,ds-026,read_length,150,2x150,bp,historical_unverified,workbook:Table4:I31,,Historical workbook assertion; not a verified primary-source fact.
+ds-026-environment,ds-026,environment,Approximation to the human gut microbiome,Approximation to the human gut microbiome,text,historical_unverified,workbook:Table4:J31,,Historical workbook assertion; not a verified primary-source fact.
+ds-026-ncbi,ds-026,ncbi,PRJEB45779,PRJEB45779,accession,historical_unverified,workbook:Table4:K31,,Historical workbook assertion; not a verified primary-source fact.
+ds-026-ena,ds-026,ena,,/,accession,not_extracted,workbook:Table4:L31,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-026-link_ref,ds-026,link_ref,,/,reference,not_extracted,workbook:Table4:M31,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-026-original_ref,ds-026,original_ref,[37],[37],reference,historical_unverified,workbook:Table4:N31,,Historical workbook assertion; not a verified primary-source fact.
+ds-026-year,ds-026,year,2021,2021,year,historical_unverified,workbook:Table4:O31,,Historical workbook assertion; not a verified primary-source fact.
+ds-026-reuse_refs,ds-026,reuse_refs,,,reference,not_extracted,workbook:Table4:P31,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-026-n50,ds-026,n50,,,bp,not_extracted,workbook:Table4:Q31,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-026-assembly_size,ds-026,assembly_size,,,bp,not_extracted,workbook:Table4:R31,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-027-samples,ds-027,samples,51,51,count,historical_unverified,workbook:Table4:C32,,Historical workbook assertion; not a verified primary-source fact.
+ds-027-platform,ds-027,platform,Illumina HiSeq 2500,Illumina HiSeq 2500,text,historical_unverified,workbook:Table4:D32,,Historical workbook assertion; not a verified primary-source fact.
+ds-027-simulator,ds-027,simulator,,,text,not_extracted,workbook:Table4:E32,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-027-assembler,ds-027,assembler,MetaSPAdes,MetaSPAdes,text,historical_unverified,workbook:Table4:F32,,Historical workbook assertion; not a verified primary-source fact.
+ds-027-origin,ds-027,origin,Simulated,Simulated,text,contradictory,workbook:Table4:G32,,Historical workbook assertion; not a verified primary-source fact.
+ds-027-size,ds-027,size,8.0,8,Gbp,historical_unverified,workbook:Table4:H32,,Historical workbook assertion; not a verified primary-source fact.
+ds-027-read_length,ds-027,read_length,125,2x125,bp,historical_unverified,workbook:Table4:I32,,Historical workbook assertion; not a verified primary-source fact.
+ds-027-environment,ds-027,environment,51 bacteria isolated from the human gut,51 bacteria isolated from the human gut,text,historical_unverified,workbook:Table4:J32,,Historical workbook assertion; not a verified primary-source fact.
+ds-027-ncbi,ds-027,ncbi,SRR5679054,SRR5679054,accession,historical_unverified,workbook:Table4:K32,,Historical workbook assertion; not a verified primary-source fact.
+ds-027-ena,ds-027,ena,,/,accession,not_extracted,workbook:Table4:L32,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-027-link_ref,ds-027,link_ref,,/,reference,not_extracted,workbook:Table4:M32,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-027-original_ref,ds-027,original_ref,[47],[47],reference,historical_unverified,workbook:Table4:N32,,Historical workbook assertion; not a verified primary-source fact.
+ds-027-year,ds-027,year,2019,2019,year,historical_unverified,workbook:Table4:O32,,Historical workbook assertion; not a verified primary-source fact.
+ds-027-reuse_refs,ds-027,reuse_refs,,,reference,not_extracted,workbook:Table4:P32,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-027-n50,ds-027,n50,133 668,133 668,bp,historical_unverified,workbook:Table4:Q32,,Historical workbook assertion; not a verified primary-source fact.
+ds-027-assembly_size,ds-027,assembly_size,184.6 Mbp,184.6 Mbp,bp,historical_unverified,workbook:Table4:R32,,Historical workbook assertion; not a verified primary-source fact.
+ds-028-samples,ds-028,samples,,,count,not_extracted,workbook:Table4:C33,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-028-platform,ds-028,platform,Illumina HiSeq 2500,Illumina HiSeq 2500,text,historical_unverified,workbook:Table4:D33,,Historical workbook assertion; not a verified primary-source fact.
+ds-028-simulator,ds-028,simulator,,,text,not_extracted,workbook:Table4:E33,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-028-assembler,ds-028,assembler,MetaSPAdes,MetaSPAdes,text,historical_unverified,workbook:Table4:F33,,Historical workbook assertion; not a verified primary-source fact.
+ds-028-origin,ds-028,origin,Simulated,Simulated,text,contradictory,workbook:Table4:G33,,Historical workbook assertion; not a verified primary-source fact.
+ds-028-size,ds-028,size,,,Gbp,not_extracted,workbook:Table4:H33,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-028-read_length,ds-028,read_length,125,2x125,bp,historical_unverified,workbook:Table4:I33,,Historical workbook assertion; not a verified primary-source fact.
+ds-028-environment,ds-028,environment,DNA solutions of Mix-51 prepared at equimolar concentrations,DNA solutions of Mix-51 prepared at equimolar concentrations,text,historical_unverified,workbook:Table4:J33,,Historical workbook assertion; not a verified primary-source fact.
+ds-028-ncbi,ds-028,ncbi,"SRR5679054, SRR8304764–67, SRR8304769–76, SRR8304783–86","SRR5679054, SRR8304764–67, SRR8304769–76, SRR8304783–86",accession,historical_unverified,workbook:Table4:K33,,Historical workbook assertion; not a verified primary-source fact.
+ds-028-ena,ds-028,ena,,/,accession,not_extracted,workbook:Table4:L33,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-028-link_ref,ds-028,link_ref,,/,reference,not_extracted,workbook:Table4:M33,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-028-original_ref,ds-028,original_ref,[47],[47],reference,historical_unverified,workbook:Table4:N33,,Historical workbook assertion; not a verified primary-source fact.
+ds-028-year,ds-028,year,2019,2019,year,historical_unverified,workbook:Table4:O33,,Historical workbook assertion; not a verified primary-source fact.
+ds-028-reuse_refs,ds-028,reuse_refs,,,reference,not_extracted,workbook:Table4:P33,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-028-n50,ds-028,n50,114 621,114 621,bp,historical_unverified,workbook:Table4:Q33,,Historical workbook assertion; not a verified primary-source fact.
+ds-028-assembly_size,ds-028,assembly_size,188.5 Mbp,188.5 Mbp,bp,historical_unverified,workbook:Table4:R33,,Historical workbook assertion; not a verified primary-source fact.
+ds-029-samples,ds-029,samples,,,count,not_extracted,workbook:Table4:C34,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-029-platform,ds-029,platform,Illumina HiSeq 2500,Illumina HiSeq 2500,text,historical_unverified,workbook:Table4:D34,,Historical workbook assertion; not a verified primary-source fact.
+ds-029-simulator,ds-029,simulator,,,text,not_extracted,workbook:Table4:E34,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-029-assembler,ds-029,assembler,MetaSPAdes,MetaSPAdes,text,historical_unverified,workbook:Table4:F34,,Historical workbook assertion; not a verified primary-source fact.
+ds-029-origin,ds-029,origin,Simulated,Simulated,text,contradictory,workbook:Table4:G34,,Historical workbook assertion; not a verified primary-source fact.
+ds-029-size,ds-029,size,,,Gbp,not_extracted,workbook:Table4:H34,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-029-read_length,ds-029,read_length,125,2x125,bp,historical_unverified,workbook:Table4:I34,,Historical workbook assertion; not a verified primary-source fact.
+ds-029-environment,ds-029,environment,DNA solutions of Mix-51 prepared at differential  concentrations,DNA solutions of Mix-51 prepared at differential  concentrations,text,historical_unverified,workbook:Table4:J34,,Historical workbook assertion; not a verified primary-source fact.
+ds-029-ncbi,ds-029,ncbi,"SRR5679054, SRR8304764–67, SRR8304769–76, SRR8304783–86","SRR5679054, SRR8304764–67, SRR8304769–76, SRR8304783–86",accession,historical_unverified,workbook:Table4:K34,,Historical workbook assertion; not a verified primary-source fact.
+ds-029-ena,ds-029,ena,,/,accession,not_extracted,workbook:Table4:L34,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-029-link_ref,ds-029,link_ref,,/,reference,not_extracted,workbook:Table4:M34,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-029-original_ref,ds-029,original_ref,[47],[47],reference,historical_unverified,workbook:Table4:N34,,Historical workbook assertion; not a verified primary-source fact.
+ds-029-year,ds-029,year,2019,2019,year,historical_unverified,workbook:Table4:O34,,Historical workbook assertion; not a verified primary-source fact.
+ds-029-reuse_refs,ds-029,reuse_refs,,,reference,not_extracted,workbook:Table4:P34,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-029-n50,ds-029,n50,46 545,46 545,bp,historical_unverified,workbook:Table4:Q34,,Historical workbook assertion; not a verified primary-source fact.
+ds-029-assembly_size,ds-029,assembly_size,160.1 Mbp,160.1 Mbp,bp,historical_unverified,workbook:Table4:R34,,Historical workbook assertion; not a verified primary-source fact.
+ds-030-samples,ds-030,samples,,,count,not_extracted,workbook:Table4:C35,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-030-platform,ds-030,platform,Illumina HiSeq 2500,Illumina HiSeq 2500,text,historical_unverified,workbook:Table4:D35,,Historical workbook assertion; not a verified primary-source fact.
+ds-030-simulator,ds-030,simulator,,,text,not_extracted,workbook:Table4:E35,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-030-assembler,ds-030,assembler,MetaSPAdes,MetaSPAdes,text,historical_unverified,workbook:Table4:F35,,Historical workbook assertion; not a verified primary-source fact.
+ds-030-origin,ds-030,origin,Simulated,Simulated,text,contradictory,workbook:Table4:G35,,Historical workbook assertion; not a verified primary-source fact.
+ds-030-size,ds-030,size,,,Gbp,not_extracted,workbook:Table4:H35,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-030-read_length,ds-030,read_length,125,2x125,bp,historical_unverified,workbook:Table4:I35,,Historical workbook assertion; not a verified primary-source fact.
+ds-030-environment,ds-030,environment,a sample of the marine sponge Hippospongia lachne,a sample of the marine sponge Hippospongia lachne,text,historical_unverified,workbook:Table4:J35,,Historical workbook assertion; not a verified primary-source fact.
+ds-030-ncbi,ds-030,ncbi,"SRR5679054, SRR8304764–67, SRR8304769–76, SRR8304783–86","SRR5679054, SRR8304764–67, SRR8304769–76, SRR8304783–86",accession,historical_unverified,workbook:Table4:K35,,Historical workbook assertion; not a verified primary-source fact.
+ds-030-ena,ds-030,ena,,/,accession,not_extracted,workbook:Table4:L35,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-030-link_ref,ds-030,link_ref,,/,reference,not_extracted,workbook:Table4:M35,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-030-original_ref,ds-030,original_ref,[47],[47],reference,historical_unverified,workbook:Table4:N35,,Historical workbook assertion; not a verified primary-source fact.
+ds-030-year,ds-030,year,2019,2019,year,historical_unverified,workbook:Table4:O35,,Historical workbook assertion; not a verified primary-source fact.
+ds-030-reuse_refs,ds-030,reuse_refs,,,reference,not_extracted,workbook:Table4:P35,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-030-n50,ds-030,n50,8810,8810,bp,historical_unverified,workbook:Table4:Q35,,Historical workbook assertion; not a verified primary-source fact.
+ds-030-assembly_size,ds-030,assembly_size,1224 Mbp,1224 Mbp,bp,historical_unverified,workbook:Table4:R35,,Historical workbook assertion; not a verified primary-source fact.
+ds-031-samples,ds-031,samples,,,count,not_extracted,workbook:Table4:C36,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-031-platform,ds-031,platform,Illumina HiSeq 2500,Illumina HiSeq 2500,text,historical_unverified,workbook:Table4:D36,,Historical workbook assertion; not a verified primary-source fact.
+ds-031-simulator,ds-031,simulator,,,text,not_extracted,workbook:Table4:E36,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-031-assembler,ds-031,assembler,MetaSPAdes,MetaSPAdes,text,historical_unverified,workbook:Table4:F36,,Historical workbook assertion; not a verified primary-source fact.
+ds-031-origin,ds-031,origin,Simulated,Simulated,text,contradictory,workbook:Table4:G36,,Historical workbook assertion; not a verified primary-source fact.
+ds-031-size,ds-031,size,,,Gbp,not_extracted,workbook:Table4:H36,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-031-read_length,ds-031,read_length,125,2x125,bp,historical_unverified,workbook:Table4:I36,,Historical workbook assertion; not a verified primary-source fact.
+ds-031-environment,ds-031,environment,a sample of the marine sponge Hippospongia lachne,a sample of the marine sponge Hippospongia lachne,text,historical_unverified,workbook:Table4:J36,,Historical workbook assertion; not a verified primary-source fact.
+ds-031-ncbi,ds-031,ncbi,"SRR5679054, SRR8304764–67, SRR8304769–76, SRR8304783–86","SRR5679054, SRR8304764–67, SRR8304769–76, SRR8304783–86",accession,historical_unverified,workbook:Table4:K36,,Historical workbook assertion; not a verified primary-source fact.
+ds-031-ena,ds-031,ena,,/,accession,not_extracted,workbook:Table4:L36,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-031-link_ref,ds-031,link_ref,,/,reference,not_extracted,workbook:Table4:M36,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-031-original_ref,ds-031,original_ref,[47],[47],reference,historical_unverified,workbook:Table4:N36,,Historical workbook assertion; not a verified primary-source fact.
+ds-031-year,ds-031,year,2019,2019,year,historical_unverified,workbook:Table4:O36,,Historical workbook assertion; not a verified primary-source fact.
+ds-031-reuse_refs,ds-031,reuse_refs,,,reference,not_extracted,workbook:Table4:P36,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-031-n50,ds-031,n50,7668,7668,bp,historical_unverified,workbook:Table4:Q36,,Historical workbook assertion; not a verified primary-source fact.
+ds-031-assembly_size,ds-031,assembly_size,1209 Mbp,1209 Mbp,bp,historical_unverified,workbook:Table4:R36,,Historical workbook assertion; not a verified primary-source fact.
+ds-032-samples,ds-032,samples,,,count,not_extracted,workbook:Table4:C37,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-032-platform,ds-032,platform,,,text,not_extracted,workbook:Table4:D37,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-032-simulator,ds-032,simulator,,/,text,not_extracted,workbook:Table4:E37,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-032-assembler,ds-032,assembler,,,text,not_extracted,workbook:Table4:F37,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-032-origin,ds-032,origin,Real,Real,text,historical_unverified,workbook:Table4:G37,,Historical workbook assertion; not a verified primary-source fact.
+ds-032-size,ds-032,size,,,Gbp,not_extracted,workbook:Table4:H37,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-032-read_length,ds-032,read_length,,,bp,not_extracted,workbook:Table4:I37,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-032-environment,ds-032,environment,Marine bryozoan,Marine bryozoan,text,historical_unverified,workbook:Table4:J37,,Historical workbook assertion; not a verified primary-source fact.
+ds-032-ncbi,ds-032,ncbi,PRJNA322176,PRJNA322176,accession,historical_unverified,workbook:Table4:K37,,Historical workbook assertion; not a verified primary-source fact.
+ds-032-ena,ds-032,ena,,/,accession,not_extracted,workbook:Table4:L37,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-032-link_ref,ds-032,link_ref,,/,reference,not_extracted,workbook:Table4:M37,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-032-original_ref,ds-032,original_ref,[48],[48],reference,historical_unverified,workbook:Table4:N37,,Historical workbook assertion; not a verified primary-source fact.
+ds-032-year,ds-032,year,2016,2016,year,historical_unverified,workbook:Table4:O37,,Historical workbook assertion; not a verified primary-source fact.
+ds-032-reuse_refs,ds-032,reuse_refs,[47],[47],reference,historical_unverified,workbook:Table4:P37,,Historical workbook assertion; not a verified primary-source fact.
+ds-032-n50,ds-032,n50,11 056,11 056,bp,historical_unverified,workbook:Table4:Q37,,Historical workbook assertion; not a verified primary-source fact.
+ds-032-assembly_size,ds-032,assembly_size,237.6 Mbp,237.6 Mbp,bp,historical_unverified,workbook:Table4:R37,,Historical workbook assertion; not a verified primary-source fact.
+ds-033-samples,ds-033,samples,10,10,count,historical_unverified,workbook:Table4:C38,,Historical workbook assertion; not a verified primary-source fact.
+ds-033-platform,ds-033,platform,16S rRNA,16S rRNA,text,historical_unverified,workbook:Table4:D38,,Historical workbook assertion; not a verified primary-source fact.
+ds-033-simulator,ds-033,simulator,,/,text,not_extracted,workbook:Table4:E38,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-033-assembler,ds-033,assembler,,,text,not_extracted,workbook:Table4:F38,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-033-origin,ds-033,origin,Real,Real,text,historical_unverified,workbook:Table4:G38,,Historical workbook assertion; not a verified primary-source fact.
+ds-033-size,ds-033,size,,,Gbp,not_extracted,workbook:Table4:H38,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-033-read_length,ds-033,read_length,,,bp,not_extracted,workbook:Table4:I38,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-033-environment,ds-033,environment,10 human samples,10 human samples,text,historical_unverified,workbook:Table4:J38,,Historical workbook assertion; not a verified primary-source fact.
+ds-033-ncbi,ds-033,ncbi,,/,accession,not_extracted,workbook:Table4:K38,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-033-ena,ds-033,ena,PRJNA398089,PRJNA398089,accession,historical_unverified,workbook:Table4:L38,,Historical workbook assertion; not a verified primary-source fact.
+ds-033-link_ref,ds-033,link_ref,[54],[54],reference,historical_unverified,workbook:Table4:M38,,Historical workbook assertion; not a verified primary-source fact.
+ds-033-original_ref,ds-033,original_ref,[50] [55],[50] [55],reference,historical_unverified,workbook:Table4:N38,,Historical workbook assertion; not a verified primary-source fact.
+ds-033-year,ds-033,year,2012,2012,year,historical_unverified,workbook:Table4:O38,,Historical workbook assertion; not a verified primary-source fact.
+ds-033-reuse_refs,ds-033,reuse_refs,[49] [5],[49] [5],reference,historical_unverified,workbook:Table4:P38,,Historical workbook assertion; not a verified primary-source fact.
+ds-033-n50,ds-033,n50,,,bp,not_extracted,workbook:Table4:Q38,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-033-assembly_size,ds-033,assembly_size,,,bp,not_extracted,workbook:Table4:R38,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-034-samples,ds-034,samples,3,3,count,historical_unverified,workbook:Table4:C39,,Historical workbook assertion; not a verified primary-source fact.
+ds-034-platform,ds-034,platform,Illumina HiSeq 2500,Illumina HiSeq 2500,text,historical_unverified,workbook:Table4:D39,,Historical workbook assertion; not a verified primary-source fact.
+ds-034-simulator,ds-034,simulator,,/,text,not_extracted,workbook:Table4:E39,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-034-assembler,ds-034,assembler,MetaSPAdes,MetaSPAdes,text,historical_unverified,workbook:Table4:F39,,Historical workbook assertion; not a verified primary-source fact.
+ds-034-origin,ds-034,origin,Real,Real,text,historical_unverified,workbook:Table4:G39,,Historical workbook assertion; not a verified primary-source fact.
+ds-034-size,ds-034,size,,,Gbp,not_extracted,workbook:Table4:H39,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-034-read_length,ds-034,read_length,,,bp,not_extracted,workbook:Table4:I39,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-034-environment,ds-034,environment,three Amazon river plume samples,three Amazon river plume samples,text,historical_unverified,workbook:Table4:J39,,Historical workbook assertion; not a verified primary-source fact.
+ds-034-ncbi,ds-034,ncbi,SRP039390,SRP039390,accession,historical_unverified,workbook:Table4:K39,,Historical workbook assertion; not a verified primary-source fact.
+ds-034-ena,ds-034,ena,,/,accession,not_extracted,workbook:Table4:L39,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-034-link_ref,ds-034,link_ref,,/,reference,not_extracted,workbook:Table4:M39,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-034-original_ref,ds-034,original_ref,[52],[52],reference,historical_unverified,workbook:Table4:N39,,Historical workbook assertion; not a verified primary-source fact.
+ds-034-year,ds-034,year,2014,2014,year,historical_unverified,workbook:Table4:O39,,Historical workbook assertion; not a verified primary-source fact.
+ds-034-reuse_refs,ds-034,reuse_refs,[49],[49],reference,historical_unverified,workbook:Table4:P39,,Historical workbook assertion; not a verified primary-source fact.
+ds-034-n50,ds-034,n50,,,bp,not_extracted,workbook:Table4:Q39,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-034-assembly_size,ds-034,assembly_size,,,bp,not_extracted,workbook:Table4:R39,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-035-samples,ds-035,samples,8,8,count,historical_unverified,workbook:Table4:C40,,Historical workbook assertion; not a verified primary-source fact.
+ds-035-platform,ds-035,platform,Illumina HiSeq 2500,Illumina HiSeq 2500,text,historical_unverified,workbook:Table4:D40,,Historical workbook assertion; not a verified primary-source fact.
+ds-035-simulator,ds-035,simulator,,/,text,not_extracted,workbook:Table4:E40,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-035-assembler,ds-035,assembler,MetaSPAdes,MetaSPAdes,text,historical_unverified,workbook:Table4:F40,,Historical workbook assertion; not a verified primary-source fact.
+ds-035-origin,ds-035,origin,Real,Real,text,historical_unverified,workbook:Table4:G40,,Historical workbook assertion; not a verified primary-source fact.
+ds-035-size,ds-035,size,,,Gbp,not_extracted,workbook:Table4:H40,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-035-read_length,ds-035,read_length,151,2x151,bp,historical_unverified,workbook:Table4:I40,,Historical workbook assertion; not a verified primary-source fact.
+ds-035-environment,ds-035,environment,Chronic Obstructive Pulmonary Disease,Chronic Obstructive Pulmonary Disease,text,historical_unverified,workbook:Table4:J40,,Historical workbook assertion; not a verified primary-source fact.
+ds-035-ncbi,ds-035,ncbi,,/,accession,not_extracted,workbook:Table4:K40,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-035-ena,ds-035,ena,PRJEB9034,PRJEB9034,accession,historical_unverified,workbook:Table4:L40,,Historical workbook assertion; not a verified primary-source fact.
+ds-035-link_ref,ds-035,link_ref,,/,reference,not_extracted,workbook:Table4:M40,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-035-original_ref,ds-035,original_ref,[18],[18],reference,historical_unverified,workbook:Table4:N40,,Historical workbook assertion; not a verified primary-source fact.
+ds-035-year,ds-035,year,2016,2016,year,historical_unverified,workbook:Table4:O40,,Historical workbook assertion; not a verified primary-source fact.
+ds-035-reuse_refs,ds-035,reuse_refs,[49],[49],reference,historical_unverified,workbook:Table4:P40,,Historical workbook assertion; not a verified primary-source fact.
+ds-035-n50,ds-035,n50,,,bp,not_extracted,workbook:Table4:Q40,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-035-assembly_size,ds-035,assembly_size,,,bp,not_extracted,workbook:Table4:R40,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-036-samples,ds-036,samples,1,1,count,historical_unverified,workbook:Table4:C41,,Historical workbook assertion; not a verified primary-source fact.
+ds-036-platform,ds-036,platform,Ilumina and Nanopore,Ilumina and Nanopore,text,historical_unverified,workbook:Table4:D41,,Historical workbook assertion; not a verified primary-source fact.
+ds-036-simulator,ds-036,simulator,Badread,Badread,text,historical_unverified,workbook:Table4:E41,,Historical workbook assertion; not a verified primary-source fact.
+ds-036-assembler,ds-036,assembler,Metaflye v2.9,Metaflye v2.9,text,historical_unverified,workbook:Table4:F41,,Historical workbook assertion; not a verified primary-source fact.
+ds-036-origin,ds-036,origin,Simulated,Simulated,text,historical_unverified,workbook:Table4:G41,,Historical workbook assertion; not a verified primary-source fact.
+ds-036-size,ds-036,size,7.5,7.5,Gbp,historical_unverified,workbook:Table4:H41,,Historical workbook assertion; not a verified primary-source fact.
+ds-036-read_length,ds-036,read_length,,,bp,not_extracted,workbook:Table4:I41,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-036-environment,ds-036,environment,From 100 strains corresponding to 50 species,From 100 strains corresponding to 50 species,text,historical_unverified,workbook:Table4:J41,,Historical workbook assertion; not a verified primary-source fact.
+ds-036-ncbi,ds-036,ncbi,,/,accession,not_extracted,workbook:Table4:K41,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-036-ena,ds-036,ena,,/,accession,not_extracted,workbook:Table4:L41,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-036-link_ref,ds-036,link_ref,[21],[21],reference,historical_unverified,workbook:Table4:M41,,Historical workbook assertion; not a verified primary-source fact.
+ds-036-original_ref,ds-036,original_ref,[29],[29],reference,historical_unverified,workbook:Table4:N41,,Historical workbook assertion; not a verified primary-source fact.
+ds-036-year,ds-036,year,2022,2022,year,historical_unverified,workbook:Table4:O41,,Historical workbook assertion; not a verified primary-source fact.
+ds-036-reuse_refs,ds-036,reuse_refs,[16],[16],reference,historical_unverified,workbook:Table4:P41,,Historical workbook assertion; not a verified primary-source fact.
+ds-036-n50,ds-036,n50,13.3,13.3,bp,contradictory,workbook:Table4:Q41,,Historical workbook assertion; not a verified primary-source fact.
+ds-036-assembly_size,ds-036,assembly_size,0.17 Gbp,0.17 Gbp,bp,historical_unverified,workbook:Table4:R41,,Historical workbook assertion; not a verified primary-source fact.
+ds-037-samples,ds-037,samples,4,4,count,historical_unverified,workbook:Table4:C42,,Historical workbook assertion; not a verified primary-source fact.
+ds-037-platform,ds-037,platform,Ilumina and Nanopore,Ilumina and Nanopore,text,historical_unverified,workbook:Table4:D42,,Historical workbook assertion; not a verified primary-source fact.
+ds-037-simulator,ds-037,simulator,,/,text,not_extracted,workbook:Table4:E42,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-037-assembler,ds-037,assembler,Metaflye v2.9,Metaflye v2.9,text,historical_unverified,workbook:Table4:F42,,Historical workbook assertion; not a verified primary-source fact.
+ds-037-origin,ds-037,origin,Real,Real,text,historical_unverified,workbook:Table4:G42,,Historical workbook assertion; not a verified primary-source fact.
+ds-037-size,ds-037,size,16.0,16.0,Gbp,historical_unverified,workbook:Table4:H42,,Historical workbook assertion; not a verified primary-source fact.
+ds-037-read_length,ds-037,read_length,,,bp,not_extracted,workbook:Table4:I42,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-037-environment,ds-037,environment,Wastewater Treatment Plant sample (WWTP),Wastewater Treatment Plant sample (WWTP),text,historical_unverified,workbook:Table4:J42,,Historical workbook assertion; not a verified primary-source fact.
+ds-037-ncbi,ds-037,ncbi,PRJNA629478,PRJNA629478,accession,historical_unverified,workbook:Table4:K42,,Historical workbook assertion; not a verified primary-source fact.
+ds-037-ena,ds-037,ena,,/,accession,not_extracted,workbook:Table4:L42,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-037-link_ref,ds-037,link_ref,[22],[22],reference,historical_unverified,workbook:Table4:M42,,Historical workbook assertion; not a verified primary-source fact.
+ds-037-original_ref,ds-037,original_ref,[57],[57],reference,historical_unverified,workbook:Table4:N42,,Historical workbook assertion; not a verified primary-source fact.
+ds-037-year,ds-037,year,2021,2021,year,historical_unverified,workbook:Table4:O42,,Historical workbook assertion; not a verified primary-source fact.
+ds-037-reuse_refs,ds-037,reuse_refs,[29] [16],[29] [16],reference,historical_unverified,workbook:Table4:P42,,Historical workbook assertion; not a verified primary-source fact.
+ds-037-n50,ds-037,n50,8.7,8.7,bp,contradictory,workbook:Table4:Q42,,Historical workbook assertion; not a verified primary-source fact.
+ds-037-assembly_size,ds-037,assembly_size,0.86,0.86,bp,contradictory,workbook:Table4:R42,,Historical workbook assertion; not a verified primary-source fact.
+ds-038-samples,ds-038,samples,4,4,count,historical_unverified,workbook:Table4:C43,,Historical workbook assertion; not a verified primary-source fact.
+ds-038-platform,ds-038,platform,Ilumina and Nanopore,Ilumina and Nanopore,text,historical_unverified,workbook:Table4:D43,,Historical workbook assertion; not a verified primary-source fact.
+ds-038-simulator,ds-038,simulator,,/,text,not_extracted,workbook:Table4:E43,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-038-assembler,ds-038,assembler,Metaflye v2.9,Metaflye v2.9,text,historical_unverified,workbook:Table4:F43,,Historical workbook assertion; not a verified primary-source fact.
+ds-038-origin,ds-038,origin,Real,Real,text,historical_unverified,workbook:Table4:G43,,Historical workbook assertion; not a verified primary-source fact.
+ds-038-size,ds-038,size,17.2,17.2,Gbp,historical_unverified,workbook:Table4:H43,,Historical workbook assertion; not a verified primary-source fact.
+ds-038-read_length,ds-038,read_length,,,bp,not_extracted,workbook:Table4:I43,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-038-environment,ds-038,environment,Wastewater Treatment Plant sample (WWTP),Wastewater Treatment Plant sample (WWTP),text,historical_unverified,workbook:Table4:J43,,Historical workbook assertion; not a verified primary-source fact.
+ds-038-ncbi,ds-038,ncbi,PRJNA629478,PRJNA629478,accession,historical_unverified,workbook:Table4:K43,,Historical workbook assertion; not a verified primary-source fact.
+ds-038-ena,ds-038,ena,,/,accession,not_extracted,workbook:Table4:L43,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-038-link_ref,ds-038,link_ref,[23],[23],reference,historical_unverified,workbook:Table4:M43,,Historical workbook assertion; not a verified primary-source fact.
+ds-038-original_ref,ds-038,original_ref,[57],[57],reference,historical_unverified,workbook:Table4:N43,,Historical workbook assertion; not a verified primary-source fact.
+ds-038-year,ds-038,year,2021,2021,year,historical_unverified,workbook:Table4:O43,,Historical workbook assertion; not a verified primary-source fact.
+ds-038-reuse_refs,ds-038,reuse_refs,[29] [16],[29] [16],reference,historical_unverified,workbook:Table4:P43,,Historical workbook assertion; not a verified primary-source fact.
+ds-038-n50,ds-038,n50,14.0,14.0,bp,contradictory,workbook:Table4:Q43,,Historical workbook assertion; not a verified primary-source fact.
+ds-038-assembly_size,ds-038,assembly_size,1.32,1.32,bp,contradictory,workbook:Table4:R43,,Historical workbook assertion; not a verified primary-source fact.
+ds-039-samples,ds-039,samples,4,4,count,historical_unverified,workbook:Table4:C44,,Historical workbook assertion; not a verified primary-source fact.
+ds-039-platform,ds-039,platform,Ilumina and Nanopore,Ilumina and Nanopore,text,historical_unverified,workbook:Table4:D44,,Historical workbook assertion; not a verified primary-source fact.
+ds-039-simulator,ds-039,simulator,,/,text,not_extracted,workbook:Table4:E44,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-039-assembler,ds-039,assembler,Metaflye v2.9,Metaflye v2.9,text,historical_unverified,workbook:Table4:F44,,Historical workbook assertion; not a verified primary-source fact.
+ds-039-origin,ds-039,origin,Real,Real,text,historical_unverified,workbook:Table4:G44,,Historical workbook assertion; not a verified primary-source fact.
+ds-039-size,ds-039,size,26.7,26.7,Gbp,historical_unverified,workbook:Table4:H44,,Historical workbook assertion; not a verified primary-source fact.
+ds-039-read_length,ds-039,read_length,,,bp,not_extracted,workbook:Table4:I44,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-039-environment,ds-039,environment,Wastewater Treatment Plant sample (WWTP),Wastewater Treatment Plant sample (WWTP),text,historical_unverified,workbook:Table4:J44,,Historical workbook assertion; not a verified primary-source fact.
+ds-039-ncbi,ds-039,ncbi,PRJNA629478,PRJNA629478,accession,historical_unverified,workbook:Table4:K44,,Historical workbook assertion; not a verified primary-source fact.
+ds-039-ena,ds-039,ena,,/,accession,not_extracted,workbook:Table4:L44,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-039-link_ref,ds-039,link_ref,[24],[24],reference,historical_unverified,workbook:Table4:M44,,Historical workbook assertion; not a verified primary-source fact.
+ds-039-original_ref,ds-039,original_ref,[57],[57],reference,historical_unverified,workbook:Table4:N44,,Historical workbook assertion; not a verified primary-source fact.
+ds-039-year,ds-039,year,2021,2021,year,historical_unverified,workbook:Table4:O44,,Historical workbook assertion; not a verified primary-source fact.
+ds-039-reuse_refs,ds-039,reuse_refs,[29] [16],[29] [16],reference,historical_unverified,workbook:Table4:P44,,Historical workbook assertion; not a verified primary-source fact.
+ds-039-n50,ds-039,n50,14.3,14.3,bp,contradictory,workbook:Table4:Q44,,Historical workbook assertion; not a verified primary-source fact.
+ds-039-assembly_size,ds-039,assembly_size,1.93,1.93,bp,contradictory,workbook:Table4:R44,,Historical workbook assertion; not a verified primary-source fact.
+ds-040-samples,ds-040,samples,4,4,count,historical_unverified,workbook:Table4:C45,,Historical workbook assertion; not a verified primary-source fact.
+ds-040-platform,ds-040,platform,Ilumina and Nanopore,Ilumina and Nanopore,text,historical_unverified,workbook:Table4:D45,,Historical workbook assertion; not a verified primary-source fact.
+ds-040-simulator,ds-040,simulator,,/,text,not_extracted,workbook:Table4:E45,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-040-assembler,ds-040,assembler,Metaflye v2.9,Metaflye v2.9,text,historical_unverified,workbook:Table4:F45,,Historical workbook assertion; not a verified primary-source fact.
+ds-040-origin,ds-040,origin,Real,Real,text,historical_unverified,workbook:Table4:G45,,Historical workbook assertion; not a verified primary-source fact.
+ds-040-size,ds-040,size,23.3,23.3,Gbp,historical_unverified,workbook:Table4:H45,,Historical workbook assertion; not a verified primary-source fact.
+ds-040-read_length,ds-040,read_length,,,bp,not_extracted,workbook:Table4:I45,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-040-environment,ds-040,environment,Wastewater Treatment Plant sample (WWTP),Wastewater Treatment Plant sample (WWTP),text,historical_unverified,workbook:Table4:J45,,Historical workbook assertion; not a verified primary-source fact.
+ds-040-ncbi,ds-040,ncbi,PRJNA629478,PRJNA629478,accession,historical_unverified,workbook:Table4:K45,,Historical workbook assertion; not a verified primary-source fact.
+ds-040-ena,ds-040,ena,,/,accession,not_extracted,workbook:Table4:L45,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-040-link_ref,ds-040,link_ref,[25],[25],reference,historical_unverified,workbook:Table4:M45,,Historical workbook assertion; not a verified primary-source fact.
+ds-040-original_ref,ds-040,original_ref,[57],[57],reference,historical_unverified,workbook:Table4:N45,,Historical workbook assertion; not a verified primary-source fact.
+ds-040-year,ds-040,year,2021,2021,year,historical_unverified,workbook:Table4:O45,,Historical workbook assertion; not a verified primary-source fact.
+ds-040-reuse_refs,ds-040,reuse_refs,[29] [16],[29] [16],reference,historical_unverified,workbook:Table4:P45,,Historical workbook assertion; not a verified primary-source fact.
+ds-040-n50,ds-040,n50,10.1,10.1,bp,contradictory,workbook:Table4:Q45,,Historical workbook assertion; not a verified primary-source fact.
+ds-040-assembly_size,ds-040,assembly_size,1.69,1.69,bp,contradictory,workbook:Table4:R45,,Historical workbook assertion; not a verified primary-source fact.
+ds-041-samples,ds-041,samples,4,4,count,historical_unverified,workbook:Table4:C46,,Historical workbook assertion; not a verified primary-source fact.
+ds-041-platform,ds-041,platform,Ilumina and Nanopore,Ilumina and Nanopore,text,historical_unverified,workbook:Table4:D46,,Historical workbook assertion; not a verified primary-source fact.
+ds-041-simulator,ds-041,simulator,,/,text,not_extracted,workbook:Table4:E46,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-041-assembler,ds-041,assembler,Metaflye v2.9,Metaflye v2.9,text,historical_unverified,workbook:Table4:F46,,Historical workbook assertion; not a verified primary-source fact.
+ds-041-origin,ds-041,origin,Real,Real,text,historical_unverified,workbook:Table4:G46,,Historical workbook assertion; not a verified primary-source fact.
+ds-041-size,ds-041,size,27.7,27.7,Gbp,historical_unverified,workbook:Table4:H46,,Historical workbook assertion; not a verified primary-source fact.
+ds-041-read_length,ds-041,read_length,,,bp,not_extracted,workbook:Table4:I46,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-041-environment,ds-041,environment,Wastewater Treatment Plant sample (WWTP),Wastewater Treatment Plant sample (WWTP),text,historical_unverified,workbook:Table4:J46,,Historical workbook assertion; not a verified primary-source fact.
+ds-041-ncbi,ds-041,ncbi,PRJNA629478,PRJNA629478,accession,historical_unverified,workbook:Table4:K46,,Historical workbook assertion; not a verified primary-source fact.
+ds-041-ena,ds-041,ena,,/,accession,not_extracted,workbook:Table4:L46,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-041-link_ref,ds-041,link_ref,[26],[26],reference,historical_unverified,workbook:Table4:M46,,Historical workbook assertion; not a verified primary-source fact.
+ds-041-original_ref,ds-041,original_ref,[57],[57],reference,historical_unverified,workbook:Table4:N46,,Historical workbook assertion; not a verified primary-source fact.
+ds-041-year,ds-041,year,2021,2021,year,historical_unverified,workbook:Table4:O46,,Historical workbook assertion; not a verified primary-source fact.
+ds-041-reuse_refs,ds-041,reuse_refs,[29] [16],[29] [16],reference,historical_unverified,workbook:Table4:P46,,Historical workbook assertion; not a verified primary-source fact.
+ds-041-n50,ds-041,n50,10.2,10.2,bp,contradictory,workbook:Table4:Q46,,Historical workbook assertion; not a verified primary-source fact.
+ds-041-assembly_size,ds-041,assembly_size,1.92,1.92,bp,contradictory,workbook:Table4:R46,,Historical workbook assertion; not a verified primary-source fact.
+ds-042-samples,ds-042,samples,4,4,count,historical_unverified,workbook:Table4:C47,,Historical workbook assertion; not a verified primary-source fact.
+ds-042-platform,ds-042,platform,Ilumina and Nanopore,Ilumina and Nanopore,text,historical_unverified,workbook:Table4:D47,,Historical workbook assertion; not a verified primary-source fact.
+ds-042-simulator,ds-042,simulator,,/,text,not_extracted,workbook:Table4:E47,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-042-assembler,ds-042,assembler,Metaflye v2.9,Metaflye v2.9,text,historical_unverified,workbook:Table4:F47,,Historical workbook assertion; not a verified primary-source fact.
+ds-042-origin,ds-042,origin,Real,Real,text,historical_unverified,workbook:Table4:G47,,Historical workbook assertion; not a verified primary-source fact.
+ds-042-size,ds-042,size,45.2,45.2,Gbp,historical_unverified,workbook:Table4:H47,,Historical workbook assertion; not a verified primary-source fact.
+ds-042-read_length,ds-042,read_length,,,bp,not_extracted,workbook:Table4:I47,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-042-environment,ds-042,environment,Wastewater Treatment Plant sample (WWTP),Wastewater Treatment Plant sample (WWTP),text,historical_unverified,workbook:Table4:J47,,Historical workbook assertion; not a verified primary-source fact.
+ds-042-ncbi,ds-042,ncbi,PRJNA629478,PRJNA629478,accession,historical_unverified,workbook:Table4:K47,,Historical workbook assertion; not a verified primary-source fact.
+ds-042-ena,ds-042,ena,,/,accession,not_extracted,workbook:Table4:L47,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-042-link_ref,ds-042,link_ref,[27],[27],reference,historical_unverified,workbook:Table4:M47,,Historical workbook assertion; not a verified primary-source fact.
+ds-042-original_ref,ds-042,original_ref,[57],[57],reference,historical_unverified,workbook:Table4:N47,,Historical workbook assertion; not a verified primary-source fact.
+ds-042-year,ds-042,year,2021,2021,year,historical_unverified,workbook:Table4:O47,,Historical workbook assertion; not a verified primary-source fact.
+ds-042-reuse_refs,ds-042,reuse_refs,[29] [16],[29] [16],reference,historical_unverified,workbook:Table4:P47,,Historical workbook assertion; not a verified primary-source fact.
+ds-042-n50,ds-042,n50,9.7,9.7,bp,contradictory,workbook:Table4:Q47,,Historical workbook assertion; not a verified primary-source fact.
+ds-042-assembly_size,ds-042,assembly_size,3.01,3.01,bp,contradictory,workbook:Table4:R47,,Historical workbook assertion; not a verified primary-source fact.
+ds-043-samples,ds-043,samples,1,1,count,historical_unverified,workbook:Table4:C48,,Historical workbook assertion; not a verified primary-source fact.
+ds-043-platform,ds-043,platform,Ilumina and Nanopore,Ilumina and Nanopore,text,historical_unverified,workbook:Table4:D48,,Historical workbook assertion; not a verified primary-source fact.
+ds-043-simulator,ds-043,simulator,,/,text,not_extracted,workbook:Table4:E48,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-043-assembler,ds-043,assembler,Metaflye v2.9,Metaflye v2.9,text,historical_unverified,workbook:Table4:F48,,Historical workbook assertion; not a verified primary-source fact.
+ds-043-origin,ds-043,origin,Real,Real,text,historical_unverified,workbook:Table4:G48,,Historical workbook assertion; not a verified primary-source fact.
+ds-043-size,ds-043,size,115.0,115.0,Gbp,historical_unverified,workbook:Table4:H48,,Historical workbook assertion; not a verified primary-source fact.
+ds-043-read_length,ds-043,read_length,,,bp,not_extracted,workbook:Table4:I48,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-043-environment,ds-043,environment,Soil sample,Soil sample,text,historical_unverified,workbook:Table4:J48,,Historical workbook assertion; not a verified primary-source fact.
+ds-043-ncbi,ds-043,ncbi,PRJEB50688,PRJEB50688,accession,historical_unverified,workbook:Table4:K48,,Historical workbook assertion; not a verified primary-source fact.
+ds-043-ena,ds-043,ena,,/,accession,not_extracted,workbook:Table4:L48,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-043-link_ref,ds-043,link_ref,[28],[28],reference,historical_unverified,workbook:Table4:M48,,Historical workbook assertion; not a verified primary-source fact.
+ds-043-original_ref,ds-043,original_ref,[58],[58],reference,historical_unverified,workbook:Table4:N48,,Historical workbook assertion; not a verified primary-source fact.
+ds-043-year,ds-043,year,2019,2019,year,historical_unverified,workbook:Table4:O48,,Historical workbook assertion; not a verified primary-source fact.
+ds-043-reuse_refs,ds-043,reuse_refs,[29],[29],reference,historical_unverified,workbook:Table4:P48,,Historical workbook assertion; not a verified primary-source fact.
+ds-043-n50,ds-043,n50,7.7,7.7,bp,contradictory,workbook:Table4:Q48,,Historical workbook assertion; not a verified primary-source fact.
+ds-043-assembly_size,ds-043,assembly_size,1.98,1.98,bp,contradictory,workbook:Table4:R48,,Historical workbook assertion; not a verified primary-source fact.
+ds-044-samples,ds-044,samples,120,120,count,historical_unverified,workbook:Table4:C49,,Historical workbook assertion; not a verified primary-source fact.
+ds-044-platform,ds-044,platform,,,text,not_extracted,workbook:Table4:D49,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-044-simulator,ds-044,simulator,,/,text,not_extracted,workbook:Table4:E49,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-044-assembler,ds-044,assembler,MetaSPAdes,MetaSPAdes,text,historical_unverified,workbook:Table4:F49,,Historical workbook assertion; not a verified primary-source fact.
+ds-044-origin,ds-044,origin,Real,Real,text,historical_unverified,workbook:Table4:G49,,Historical workbook assertion; not a verified primary-source fact.
+ds-044-size,ds-044,size,1.1,1.1,Gbp,historical_unverified,workbook:Table4:H49,,Historical workbook assertion; not a verified primary-source fact.
+ds-044-read_length,ds-044,read_length,,,bp,not_extracted,workbook:Table4:I49,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-044-environment,ds-044,environment,Microbial genomes and microbiomes,Microbial genomes and microbiomes,text,historical_unverified,workbook:Table4:J49,,Historical workbook assertion; not a verified primary-source fact.
+ds-044-ncbi,ds-044,ncbi,,/,accession,not_extracted,workbook:Table4:K49,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-044-ena,ds-044,ena,,/,accession,not_extracted,workbook:Table4:L49,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-044-link_ref,ds-044,link_ref,[40],[40],reference,historical_unverified,workbook:Table4:M49,,Historical workbook assertion; not a verified primary-source fact.
+ds-044-original_ref,ds-044,original_ref,[39],[39],reference,historical_unverified,workbook:Table4:N49,,Historical workbook assertion; not a verified primary-source fact.
+ds-044-year,ds-044,year,2013,2013,year,historical_unverified,workbook:Table4:O49,,Historical workbook assertion; not a verified primary-source fact.
+ds-044-reuse_refs,ds-044,reuse_refs,[15] [42],[15] [42],reference,historical_unverified,workbook:Table4:P49,,Historical workbook assertion; not a verified primary-source fact.
+ds-044-n50,ds-044,n50,,,bp,not_extracted,workbook:Table4:Q49,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-044-assembly_size,ds-044,assembly_size,,,bp,not_extracted,workbook:Table4:R49,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-045-samples,ds-045,samples,1,1,count,historical_unverified,workbook:Table4:C50,,Historical workbook assertion; not a verified primary-source fact.
+ds-045-platform,ds-045,platform,PacBio and Nanopore,PacBio and Nanopore,text,historical_unverified,workbook:Table4:D50,,Historical workbook assertion; not a verified primary-source fact.
+ds-045-simulator,ds-045,simulator,,/,text,not_extracted,workbook:Table4:E50,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-045-assembler,ds-045,assembler,MetaFlye,MetaFlye,text,historical_unverified,workbook:Table4:F50,,Historical workbook assertion; not a verified primary-source fact.
+ds-045-origin,ds-045,origin,Real,Real,text,historical_unverified,workbook:Table4:G50,,Historical workbook assertion; not a verified primary-source fact.
+ds-045-size,ds-045,size,0.164,164Mbp,Gbp,historical_unverified,workbook:Table4:H50,,Historical workbook assertion; not a verified primary-source fact.
+ds-045-read_length,ds-045,read_length,,,bp,not_extracted,workbook:Table4:I50,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-045-environment,ds-045,environment,Low-complexity microbiome,Low-complexity microbiome,text,historical_unverified,workbook:Table4:J50,,Historical workbook assertion; not a verified primary-source fact.
+ds-045-ncbi,ds-045,ncbi,SRX4451758,SRX4451758,accession,historical_unverified,workbook:Table4:K50,,Historical workbook assertion; not a verified primary-source fact.
+ds-045-ena,ds-045,ena,,/,accession,not_extracted,workbook:Table4:L50,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-045-link_ref,ds-045,link_ref,,/,reference,not_extracted,workbook:Table4:M50,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-045-original_ref,ds-045,original_ref,[32],[32],reference,historical_unverified,workbook:Table4:N50,,Historical workbook assertion; not a verified primary-source fact.
+ds-045-year,ds-045,year,2021,2021,year,historical_unverified,workbook:Table4:O50,,Historical workbook assertion; not a verified primary-source fact.
+ds-045-reuse_refs,ds-045,reuse_refs,,,reference,not_extracted,workbook:Table4:P50,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-045-n50,ds-045,n50,,,bp,not_extracted,workbook:Table4:Q50,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-045-assembly_size,ds-045,assembly_size,,,bp,not_extracted,workbook:Table4:R50,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-046-samples,ds-046,samples,1,1,count,historical_unverified,workbook:Table4:C51,,Historical workbook assertion; not a verified primary-source fact.
+ds-046-platform,ds-046,platform,PacBio,PacBio,text,historical_unverified,workbook:Table4:D51,,Historical workbook assertion; not a verified primary-source fact.
+ds-046-simulator,ds-046,simulator,,,text,not_extracted,workbook:Table4:E51,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-046-assembler,ds-046,assembler,,,text,not_extracted,workbook:Table4:F51,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-046-origin,ds-046,origin,Semi,Semi,text,historical_unverified,workbook:Table4:G51,,Historical workbook assertion; not a verified primary-source fact.
+ds-046-size,ds-046,size,0.057,57 Mbp,Gbp,historical_unverified,workbook:Table4:H51,,Historical workbook assertion; not a verified primary-source fact.
+ds-046-read_length,ds-046,read_length,,,bp,not_extracted,workbook:Table4:I51,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-046-environment,ds-046,environment,Low-complexity mock communities,Low-complexity mock communities,text,historical_unverified,workbook:Table4:J51,,Historical workbook assertion; not a verified primary-source fact.
+ds-046-ncbi,ds-046,ncbi,,/,accession,not_extracted,workbook:Table4:K51,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-046-ena,ds-046,ena,,/,accession,not_extracted,workbook:Table4:L51,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-046-link_ref,ds-046,link_ref,[31],[31],reference,historical_unverified,workbook:Table4:M51,,Historical workbook assertion; not a verified primary-source fact.
+ds-046-original_ref,ds-046,original_ref,[32],[32],reference,historical_unverified,workbook:Table4:N51,,Historical workbook assertion; not a verified primary-source fact.
+ds-046-year,ds-046,year,2021,2021,year,historical_unverified,workbook:Table4:O51,,Historical workbook assertion; not a verified primary-source fact.
+ds-046-reuse_refs,ds-046,reuse_refs,,,reference,not_extracted,workbook:Table4:P51,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-046-n50,ds-046,n50,,,bp,not_extracted,workbook:Table4:Q51,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-046-assembly_size,ds-046,assembly_size,,,bp,not_extracted,workbook:Table4:R51,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-047-samples,ds-047,samples,1,1,count,historical_unverified,workbook:Table4:C52,,Historical workbook assertion; not a verified primary-source fact.
+ds-047-platform,ds-047,platform,Nanopore,Nanopore,text,historical_unverified,workbook:Table4:D52,,Historical workbook assertion; not a verified primary-source fact.
+ds-047-simulator,ds-047,simulator,,/,text,not_extracted,workbook:Table4:E52,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-047-assembler,ds-047,assembler,,,text,not_extracted,workbook:Table4:F52,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-047-origin,ds-047,origin,Real,Real,text,historical_unverified,workbook:Table4:G52,,Historical workbook assertion; not a verified primary-source fact.
+ds-047-size,ds-047,size,0.164,164Mbp,Gbp,historical_unverified,workbook:Table4:H52,,Historical workbook assertion; not a verified primary-source fact.
+ds-047-read_length,ds-047,read_length,,,bp,not_extracted,workbook:Table4:I52,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-047-environment,ds-047,environment,A higher species diversity,A higher species diversity,text,historical_unverified,workbook:Table4:J52,,Historical workbook assertion; not a verified primary-source fact.
+ds-047-ncbi,ds-047,ncbi,PRJNA508395,PRJNA508395,accession,historical_unverified,workbook:Table4:K52,,Historical workbook assertion; not a verified primary-source fact.
+ds-047-ena,ds-047,ena,,/,accession,not_extracted,workbook:Table4:L52,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-047-link_ref,ds-047,link_ref,,/,reference,not_extracted,workbook:Table4:M52,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-047-original_ref,ds-047,original_ref,[32],[32],reference,historical_unverified,workbook:Table4:N52,,Historical workbook assertion; not a verified primary-source fact.
+ds-047-year,ds-047,year,2021,2021,year,historical_unverified,workbook:Table4:O52,,Historical workbook assertion; not a verified primary-source fact.
+ds-047-reuse_refs,ds-047,reuse_refs,,,reference,not_extracted,workbook:Table4:P52,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-047-n50,ds-047,n50,,,bp,not_extracted,workbook:Table4:Q52,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-047-assembly_size,ds-047,assembly_size,,,bp,not_extracted,workbook:Table4:R52,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-048-samples,ds-048,samples,10,10,count,historical_unverified,workbook:Table4:C53,,Historical workbook assertion; not a verified primary-source fact.
+ds-048-platform,ds-048,platform,PacBio CCS,PacBio CCS,text,historical_unverified,workbook:Table4:D53,,Historical workbook assertion; not a verified primary-source fact.
+ds-048-simulator,ds-048,simulator,,/,text,not_extracted,workbook:Table4:E53,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-048-assembler,ds-048,assembler,,,text,not_extracted,workbook:Table4:F53,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-048-origin,ds-048,origin,Real,Real,text,historical_unverified,workbook:Table4:G53,,Historical workbook assertion; not a verified primary-source fact.
+ds-048-size,ds-048,size,19.0,19,Gbp,historical_unverified,workbook:Table4:H53,,Historical workbook assertion; not a verified primary-source fact.
+ds-048-read_length,ds-048,read_length,,,bp,not_extracted,workbook:Table4:I53,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-048-environment,ds-048,environment,Mock Microbial Community,Mock Microbial Community,text,historical_unverified,workbook:Table4:J53,,Historical workbook assertion; not a verified primary-source fact.
+ds-048-ncbi,ds-048,ncbi,PRJNA546278,PRJNA546278,accession,historical_unverified,workbook:Table4:K53,,Historical workbook assertion; not a verified primary-source fact.
+ds-048-ena,ds-048,ena,,/,accession,not_extracted,workbook:Table4:L53,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-048-link_ref,ds-048,link_ref,[20],[20],reference,historical_unverified,workbook:Table4:M53,,Historical workbook assertion; not a verified primary-source fact.
+ds-048-original_ref,ds-048,original_ref,,,reference,not_extracted,workbook:Table4:N53,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-048-year,ds-048,year,,,year,not_extracted,workbook:Table4:O53,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-048-reuse_refs,ds-048,reuse_refs,,,reference,not_extracted,workbook:Table4:P53,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-048-n50,ds-048,n50,,,bp,not_extracted,workbook:Table4:Q53,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-048-assembly_size,ds-048,assembly_size,,,bp,not_extracted,workbook:Table4:R53,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-049-samples,ds-049,samples,17,17,count,historical_unverified,workbook:Table4:C54,,Historical workbook assertion; not a verified primary-source fact.
+ds-049-platform,ds-049,platform,PacBio-HiFi,PacBio-HiFi,text,historical_unverified,workbook:Table4:D54,,Historical workbook assertion; not a verified primary-source fact.
+ds-049-simulator,ds-049,simulator,,/,text,not_extracted,workbook:Table4:E54,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-049-assembler,ds-049,assembler,,,text,not_extracted,workbook:Table4:F54,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-049-origin,ds-049,origin,Real,Real,text,historical_unverified,workbook:Table4:G54,,Historical workbook assertion; not a verified primary-source fact.
+ds-049-size,ds-049,size,17.0,17,Gbp,historical_unverified,workbook:Table4:H54,,Historical workbook assertion; not a verified primary-source fact.
+ds-049-read_length,ds-049,read_length,,,bp,not_extracted,workbook:Table4:I54,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-049-environment,ds-049,environment,ZymoBIOMICS Gut Microbiome Standard D6331,ZymoBIOMICS Gut Microbiome Standard D6331,text,historical_unverified,workbook:Table4:J54,,Historical workbook assertion; not a verified primary-source fact.
+ds-049-ncbi,ds-049,ncbi,SRX9569057,SRX9569057,accession,historical_unverified,workbook:Table4:K54,,Historical workbook assertion; not a verified primary-source fact.
+ds-049-ena,ds-049,ena,,/,accession,not_extracted,workbook:Table4:L54,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-049-link_ref,ds-049,link_ref,[20],[20],reference,historical_unverified,workbook:Table4:M54,,Historical workbook assertion; not a verified primary-source fact.
+ds-049-original_ref,ds-049,original_ref,[59],[59],reference,historical_unverified,workbook:Table4:N54,,Historical workbook assertion; not a verified primary-source fact.
+ds-049-year,ds-049,year,2019,2019,year,historical_unverified,workbook:Table4:O54,,Historical workbook assertion; not a verified primary-source fact.
+ds-049-reuse_refs,ds-049,reuse_refs,,,reference,not_extracted,workbook:Table4:P54,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-049-n50,ds-049,n50,,,bp,not_extracted,workbook:Table4:Q54,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-049-assembly_size,ds-049,assembly_size,,,bp,not_extracted,workbook:Table4:R54,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-050-samples,ds-050,samples,17,17,count,historical_unverified,workbook:Table4:C55,,Historical workbook assertion; not a verified primary-source fact.
+ds-050-platform,ds-050,platform,PacBio-HiFi,PacBio-HiFi,text,historical_unverified,workbook:Table4:D55,,Historical workbook assertion; not a verified primary-source fact.
+ds-050-simulator,ds-050,simulator,,/,text,not_extracted,workbook:Table4:E55,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-050-assembler,ds-050,assembler,,,text,not_extracted,workbook:Table4:F55,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-050-origin,ds-050,origin,Real,Real,text,historical_unverified,workbook:Table4:G55,,Historical workbook assertion; not a verified primary-source fact.
+ds-050-size,ds-050,size,25.0,25,Gbp,historical_unverified,workbook:Table4:H55,,Historical workbook assertion; not a verified primary-source fact.
+ds-050-read_length,ds-050,read_length,,,bp,not_extracted,workbook:Table4:I55,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-050-environment,ds-050,environment,ZymoBIOMICS Gut Microbiome Standard D6331,ZymoBIOMICS Gut Microbiome Standard D6331,text,historical_unverified,workbook:Table4:J55,,Historical workbook assertion; not a verified primary-source fact.
+ds-050-ncbi,ds-050,ncbi,SRX9569058,SRX9569058,accession,historical_unverified,workbook:Table4:K55,,Historical workbook assertion; not a verified primary-source fact.
+ds-050-ena,ds-050,ena,,/,accession,not_extracted,workbook:Table4:L55,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-050-link_ref,ds-050,link_ref,[20],[20],reference,historical_unverified,workbook:Table4:M55,,Historical workbook assertion; not a verified primary-source fact.
+ds-050-original_ref,ds-050,original_ref,[59],[59],reference,historical_unverified,workbook:Table4:N55,,Historical workbook assertion; not a verified primary-source fact.
+ds-050-year,ds-050,year,2019,2019,year,historical_unverified,workbook:Table4:O55,,Historical workbook assertion; not a verified primary-source fact.
+ds-050-reuse_refs,ds-050,reuse_refs,,,reference,not_extracted,workbook:Table4:P55,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-050-n50,ds-050,n50,,,bp,not_extracted,workbook:Table4:Q55,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-050-assembly_size,ds-050,assembly_size,,,bp,not_extracted,workbook:Table4:R55,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-051-samples,ds-051,samples,17,17,count,historical_unverified,workbook:Table4:C56,,Historical workbook assertion; not a verified primary-source fact.
+ds-051-platform,ds-051,platform,PacBio-HiFi,PacBio-HiFi,text,historical_unverified,workbook:Table4:D56,,Historical workbook assertion; not a verified primary-source fact.
+ds-051-simulator,ds-051,simulator,,/,text,not_extracted,workbook:Table4:E56,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-051-assembler,ds-051,assembler,,,text,not_extracted,workbook:Table4:F56,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-051-origin,ds-051,origin,Real,Real,text,historical_unverified,workbook:Table4:G56,,Historical workbook assertion; not a verified primary-source fact.
+ds-051-size,ds-051,size,20.0,20,Gbp,historical_unverified,workbook:Table4:H56,,Historical workbook assertion; not a verified primary-source fact.
+ds-051-read_length,ds-051,read_length,,,bp,not_extracted,workbook:Table4:I56,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-051-environment,ds-051,environment,ZymoBIOMICS Gut Microbiome Standard D6331,ZymoBIOMICS Gut Microbiome Standard D6331,text,historical_unverified,workbook:Table4:J56,,Historical workbook assertion; not a verified primary-source fact.
+ds-051-ncbi,ds-051,ncbi,SRX9569059,SRX9569059,accession,historical_unverified,workbook:Table4:K56,,Historical workbook assertion; not a verified primary-source fact.
+ds-051-ena,ds-051,ena,,/,accession,not_extracted,workbook:Table4:L56,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-051-link_ref,ds-051,link_ref,[20],[20],reference,historical_unverified,workbook:Table4:M56,,Historical workbook assertion; not a verified primary-source fact.
+ds-051-original_ref,ds-051,original_ref,[59],[59],reference,historical_unverified,workbook:Table4:N56,,Historical workbook assertion; not a verified primary-source fact.
+ds-051-year,ds-051,year,2019,2019,year,historical_unverified,workbook:Table4:O56,,Historical workbook assertion; not a verified primary-source fact.
+ds-051-reuse_refs,ds-051,reuse_refs,,,reference,not_extracted,workbook:Table4:P56,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-051-n50,ds-051,n50,,,bp,not_extracted,workbook:Table4:Q56,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-051-assembly_size,ds-051,assembly_size,,,bp,not_extracted,workbook:Table4:R56,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-052-samples,ds-052,samples,10,10,count,historical_unverified,workbook:Table4:C57,,Historical workbook assertion; not a verified primary-source fact.
+ds-052-platform,ds-052,platform,Illumina HiSeq 1500,Illumina HiSeq 1500,text,historical_unverified,workbook:Table4:D57,,Historical workbook assertion; not a verified primary-source fact.
+ds-052-simulator,ds-052,simulator,,/,text,not_extracted,workbook:Table4:E57,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-052-assembler,ds-052,assembler,,,text,not_extracted,workbook:Table4:F57,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-052-origin,ds-052,origin,Real,Real,text,historical_unverified,workbook:Table4:G57,,Historical workbook assertion; not a verified primary-source fact.
+ds-052-size,ds-052,size,12.0,12,Gbp,historical_unverified,workbook:Table4:H57,,Historical workbook assertion; not a verified primary-source fact.
+ds-052-read_length,ds-052,read_length,1000.0,1000,bp,historical_unverified,workbook:Table4:I57,,Historical workbook assertion; not a verified primary-source fact.
+ds-052-environment,ds-052,environment,Mock Microbial Community,Mock Microbial Community,text,historical_unverified,workbook:Table4:J57,,Historical workbook assertion; not a verified primary-source fact.
+ds-052-ncbi,ds-052,ncbi,ERR3152364,ERR3152364,accession,historical_unverified,workbook:Table4:K57,,Historical workbook assertion; not a verified primary-source fact.
+ds-052-ena,ds-052,ena,,/,accession,not_extracted,workbook:Table4:L57,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-052-link_ref,ds-052,link_ref,[20],[20],reference,historical_unverified,workbook:Table4:M57,,Historical workbook assertion; not a verified primary-source fact.
+ds-052-original_ref,ds-052,original_ref,[59],[59],reference,historical_unverified,workbook:Table4:N57,,Historical workbook assertion; not a verified primary-source fact.
+ds-052-year,ds-052,year,2019,2019,year,historical_unverified,workbook:Table4:O57,,Historical workbook assertion; not a verified primary-source fact.
+ds-052-reuse_refs,ds-052,reuse_refs,,,reference,not_extracted,workbook:Table4:P57,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-052-n50,ds-052,n50,,,bp,not_extracted,workbook:Table4:Q57,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-052-assembly_size,ds-052,assembly_size,,,bp,not_extracted,workbook:Table4:R57,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-053-samples,ds-053,samples,,,count,not_extracted,workbook:Table4:C58,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-053-platform,ds-053,platform,Illumina,Illumina,text,historical_unverified,workbook:Table4:D58,,Historical workbook assertion; not a verified primary-source fact.
+ds-053-simulator,ds-053,simulator,,/,text,not_extracted,workbook:Table4:E58,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-053-assembler,ds-053,assembler,Metagene,Metagene,text,historical_unverified,workbook:Table4:F58,,Historical workbook assertion; not a verified primary-source fact.
+ds-053-origin,ds-053,origin,Real,Real,text,historical_unverified,workbook:Table4:G58,,Historical workbook assertion; not a verified primary-source fact.
+ds-053-size,ds-053,size,,,Gbp,not_extracted,workbook:Table4:H58,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-053-read_length,ds-053,read_length,395.0,395bp,bp,historical_unverified,workbook:Table4:I58,,Historical workbook assertion; not a verified primary-source fact.
+ds-053-environment,ds-053,environment,From a freshwater,From a freshwater,text,historical_unverified,workbook:Table4:J58,,Historical workbook assertion; not a verified primary-source fact.
+ds-053-ncbi,ds-053,ncbi,SRA023414.2,SRA023414.2,accession,historical_unverified,workbook:Table4:K58,,Historical workbook assertion; not a verified primary-source fact.
+ds-053-ena,ds-053,ena,,/,accession,not_extracted,workbook:Table4:L58,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-053-link_ref,ds-053,link_ref,,/,reference,not_extracted,workbook:Table4:M58,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-053-original_ref,ds-053,original_ref,,,reference,not_extracted,workbook:Table4:N58,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-053-year,ds-053,year,,,year,not_extracted,workbook:Table4:O58,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-053-reuse_refs,ds-053,reuse_refs,[30],[30],reference,historical_unverified,workbook:Table4:P58,,Historical workbook assertion; not a verified primary-source fact.
+ds-053-n50,ds-053,n50,,,bp,not_extracted,workbook:Table4:Q58,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-053-assembly_size,ds-053,assembly_size,,,bp,not_extracted,workbook:Table4:R58,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-054-samples,ds-054,samples,,,count,not_extracted,workbook:Table4:C59,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-054-platform,ds-054,platform,Illumina,Illumina,text,historical_unverified,workbook:Table4:D59,,Historical workbook assertion; not a verified primary-source fact.
+ds-054-simulator,ds-054,simulator,,/,text,not_extracted,workbook:Table4:E59,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-054-assembler,ds-054,assembler,Metagene,Metagene,text,historical_unverified,workbook:Table4:F59,,Historical workbook assertion; not a verified primary-source fact.
+ds-054-origin,ds-054,origin,Real,Real,text,historical_unverified,workbook:Table4:G59,,Historical workbook assertion; not a verified primary-source fact.
+ds-054-size,ds-054,size,,,Gbp,not_extracted,workbook:Table4:H59,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-054-read_length,ds-054,read_length,100.0,100bp,bp,historical_unverified,workbook:Table4:I59,,Historical workbook assertion; not a verified primary-source fact.
+ds-054-environment,ds-054,environment,From a freshwater,From a freshwater,text,historical_unverified,workbook:Table4:J59,,Historical workbook assertion; not a verified primary-source fact.
+ds-054-ncbi,ds-054,ncbi,SRA029309.1,SRA029309.1,accession,historical_unverified,workbook:Table4:K59,,Historical workbook assertion; not a verified primary-source fact.
+ds-054-ena,ds-054,ena,,/,accession,not_extracted,workbook:Table4:L59,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-054-link_ref,ds-054,link_ref,,/,reference,not_extracted,workbook:Table4:M59,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-054-original_ref,ds-054,original_ref,,,reference,not_extracted,workbook:Table4:N59,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-054-year,ds-054,year,,,year,not_extracted,workbook:Table4:O59,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-054-reuse_refs,ds-054,reuse_refs,[30],[30],reference,historical_unverified,workbook:Table4:P59,,Historical workbook assertion; not a verified primary-source fact.
+ds-054-n50,ds-054,n50,,,bp,not_extracted,workbook:Table4:Q59,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-054-assembly_size,ds-054,assembly_size,,,bp,not_extracted,workbook:Table4:R59,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-055-samples,ds-055,samples,,,count,not_extracted,workbook:Table4:C60,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-055-platform,ds-055,platform,Illumina,Illumina,text,historical_unverified,workbook:Table4:D60,,Historical workbook assertion; not a verified primary-source fact.
+ds-055-simulator,ds-055,simulator,,/,text,not_extracted,workbook:Table4:E60,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-055-assembler,ds-055,assembler,Metagene,Metagene,text,historical_unverified,workbook:Table4:F60,,Historical workbook assertion; not a verified primary-source fact.
+ds-055-origin,ds-055,origin,Real,Real,text,historical_unverified,workbook:Table4:G60,,Historical workbook assertion; not a verified primary-source fact.
+ds-055-size,ds-055,size,,,Gbp,not_extracted,workbook:Table4:H60,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-055-read_length,ds-055,read_length,100.0,100bp,bp,historical_unverified,workbook:Table4:I60,,Historical workbook assertion; not a verified primary-source fact.
+ds-055-environment,ds-055,environment,From a freshwater,From a freshwater,text,historical_unverified,workbook:Table4:J60,,Historical workbook assertion; not a verified primary-source fact.
+ds-055-ncbi,ds-055,ncbi,SRA029314.1,SRA029314.1,accession,historical_unverified,workbook:Table4:K60,,Historical workbook assertion; not a verified primary-source fact.
+ds-055-ena,ds-055,ena,,/,accession,not_extracted,workbook:Table4:L60,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-055-link_ref,ds-055,link_ref,,/,reference,not_extracted,workbook:Table4:M60,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-055-original_ref,ds-055,original_ref,,,reference,not_extracted,workbook:Table4:N60,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-055-year,ds-055,year,,,year,not_extracted,workbook:Table4:O60,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-055-reuse_refs,ds-055,reuse_refs,[30],[30],reference,historical_unverified,workbook:Table4:P60,,Historical workbook assertion; not a verified primary-source fact.
+ds-055-n50,ds-055,n50,,,bp,not_extracted,workbook:Table4:Q60,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-055-assembly_size,ds-055,assembly_size,,,bp,not_extracted,workbook:Table4:R60,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-056-samples,ds-056,samples,,,count,not_extracted,workbook:Table4:C61,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-056-platform,ds-056,platform,Illumina,Illumina,text,historical_unverified,workbook:Table4:D61,,Historical workbook assertion; not a verified primary-source fact.
+ds-056-simulator,ds-056,simulator,,/,text,not_extracted,workbook:Table4:E61,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-056-assembler,ds-056,assembler,Metagene,Metagene,text,historical_unverified,workbook:Table4:F61,,Historical workbook assertion; not a verified primary-source fact.
+ds-056-origin,ds-056,origin,Real,Real,text,historical_unverified,workbook:Table4:G61,,Historical workbook assertion; not a verified primary-source fact.
+ds-056-size,ds-056,size,,,Gbp,not_extracted,workbook:Table4:H61,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-056-read_length,ds-056,read_length,100.0,100bp,bp,historical_unverified,workbook:Table4:I61,,Historical workbook assertion; not a verified primary-source fact.
+ds-056-environment,ds-056,environment,From a freshwater,From a freshwater,text,historical_unverified,workbook:Table4:J61,,Historical workbook assertion; not a verified primary-source fact.
+ds-056-ncbi,ds-056,ncbi,SRA029315.1,SRA029315.1,accession,historical_unverified,workbook:Table4:K61,,Historical workbook assertion; not a verified primary-source fact.
+ds-056-ena,ds-056,ena,,/,accession,not_extracted,workbook:Table4:L61,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-056-link_ref,ds-056,link_ref,,/,reference,not_extracted,workbook:Table4:M61,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-056-original_ref,ds-056,original_ref,,,reference,not_extracted,workbook:Table4:N61,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-056-year,ds-056,year,,,year,not_extracted,workbook:Table4:O61,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-056-reuse_refs,ds-056,reuse_refs,[30],[30],reference,historical_unverified,workbook:Table4:P61,,Historical workbook assertion; not a verified primary-source fact.
+ds-056-n50,ds-056,n50,,,bp,not_extracted,workbook:Table4:Q61,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-056-assembly_size,ds-056,assembly_size,,,bp,not_extracted,workbook:Table4:R61,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-057-samples,ds-057,samples,,,count,not_extracted,workbook:Table4:C62,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-057-platform,ds-057,platform,Illumina,Illumina,text,historical_unverified,workbook:Table4:D62,,Historical workbook assertion; not a verified primary-source fact.
+ds-057-simulator,ds-057,simulator,,/,text,not_extracted,workbook:Table4:E62,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-057-assembler,ds-057,assembler,Metagene,Metagene,text,historical_unverified,workbook:Table4:F62,,Historical workbook assertion; not a verified primary-source fact.
+ds-057-origin,ds-057,origin,Real,Real,text,historical_unverified,workbook:Table4:G62,,Historical workbook assertion; not a verified primary-source fact.
+ds-057-size,ds-057,size,,,Gbp,not_extracted,workbook:Table4:H62,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-057-read_length,ds-057,read_length,100.0,100bp,bp,historical_unverified,workbook:Table4:I62,,Historical workbook assertion; not a verified primary-source fact.
+ds-057-environment,ds-057,environment,From a freshwater,From a freshwater,text,historical_unverified,workbook:Table4:J62,,Historical workbook assertion; not a verified primary-source fact.
+ds-057-ncbi,ds-057,ncbi,SRA029315.1,SRA029315.1,accession,historical_unverified,workbook:Table4:K62,,Historical workbook assertion; not a verified primary-source fact.
+ds-057-ena,ds-057,ena,,/,accession,not_extracted,workbook:Table4:L62,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-057-link_ref,ds-057,link_ref,,/,reference,not_extracted,workbook:Table4:M62,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-057-original_ref,ds-057,original_ref,,,reference,not_extracted,workbook:Table4:N62,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-057-year,ds-057,year,,,year,not_extracted,workbook:Table4:O62,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-057-reuse_refs,ds-057,reuse_refs,[30],[30],reference,historical_unverified,workbook:Table4:P62,,Historical workbook assertion; not a verified primary-source fact.
+ds-057-n50,ds-057,n50,,,bp,not_extracted,workbook:Table4:Q62,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-057-assembly_size,ds-057,assembly_size,,,bp,not_extracted,workbook:Table4:R62,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-058-samples,ds-058,samples,96,96,count,historical_unverified,workbook:Table4:C63,,Historical workbook assertion; not a verified primary-source fact.
+ds-058-platform,ds-058,platform,,,text,not_extracted,workbook:Table4:D63,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-058-simulator,ds-058,simulator,,,text,not_extracted,workbook:Table4:E63,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-058-assembler,ds-058,assembler,,,text,not_extracted,workbook:Table4:F63,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-058-origin,ds-058,origin,Simulated,Simulated,text,historical_unverified,workbook:Table4:G63,,Historical workbook assertion; not a verified primary-source fact.
+ds-058-size,ds-058,size,,,Gbp,not_extracted,workbook:Table4:H63,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-058-read_length,ds-058,read_length,,,bp,not_extracted,workbook:Table4:I63,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-058-environment,ds-058,environment,101 different species across 96 samples,101 different species across 96 samples,text,historical_unverified,workbook:Table4:J63,,Historical workbook assertion; not a verified primary-source fact.
+ds-058-ncbi,ds-058,ncbi,,,accession,not_extracted,workbook:Table4:K63,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-058-ena,ds-058,ena,,,accession,not_extracted,workbook:Table4:L63,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-058-link_ref,ds-058,link_ref,,,reference,not_extracted,workbook:Table4:M63,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-058-original_ref,ds-058,original_ref,[50],[50],reference,historical_unverified,workbook:Table4:N63,,Historical workbook assertion; not a verified primary-source fact.
+ds-058-year,ds-058,year,2012,2012,year,historical_unverified,workbook:Table4:O63,,Historical workbook assertion; not a verified primary-source fact.
+ds-058-reuse_refs,ds-058,reuse_refs,[43] [49] [44],[43] [49] [44],reference,historical_unverified,workbook:Table4:P63,,Historical workbook assertion; not a verified primary-source fact.
+ds-058-n50,ds-058,n50,,,bp,not_extracted,workbook:Table4:Q63,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-058-assembly_size,ds-058,assembly_size,,,bp,not_extracted,workbook:Table4:R63,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-059-samples,ds-059,samples,64,64,count,historical_unverified,workbook:Table4:C64,,Historical workbook assertion; not a verified primary-source fact.
+ds-059-platform,ds-059,platform,,,text,not_extracted,workbook:Table4:D64,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-059-simulator,ds-059,simulator,,,text,not_extracted,workbook:Table4:E64,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-059-assembler,ds-059,assembler,,,text,not_extracted,workbook:Table4:F64,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-059-origin,ds-059,origin,Simulated,Simulated,text,historical_unverified,workbook:Table4:G64,,Historical workbook assertion; not a verified primary-source fact.
+ds-059-size,ds-059,size,,,Gbp,not_extracted,workbook:Table4:H64,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-059-read_length,ds-059,read_length,,,bp,not_extracted,workbook:Table4:I64,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-059-environment,ds-059,environment,20 different species or strains across 64 samples,20 different species or strains across 64 samples,text,historical_unverified,workbook:Table4:J64,,Historical workbook assertion; not a verified primary-source fact.
+ds-059-ncbi,ds-059,ncbi,,,accession,not_extracted,workbook:Table4:K64,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-059-ena,ds-059,ena,,,accession,not_extracted,workbook:Table4:L64,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-059-link_ref,ds-059,link_ref,,,reference,not_extracted,workbook:Table4:M64,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-059-original_ref,ds-059,original_ref,[50],[50],reference,historical_unverified,workbook:Table4:N64,,Historical workbook assertion; not a verified primary-source fact.
+ds-059-year,ds-059,year,2012,2012,year,historical_unverified,workbook:Table4:O64,,Historical workbook assertion; not a verified primary-source fact.
+ds-059-reuse_refs,ds-059,reuse_refs,[43] [49] [44],[43] [49] [44],reference,historical_unverified,workbook:Table4:P64,,Historical workbook assertion; not a verified primary-source fact.
+ds-059-n50,ds-059,n50,,,bp,not_extracted,workbook:Table4:Q64,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-059-assembly_size,ds-059,assembly_size,,,bp,not_extracted,workbook:Table4:R64,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-060-samples,ds-060,samples,1,1,count,historical_unverified,workbook:Table4:C65,,Historical workbook assertion; not a verified primary-source fact.
+ds-060-platform,ds-060,platform,Solexa,Solexa,text,historical_unverified,workbook:Table4:D65,,Historical workbook assertion; not a verified primary-source fact.
+ds-060-simulator,ds-060,simulator,,,text,not_extracted,workbook:Table4:E65,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-060-assembler,ds-060,assembler,Metasim,Metasim,text,historical_unverified,workbook:Table4:F65,,Historical workbook assertion; not a verified primary-source fact.
+ds-060-origin,ds-060,origin,Simulated,Simulated,text,historical_unverified,workbook:Table4:G65,,Historical workbook assertion; not a verified primary-source fact.
+ds-060-size,ds-060,size,,,Gbp,not_extracted,workbook:Table4:H65,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-060-read_length,ds-060,read_length,100.0,100bp,bp,historical_unverified,workbook:Table4:I65,,Historical workbook assertion; not a verified primary-source fact.
+ds-060-environment,ds-060,environment,Simulate low-complexity communities,Simulate low-complexity communities,text,historical_unverified,workbook:Table4:J65,,Historical workbook assertion; not a verified primary-source fact.
+ds-060-ncbi,ds-060,ncbi,,,accession,not_extracted,workbook:Table4:K65,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-060-ena,ds-060,ena,,,accession,not_extracted,workbook:Table4:L65,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-060-link_ref,ds-060,link_ref,,,reference,not_extracted,workbook:Table4:M65,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-060-original_ref,ds-060,original_ref,[51],[51],reference,historical_unverified,workbook:Table4:N65,,Historical workbook assertion; not a verified primary-source fact.
+ds-060-year,ds-060,year,2011,2011,year,historical_unverified,workbook:Table4:O65,,Historical workbook assertion; not a verified primary-source fact.
+ds-060-reuse_refs,ds-060,reuse_refs,[43] [45],[43] [45],reference,historical_unverified,workbook:Table4:P65,,Historical workbook assertion; not a verified primary-source fact.
+ds-060-n50,ds-060,n50,,,bp,not_extracted,workbook:Table4:Q65,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-060-assembly_size,ds-060,assembly_size,,,bp,not_extracted,workbook:Table4:R65,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-061-samples,ds-061,samples,,,count,not_extracted,workbook:Table4:C66,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-061-platform,ds-061,platform,Solexa,Solexa,text,historical_unverified,workbook:Table4:D66,,Historical workbook assertion; not a verified primary-source fact.
+ds-061-simulator,ds-061,simulator,,,text,not_extracted,workbook:Table4:E66,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-061-assembler,ds-061,assembler,Metasim,Metasim,text,historical_unverified,workbook:Table4:F66,,Historical workbook assertion; not a verified primary-source fact.
+ds-061-origin,ds-061,origin,Simulated,Simulated,text,historical_unverified,workbook:Table4:G66,,Historical workbook assertion; not a verified primary-source fact.
+ds-061-size,ds-061,size,,,Gbp,not_extracted,workbook:Table4:H66,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-061-read_length,ds-061,read_length,100.0,100bp,bp,historical_unverified,workbook:Table4:I66,,Historical workbook assertion; not a verified primary-source fact.
+ds-061-environment,ds-061,environment,Simulate moderately complex communities,Simulate moderately complex communities,text,historical_unverified,workbook:Table4:J66,,Historical workbook assertion; not a verified primary-source fact.
+ds-061-ncbi,ds-061,ncbi,,,accession,not_extracted,workbook:Table4:K66,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-061-ena,ds-061,ena,,,accession,not_extracted,workbook:Table4:L66,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-061-link_ref,ds-061,link_ref,,,reference,not_extracted,workbook:Table4:M66,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-061-original_ref,ds-061,original_ref,[51],[51],reference,historical_unverified,workbook:Table4:N66,,Historical workbook assertion; not a verified primary-source fact.
+ds-061-year,ds-061,year,2011,2011,year,historical_unverified,workbook:Table4:O66,,Historical workbook assertion; not a verified primary-source fact.
+ds-061-reuse_refs,ds-061,reuse_refs,[45],[45],reference,historical_unverified,workbook:Table4:P66,,Historical workbook assertion; not a verified primary-source fact.
+ds-061-n50,ds-061,n50,,,bp,not_extracted,workbook:Table4:Q66,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-061-assembly_size,ds-061,assembly_size,,,bp,not_extracted,workbook:Table4:R66,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-062-samples,ds-062,samples,,,count,not_extracted,workbook:Table4:C67,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-062-platform,ds-062,platform,Solexa,Solexa,text,historical_unverified,workbook:Table4:D67,,Historical workbook assertion; not a verified primary-source fact.
+ds-062-simulator,ds-062,simulator,,,text,not_extracted,workbook:Table4:E67,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-062-assembler,ds-062,assembler,Metasim,Metasim,text,historical_unverified,workbook:Table4:F67,,Historical workbook assertion; not a verified primary-source fact.
+ds-062-origin,ds-062,origin,Simulated,Simulated,text,historical_unverified,workbook:Table4:G67,,Historical workbook assertion; not a verified primary-source fact.
+ds-062-size,ds-062,size,,,Gbp,not_extracted,workbook:Table4:H67,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-062-read_length,ds-062,read_length,100.0,100bp,bp,historical_unverified,workbook:Table4:I67,,Historical workbook assertion; not a verified primary-source fact.
+ds-062-environment,ds-062,environment,Simulate high-complexity communities,Simulate high-complexity communities,text,historical_unverified,workbook:Table4:J67,,Historical workbook assertion; not a verified primary-source fact.
+ds-062-ncbi,ds-062,ncbi,,,accession,not_extracted,workbook:Table4:K67,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-062-ena,ds-062,ena,,,accession,not_extracted,workbook:Table4:L67,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-062-link_ref,ds-062,link_ref,,,reference,not_extracted,workbook:Table4:M67,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-062-original_ref,ds-062,original_ref,[51],[51],reference,historical_unverified,workbook:Table4:N67,,Historical workbook assertion; not a verified primary-source fact.
+ds-062-year,ds-062,year,2011,2011,year,historical_unverified,workbook:Table4:O67,,Historical workbook assertion; not a verified primary-source fact.
+ds-062-reuse_refs,ds-062,reuse_refs,[45],[45],reference,historical_unverified,workbook:Table4:P67,,Historical workbook assertion; not a verified primary-source fact.
+ds-062-n50,ds-062,n50,,,bp,not_extracted,workbook:Table4:Q67,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-062-assembly_size,ds-062,assembly_size,,,bp,not_extracted,workbook:Table4:R67,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-063-samples,ds-063,samples,8,8,count,historical_unverified,workbook:Table4:C68,,Historical workbook assertion; not a verified primary-source fact.
+ds-063-platform,ds-063,platform,,,text,not_extracted,workbook:Table4:D68,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-063-simulator,ds-063,simulator,,/,text,not_extracted,workbook:Table4:E68,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-063-assembler,ds-063,assembler,,,text,not_extracted,workbook:Table4:F68,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-063-origin,ds-063,origin,Real,Real,text,historical_unverified,workbook:Table4:G68,,Historical workbook assertion; not a verified primary-source fact.
+ds-063-size,ds-063,size,0.158099,158.099Mbp,Gbp,historical_unverified,workbook:Table4:H68,,Historical workbook assertion; not a verified primary-source fact.
+ds-063-read_length,ds-063,read_length,,,bp,not_extracted,workbook:Table4:I68,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-063-environment,ds-063,environment,Human Microbiome,Human Microbiome,text,historical_unverified,workbook:Table4:J68,,Historical workbook assertion; not a verified primary-source fact.
+ds-063-ncbi,ds-063,ncbi,SRX378791,SRX378791,accession,historical_unverified,workbook:Table4:K68,,Historical workbook assertion; not a verified primary-source fact.
+ds-063-ena,ds-063,ena,,/,accession,not_extracted,workbook:Table4:L68,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-063-link_ref,ds-063,link_ref,,/,reference,not_extracted,workbook:Table4:M68,,Blank or slash means not extracted; slash is not inferred as not applicable.
+ds-063-original_ref,ds-063,original_ref,[19],[19],reference,historical_unverified,workbook:Table4:N68,,Historical workbook assertion; not a verified primary-source fact.
+ds-063-year,ds-063,year,2017,2017,year,historical_unverified,workbook:Table4:O68,,Historical workbook assertion; not a verified primary-source fact.
+ds-063-reuse_refs,ds-063,reuse_refs,[2],[2],reference,historical_unverified,workbook:Table4:P68,,Historical workbook assertion; not a verified primary-source fact.
+ds-063-n50,ds-063,n50,1123,1123,bp,historical_unverified,workbook:Table4:Q68,,Historical workbook assertion; not a verified primary-source fact.
+ds-063-assembly_size,ds-063,assembly_size,,,bp,not_extracted,workbook:Table4:R68,,Blank or slash means not extracted; slash is not inferred as not applicable.
