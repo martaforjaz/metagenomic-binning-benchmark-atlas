@@ -4,7 +4,7 @@ export MPLCONFIGDIR = /tmp/atlas-matplotlib
 export XDG_CACHE_HOME = /tmp/atlas-cache
 .PHONY: setup reproduce test experiment pdf serve
 setup:
-	uv venv --python python3.12 .venv
+	test -x $(PY) || uv venv --python python3.12 .venv
 	uv pip sync --python $(PY) --require-hashes requirements.lock
 reproduce:
 	$(PY) scripts/curate.py

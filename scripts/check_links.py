@@ -4,7 +4,7 @@ from pathlib import Path
 R=Path(__file__).resolve().parents[1]
 def check():
  errors=[];n=0
- files=[R/'README.md',*list((R/'docs').glob('*.md')),R/'site/index.html']
+ files=[R/'README.md',*list((R/'docs').glob('*.md')),R/'site/index.html',*list((R/'site/downloads').glob('*.md'))]
  for p in files:
   text=p.read_text()
   links=re.findall(r'(?:href|src)="([^"]+)"',text) if p.suffix=='.html' else re.findall(r'\]\(([^)]+)\)',text)

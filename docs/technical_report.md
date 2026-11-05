@@ -127,4 +127,3 @@ Run make setup, make reproduce, make test, make experiment, then make reproduce.
 [comebin] Effective binning of metagenomic contigs using contrastive multi-view representation learning (2024). https://doi.org/10.1038/s41467-023-44290-z . Citation checked against src-comebin; article full text not independently retrieved.
 
 [metabinner] MetaBinner: a high-performance and stand-alone ensemble binning method to recover individual genomes from complex microbial communities (2023). https://doi.org/10.1186/s13059-022-02832-6 . Citation checked against src-metabinner; article full text not independently retrieved.
-

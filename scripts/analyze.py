@@ -13,6 +13,8 @@ plt.rcParams.update({'font.family':'DejaVu Sans','font.size':10,'axes.spines.top
 def save(fig,name):
  fig.tight_layout()
  for ext in ['svg','pdf','png']:fig.savefig(R/f'figures/{name}.{ext}',dpi=320,bbox_inches='tight',metadata={'Creator':'Metagenomic Binning Benchmark Atlas'} if ext=='pdf' else None)
+ for f in (R/'figures').glob(name+'.svg'):
+  f.write_text('\n'.join(line.rstrip() for line in f.read_text().splitlines())+'\n')
  plt.close(fig)
 def analyze():
  ds=read('data/curated/datasets.csv');cs=read('data/curated/claims.csv');es=read('data/curated/reported_reuse.csv');issues=read('data/derived/issues.csv');n=len(ds)

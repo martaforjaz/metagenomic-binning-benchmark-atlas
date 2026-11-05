@@ -101,6 +101,7 @@ Run make setup, make reproduce, make test, make experiment, then make reproduce.
 
 '''
  for x in read('data/curated/studies.csv'):report+=f"[{x['study_id']}] {x['title']} ({x['year']}). https://doi.org/{x['doi']} . Citation checked against {x['source_id']}; article full text not independently retrieved.\n\n"
+ report=report.rstrip()+'\n'
  (R/'docs/technical_report.md').write_text(report)
  readme=f'''# Metagenomic Binning Benchmark Atlas
 
@@ -151,6 +152,8 @@ Code: MIT. Original curation/text/figures: CC BY 4.0. External articles, metadat
  assert '@@' not in site
  (R/'site/index.html').write_text(site)
  pdf(report)
+ image_dir=R/'site/figures';image_dir.mkdir(exist_ok=True)
+ for f in (R/'figures').glob('*.png'):shutil.copy(f,image_dir/f.name)
  dest=R/'site/downloads';dest.mkdir(exist_ok=True)
  for file in ['docs/technical_report.pdf','docs/technical_report.md','docs/review.md','docs/audit.md','docs/data_dictionary.md','docs/provenance.md','data/curated/datasets.csv','data/curated/claims.csv','data/derived/issues.csv','data/derived/field_presence.csv','results/metrics.csv','results/run.json','experiments/protocol.json','bibliography.bib']:
   if (R/file).exists():shutil.copy(R/file,dest/Path(file).name)

@@ -419,7 +419,7 @@ ds-027-samples,ds-027,samples,51,51,count,historical_unverified,workbook:Table4:
 ds-027-platform,ds-027,platform,Illumina HiSeq 2500,Illumina HiSeq 2500,text,historical_unverified,workbook:Table4:D32,,Historical workbook assertion; not a verified primary-source fact.
 ds-027-simulator,ds-027,simulator,,,text,not_extracted,workbook:Table4:E32,,Blank or slash means not extracted; slash is not inferred as not applicable.
 ds-027-assembler,ds-027,assembler,MetaSPAdes,MetaSPAdes,text,historical_unverified,workbook:Table4:F32,,Historical workbook assertion; not a verified primary-source fact.
-ds-027-origin,ds-027,origin,Simulated,Simulated,text,historical_unverified,workbook:Table4:G32,,Historical workbook assertion; not a verified primary-source fact.
+ds-027-origin,ds-027,origin,Simulated,Simulated,text,contradictory,workbook:Table4:G32,,Historical workbook assertion; not a verified primary-source fact.
 ds-027-size,ds-027,size,8.0,8,Gbp,historical_unverified,workbook:Table4:H32,,Historical workbook assertion; not a verified primary-source fact.
 ds-027-read_length,ds-027,read_length,125,2x125,bp,historical_unverified,workbook:Table4:I32,,Historical workbook assertion; not a verified primary-source fact.
 ds-027-environment,ds-027,environment,51 bacteria isolated from the human gut,51 bacteria isolated from the human gut,text,historical_unverified,workbook:Table4:J32,,Historical workbook assertion; not a verified primary-source fact.
@@ -435,7 +435,7 @@ ds-028-samples,ds-028,samples,,,count,not_extracted,workbook:Table4:C33,,Blank o
 ds-028-platform,ds-028,platform,Illumina HiSeq 2500,Illumina HiSeq 2500,text,historical_unverified,workbook:Table4:D33,,Historical workbook assertion; not a verified primary-source fact.
 ds-028-simulator,ds-028,simulator,,,text,not_extracted,workbook:Table4:E33,,Blank or slash means not extracted; slash is not inferred as not applicable.
 ds-028-assembler,ds-028,assembler,MetaSPAdes,MetaSPAdes,text,historical_unverified,workbook:Table4:F33,,Historical workbook assertion; not a verified primary-source fact.
-ds-028-origin,ds-028,origin,Simulated,Simulated,text,historical_unverified,workbook:Table4:G33,,Historical workbook assertion; not a verified primary-source fact.
+ds-028-origin,ds-028,origin,Simulated,Simulated,text,contradictory,workbook:Table4:G33,,Historical workbook assertion; not a verified primary-source fact.
 ds-028-size,ds-028,size,,,Gbp,not_extracted,workbook:Table4:H33,,Blank or slash means not extracted; slash is not inferred as not applicable.
 ds-028-read_length,ds-028,read_length,125,2x125,bp,historical_unverified,workbook:Table4:I33,,Historical workbook assertion; not a verified primary-source fact.
 ds-028-environment,ds-028,environment,DNA solutions of Mix-51 prepared at equimolar concentrations,DNA solutions of Mix-51 prepared at equimolar concentrations,text,historical_unverified,workbook:Table4:J33,,Historical workbook assertion; not a verified primary-source fact.
@@ -451,7 +451,7 @@ ds-029-samples,ds-029,samples,,,count,not_extracted,workbook:Table4:C34,,Blank o
 ds-029-platform,ds-029,platform,Illumina HiSeq 2500,Illumina HiSeq 2500,text,historical_unverified,workbook:Table4:D34,,Historical workbook assertion; not a verified primary-source fact.
 ds-029-simulator,ds-029,simulator,,,text,not_extracted,workbook:Table4:E34,,Blank or slash means not extracted; slash is not inferred as not applicable.
 ds-029-assembler,ds-029,assembler,MetaSPAdes,MetaSPAdes,text,historical_unverified,workbook:Table4:F34,,Historical workbook assertion; not a verified primary-source fact.
-ds-029-origin,ds-029,origin,Simulated,Simulated,text,historical_unverified,workbook:Table4:G34,,Historical workbook assertion; not a verified primary-source fact.
+ds-029-origin,ds-029,origin,Simulated,Simulated,text,contradictory,workbook:Table4:G34,,Historical workbook assertion; not a verified primary-source fact.
 ds-029-size,ds-029,size,,,Gbp,not_extracted,workbook:Table4:H34,,Blank or slash means not extracted; slash is not inferred as not applicable.
 ds-029-read_length,ds-029,read_length,125,2x125,bp,historical_unverified,workbook:Table4:I34,,Historical workbook assertion; not a verified primary-source fact.
 ds-029-environment,ds-029,environment,DNA solutions of Mix-51 prepared at differential  concentrations,DNA solutions of Mix-51 prepared at differential  concentrations,text,historical_unverified,workbook:Table4:J34,,Historical workbook assertion; not a verified primary-source fact.
@@ -467,7 +467,7 @@ ds-030-samples,ds-030,samples,,,count,not_extracted,workbook:Table4:C35,,Blank o
 ds-030-platform,ds-030,platform,Illumina HiSeq 2500,Illumina HiSeq 2500,text,historical_unverified,workbook:Table4:D35,,Historical workbook assertion; not a verified primary-source fact.
 ds-030-simulator,ds-030,simulator,,,text,not_extracted,workbook:Table4:E35,,Blank or slash means not extracted; slash is not inferred as not applicable.
 ds-030-assembler,ds-030,assembler,MetaSPAdes,MetaSPAdes,text,historical_unverified,workbook:Table4:F35,,Historical workbook assertion; not a verified primary-source fact.
-ds-030-origin,ds-030,origin,Simulated,Simulated,text,historical_unverified,workbook:Table4:G35,,Historical workbook assertion; not a verified primary-source fact.
+ds-030-origin,ds-030,origin,Simulated,Simulated,text,contradictory,workbook:Table4:G35,,Historical workbook assertion; not a verified primary-source fact.
 ds-030-size,ds-030,size,,,Gbp,not_extracted,workbook:Table4:H35,,Blank or slash means not extracted; slash is not inferred as not applicable.
 ds-030-read_length,ds-030,read_length,125,2x125,bp,historical_unverified,workbook:Table4:I35,,Historical workbook assertion; not a verified primary-source fact.
 ds-030-environment,ds-030,environment,a sample of the marine sponge Hippospongia lachne,a sample of the marine sponge Hippospongia lachne,text,historical_unverified,workbook:Table4:J35,,Historical workbook assertion; not a verified primary-source fact.
@@ -483,7 +483,7 @@ ds-031-samples,ds-031,samples,,,count,not_extracted,workbook:Table4:C36,,Blank o
 ds-031-platform,ds-031,platform,Illumina HiSeq 2500,Illumina HiSeq 2500,text,historical_unverified,workbook:Table4:D36,,Historical workbook assertion; not a verified primary-source fact.
 ds-031-simulator,ds-031,simulator,,,text,not_extracted,workbook:Table4:E36,,Blank or slash means not extracted; slash is not inferred as not applicable.
 ds-031-assembler,ds-031,assembler,MetaSPAdes,MetaSPAdes,text,historical_unverified,workbook:Table4:F36,,Historical workbook assertion; not a verified primary-source fact.
-ds-031-origin,ds-031,origin,Simulated,Simulated,text,historical_unverified,workbook:Table4:G36,,Historical workbook assertion; not a verified primary-source fact.
+ds-031-origin,ds-031,origin,Simulated,Simulated,text,contradictory,workbook:Table4:G36,,Historical workbook assertion; not a verified primary-source fact.
 ds-031-size,ds-031,size,,,Gbp,not_extracted,workbook:Table4:H36,,Blank or slash means not extracted; slash is not inferred as not applicable.
 ds-031-read_length,ds-031,read_length,125,2x125,bp,historical_unverified,workbook:Table4:I36,,Historical workbook assertion; not a verified primary-source fact.
 ds-031-environment,ds-031,environment,a sample of the marine sponge Hippospongia lachne,a sample of the marine sponge Hippospongia lachne,text,historical_unverified,workbook:Table4:J36,,Historical workbook assertion; not a verified primary-source fact.

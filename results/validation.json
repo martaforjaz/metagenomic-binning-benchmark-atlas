@@ -1,0 +1,8 @@
+{
+  "date": "2026-11-05",
+  "python_tests": {"passed": 13, "failed": 0},
+  "clean_checkout": {"path_role": "independent temporary clone without private attachments or preinstalled venv", "installation": "requirements.lock with hashes", "reproduction": "passed", "tests": "13 passed", "official_experiment_refetched": "passed", "tables_compared": 17, "table_differences": 0},
+  "browser": {"engine": "Chromium via Playwright", "records_loaded": 63, "cami_search_results": 13, "contradictory_origin_results": 5, "empty_search": "passed", "mobile_viewport": "390x844", "horizontal_page_overflow": false, "page_errors": [], "representative_downloads": "HTTP 200"},
+  "visual_inspection": "Report PDF first/evaluation pages and full desktop/mobile site screenshots inspected; embedded font correction applied",
+  "scope": "Local/clean-instance validation; not remote Actions or live Pages verification"
+}

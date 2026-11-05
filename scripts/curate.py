@@ -46,6 +46,7 @@ def curate():
                 issue(d,k,'n50_semantics_unconfirmed','Workbook legend calls N50 read length; assembly/read N50 and unit require primary confirmation.')
                 if normalize_number(raw,'bp') is not None and normalize_number(raw,'bp')<100:status='contradictory';issue(d,k,'suspected_kbp','Small decimal under bp heading; do not rescale without source.')
             if k=='assembly_size' and val and not re.search(r'[a-zA-Z]',raw):status='contradictory';issue(d,k,'missing_unit','Assembly size lacks unit; no numeric conversion.')
+            if k=='origin' and (label.startswith('Mix-51') or label.startswith('FL20')):status='contradictory'
             claims.append(dict(claim_id=d+'-'+k,dataset_id=d,field=k,value=val,raw_value=raw,unit=unit,status=status,source='workbook:Table4:'+col+x['row'],verification_date='',note='Blank or slash means not extracted; slash is not inferred as not applicable.' if status=='not_extracted' else 'Historical workbook assertion; not a verified primary-source fact.'))
         if label.startswith('Mix-51') or label.startswith('FL20'):issue(d,'origin','mock_vs_simulated','Workbook says simulated but describes physical DNA mixtures/spike-ins; origin unresolved.');cat['origin']='contradictory'
         if label in ['MSA-1003','Zymo_D6331_STD','Zymo_D6331_LOW','Zymo_D6331_ULI','ZymoEVEN']:issue(d,'samples','samples_vs_organisms','Mock composition may be confused with sample count; retain unverified count.')
