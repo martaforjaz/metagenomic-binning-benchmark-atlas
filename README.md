@@ -2,7 +2,14 @@
 
 **Which metagenomic binning benchmarks can we fairly compare?** A provenance-aware catalog, bounded scoping review and executable common-protocol evaluation.
 
-![Historical metadata availability](figures/metadata.png)
+![Four phases from published records to catalog, validation and comparison.](figures/paper-workflow.svg)
+
+The workflow distinguishes historical catalog provenance from standardized evaluation.
+
+![Percent of historical workbook records with an entry for each catalog field.](figures/paper-results.svg)
+
+Coverage describes the 63 historical workbook records. It does not measure reporting completeness in the original publications.
+The vector figures are available as PDF in [figures/](figures/). With Python, NumPy and Matplotlib installed, run `python paper_figures.py` to regenerate them. The visual conventions follow [figures4papers](https://github.com/ChenLiu-1996/figures4papers).
 
 ## What is here
 
