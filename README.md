@@ -13,6 +13,16 @@
 
 [Explore the static site](https://martaforjaz.github.io/metagenomic-binning-benchmark-atlas/) · [Technical report (PDF)](docs/technical_report.pdf) · [Report (Markdown)](docs/technical_report.md) · [Catalog CSV](data/curated/datasets.csv) · [Scoping review](docs/review.md) · [Publication status](docs/publication.md)
 
+## Follow a catalog field to its evidence
+
+**Example: the AMBER publication DOI, `10.1093/gigascience/giy069`.**
+
+1. **Publication.** Open the [AMBER paper via its DOI](https://doi.org/10.1093/gigascience/giy069).
+2. **Catalog.** Find the `amber` row in [studies.csv](data/curated/studies.csv). Its `doi` points to the paper, and its `source_id`, `src-amber`, joins to [sources.csv](data/curated/sources.csv), which records the authors' repository documentation at a specific commit.
+3. **Check.** Run `python -m pytest tests/test_atlas.py -k citations_have_traceable_primary_evidence -q` in the project environment. The [test](tests/test_atlas.py) checks that the DOI is in the [bibliography](bibliography.bib), that the evidence URL includes its pinned commit, and that the retrieval status is recorded as successful.
+
+This check validates the citation and its evidence trail. Historical dataset values in [claims.csv](data/curated/claims.csv) have separate, workbook-cell provenance and retain their historical verification status.
+
 ## Read the evidence correctly
 
 Metadata plots measure presence in the historical workbook, **not missing reporting in papers**. Catalog claims remain historically unverified with field-level provenance. All historical ground-truth statuses are not extracted; they do not mean truth is absent. Reported reuse edges are not newly verified study relationships. The literature review is bounded and repository-assisted: full-text/supplement review and external archive access are incomplete. No global ranking is produced.
